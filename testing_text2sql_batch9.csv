@@ -1,0 +1,40 @@
+No,Question,Answer,Status
+1,Kapan Pasal 40 UU Nomor 11 Tahun 2008 terakhir kali diamandemen?,"Jawaban: Pasal 40 UU Nomor 11 Tahun 2008 terakhir kali diamandemen oleh UU Nomor, amendment_number, amendment_year, amendment_title.
+
+Referensi: article_number = 40, amendment_number, amendment_year, amendment_title",Sukses
+2,Berapa banyak pasal yang terdapat di UU Nomor 27 Tahun 2022?,"Jawaban: Undang-Undang Nomor 27 Tahun 2022 terdiri dari 76 pasal.
+
+Referensi: count = 76",Sukses
+3,"Sebutkan 5 (lima) judul regulasi di bidang teknologi informasi terbaru yang diterbitkan oleh instansi ""Kementerian Komunikasi dan Informatika""","Jawaban:
+Lima regulasi di bidang teknologi informasi terbaru yang diterbitkan oleh Kementerian Komunikasi dan Informatika adalah:
+
+1.  Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2024 tentang Tata Cara Seleksi Pengguna Pita Frekuensi Radio.
+2.  Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2024 tentang PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN BIDANG KOMUNIKASI DAN INFORMATIKA.
+3.  Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2024 tentang Sertifikasi Alat Telekomunikasi dan/atau Perangkat Telekomunikasi.
+4.  Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2022 tentang Kebijakan Umum Penyelenggaraan Audit Teknologi Informasi dan Komunikasi.
+5.  Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2021 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi.
+
+Referensi:
+Kolom title dan issue\_date dari seluruh data.",Sukses
+4,Pasal mana saja dari UU Nomor 11 Tahun 2008 yang sudah tidak berlaku setelah diamandemen oleh UU Nomor 19 Tahun 2016?,"Karena tidak ada data yang diberikan, saya tidak dapat menjawab pertanyaan mengenai pasal-pasal UU Nomor 11 Tahun 2008 yang sudah tidak berlaku setelah diamandemen oleh UU Nomor 19 Tahun 2016.",Sukses
+5,"Apa definisi ""Penyelenggaraan Jasa Telekomunikasi"" menurut Pasal 1 PERMENKOMINFO Nomor 5 Tahun 2021?","Jawaban: Penyelenggaraan Jasa Telekomunikasi adalah kegiatan penyediaan dan/atau pelayanan Jasa Telekomunikasi yang memungkinkan terselenggaranya Telekomunikasi.
+
+Referensi: Penyelenggaraan Jasa Telekomunikasi adalah kegiatan penyediaan dan/atau pelayanan Jasa Telekomunikasi yang memungkinkan terselenggaranya Telekomunikasi.",Sukses
+6,Apa hubungan antara Pasal 35 dan Pasal 37 di UU nomor 11 tahun 2008?,"Karena tidak ada data yang diberikan, saya tidak dapat menjawab pertanyaan mengenai hubungan antara Pasal 35 dan Pasal 37 di UU nomor 11 tahun 2008.",Sukses
+7,Apa hubungan antara Pasal 40 UU Nomor 19 Tahun 2016 dengan Pasal 40 UU nomor 11 tahun 2008?,"Jawaban: Pasal 40 Undang-Undang Nomor 19 Tahun 2016 mengubah Pasal 40 Undang-Undang Nomor 11 Tahun 2008.
+
+Referensi: relation_type: ('mengubah',)",Sukses
+8,Sebutkan semua judul regulasi yang mengatur tentang persyaratan teknis untuk telekomunikasi jarak dekat.,"Jawaban: Peraturan Menteri Komunikasi dan Informatika Nomor 35 Tahun 2015 mengatur tentang persyaratan teknis alat dan perangkat telekomunikasi jarak dekat.
+
+Referensi: Peraturan Menteri Komunikasi dan Informatika Nomor 35 Tahun 2015 tentang Persyaratan Teknis Alat dan Perangkat Telekomunikasi Jarak Dekat",Sukses
+9,Pasal mana dalam UU Nomor 11 Tahun 2008 yang berkaitan dengan ketentuan penyebaran informasi elektronik?,"Jawaban: Pasal yang berkaitan dengan ketentuan penyebaran informasi elektronik dalam Undang-undang Nomor 11 Tahun 2008 adalah Pasal 27 ayat (1), (2), (3), dan (4).
+
+Referensi:
+Pasal 27
+(1) Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan.
+(2) Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan perjudian.
+(3) Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan penghinaan dan/atau pencemaran nama baik.
+(4) Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan pemerasan dan/atau pengancaman.",Sukses
+10,Regulasi apa yang mengatur tentang penggunaan jaringan internet?,"Jawaban: Belum ada informasi mengenai regulasi yang mengatur tentang penggunaan jaringan internet.
+
+Referensi: Tidak ada.",Sukses

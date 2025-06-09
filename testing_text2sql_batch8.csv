@@ -1,0 +1,108 @@
+No,Question,Answer,Status
+1,"Pasal mana saja (lima) yang paling berpengaruh dalam ekosistem peraturan teknologi informasi Indonesia, berdasarkan banyaknya konsep atau aturan lain yang terhubung padanya?","Jawaban: Lima pasal yang paling berpengaruh berdasarkan jumlah referensi adalah Pasal 100, Pasal 57, Pasal 80, Pasal 95, dan Pasal 52.
+
+Referensi:
+*   Pasal 100 dengan jumlah referensi 38
+*   Pasal 57 dengan jumlah referensi 35
+*   Pasal 80 dengan jumlah referensi 33
+*   Pasal 95 dengan jumlah referensi 25
+*   Pasal 52 dengan jumlah referensi 24",Sukses
+2,Pasal mana saja (sepuluh) yang merupakan 'jembatan' antara kelompok pasal yang berbeda?,"Karena data yang diberikan hanya berisi kolom dan deskripsi kolom, tanpa ada data aktual, maka saya tidak dapat menjawab pertanyaan mengenai pasal mana saja yang merupakan 'jembatan' antara kelompok pasal yang berbeda. Saya membutuhkan data yang berisi teks pasal untuk dapat menganalisis dan memberikan jawaban yang akurat.",Sukses
+3,"Jika saya tertarik dengan Pasal 26 UU Nomor 19 Tahun 2016, pasal-pasal rekomendasi apa saja (sepuluh) yang sebaiknya saya baca?","Jawaban: Pasal-pasal rekomendasi yang sebaiknya Anda baca adalah Pasal dengan ID 200801011502500, 200801011502600, dan 202401001502700.
+
+Referensi: to_article_id: ('200801011502500',), ('200801011502600',), ('202401001502700',)",Sukses
+4,Kelompok peraturan mana saja yang secara erat terkait satu sama lain dan membentuk 'komunitas' regulasi yang berbeda?,"Jawaban:
+Terdapat beberapa kelompok peraturan yang saling terkait erat:
+
+1.  Peraturan Menteri Komunikasi dan Informatika Nomor 11/PER/M.KOMINFO/4/2007 Tahun 2007 tentang Penyediaan Kewajiban Pelayanan Universal Telekomunikasi dan Peraturan Menteri Komunikasi dan Informatika Nomor 38/PER/M.KOMINFO/9/2007 Tahun 2007 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 11/PER/M.KOMINFO/04/2007 tentang Penyediaan Kewajiban Pelayanan Universal Telekomunikasi.
+2.  Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 Tahun 2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet, Peraturan Menteri Komunikasi dan Informatika Nomor 16/PER/M.KOMINFO/10/2010 Tahun 2010 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet, Peraturan Menteri Komunikasi dan Informatika Nomor 29/PER/M.KOMINFO/12/2010 Tahun 2010 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor : 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet, Peraturan Menteri Komunikasi dan Informatika Nomor 24/PER/M.KOMINFO/12/2011 Tahun 2011 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/Per/M.Kominfo/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet, dan Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2017 tentang Perubahan Keempat atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet.
+3.  Peraturan Menteri Komunikasi dan Informatika Nomor 1/PER/M.KOMINFO/1/2010 Tahun 2010 tentang Penyelenggaraan Jaringan Telekomunikasi, Peraturan Menteri Komunikasi dan Informatika Nomor 38 Tahun 2014 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 1/PER/M.KOMINFO/1/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi, dan Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2015 tentang Perubahan Kedua Atas Peraturan Menteri Komunikasi Dan Informatika Nomor : 01/Per/M.Kominfo/01/2010 Tentang Penyelenggaraan Jaringan Telekomunikasi.
+4.  Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi, Peraturan Menteri Komunikasi dan Informatika Nomor 2 Tahun 2020 tentang Perubahan Atas Peraturan Menteri Komunikasi Dan Informatika Nomor 13 Tahun 2019 Tentang Penyelenggaraan Jasa Telekomunikasi, Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2021 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi, dan Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2021 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi.
+5.  Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat dan Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2021 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat.
+6.  Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran dan Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2021 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran.
+7.  Peraturan Pemerintah (PP) Nomor 52 Tahun 2000 tentang Penyelenggaraan Telekomunikasi dan Peraturan Pemerintah (PP) Nomor 46 Tahun 2021 tentang Pos, Telekomunikasi, dan Penyiaran.
+8.  Undang-undang (UU) Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik, Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik, dan Undang-undang (UU) Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik.
+
+Referensi:
+Seluruh data pada kolom regulation\_title\_1, regulation\_title\_2, dan relation\_type.",Sukses
+5,Apa hubungan terdekat antara Pasal 26 UU Nomor 19 Tahun 2016 dengan Pasal 9 UU Nomor 27 Tahun 2022?,"Karena tidak ada data mengenai hubungan antara Pasal 26 UU Nomor 19 Tahun 2016 dengan Pasal 9 UU Nomor 27 Tahun 2022, saya tidak dapat memberikan jawaban yang akurat.",Sukses
+6,"Dari semua peraturan di bidang teknologi informasi, sebutkan semua pasal yang membahas mengenai ""tanda tangan elektronik""","Jawaban: Pasal-pasal yang membahas mengenai ""tanda tangan elektronik"" adalah:
+
+Pasal 1 angka 2, Pasal 8 huruf d angka 2, Pasal 9 huruf b angka 2, Pasal 10 huruf b angka 2 Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2018 tentang Penyelenggaraan Sertifikasi Elektronik.
+
+Pasal 11 huruf f angka 2, Pasal 12 huruf c angka 2 Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2018 tentang Penyelenggaraan Sertifikasi Elektronik.
+
+Pasal 1 angka 2, Pasal 52, Pasal 57 ayat (2) huruf a, ayat (3) huruf e, Pasal 59, Pasal 60, Pasal 61, Pasal 62, Pasal 63, Pasal 64, Pasal 65, Pasal 72 Peraturan Pemerintah (PP) Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik.
+
+Pasal 29 ayat (2), Pasal 49, Pasal 54 Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik.
+
+Pasal 11, Pasal 12, Pasal 14 Undang-undang (UU) Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik.
+
+Pasal 1 angka 9 dan 12 Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik.
+
+Pasal 13, Pasal 13A, Pasal 17 Undang-undang (UU) Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik.
+
+Referensi:
+*   `'201803011500100', '201803011100000', '1', 'BAB I - KETENTUAN UMUM', '1', 'Dalam Peraturan Menteri ini yang dimaksud dengan:\r\n(2) Tanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan, terasosiasi, atau terkait dengan Informasi Elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi.'`
+*   `'201803011500800', '201803011100000', '2', 'BAB II - PENYELENGGARA SERTIFIKASI ELEKTRONIK', '8', 'd. memiliki fasilitas dan peralatan yang berada di wilayah Indonesia sebagai berikut:\r\n\t2. sistem untuk membuat dan mengelola data pembuatan Tanda Tangan Elektronik dan data verifikasi Tanda Tangan Elektronik;'`
+*   `'201803011500900', '201803011100000', '2', 'BAB II - PENYELENGGARA SERTIFIKASI ELEKTRONIK', '9', 'b. memiliki fasilitas dan peralatan yang berada di wilayah Indonesia sebagai berikut:\r\n\t\t2. sistem untuk membuat dan mengelola data pembuatan Tanda Tangan Elektronik dan data verifikasi Tanda Tangan Elektronik;'`
+*   `'201803011501000', '201803011100000', '2', 'BAB II - PENYELENGGARA SERTIFIKASI ELEKTRONIK', '10', 'b. memiliki fasilitas dan peralatan sebagai berikut:\r\n\t2. sistem untuk membuat dan mengelola data pembuatan Tanda Tangan Elektronik dan data verifikasi Tanda Tangan Elektronik;'`
+*   `'201803011501100', '201803011100000', '2', 'BAB II - PENYELENGGARA SERTIFIKASI ELEKTRONIK', '11', 'f. memiliki fasilitas dan peralatan yang berada di wilayah Indonesia sebagai berikut:\r\n\t2. sistem untuk membuat dan mengelola data pembuatan Tanda Tangan Elektronik dan data verifikasi Tanda Tangan Elektronik milik Penyelenggara Sertifikasi Elektronik;'`
+*   `'201803011501200', '201803011100000', '2', 'BAB II - PENYELENGGARA SERTIFIKASI ELEKTRONIK', '12', 'c. memiliki fasilitas dan peralatan yang berada di wilayah Indonesia sebagai berikut:\r\n\t2. sistem untuk membuat dan mengelola pasangan kunci pembuatan Tanda Tangan Elektronik dan verifikasi kunci pada Tanda Tangan Elektronik;'`
+*   `'201902071500100', '201902071100000', '1', 'BAB I - KETENTUAN UMUM', '1', 'Dalam Peraturan Pemerintah ini yang dimaksud dengan:\r\n(22) Tanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan, terasosiasi atau terkait dengan Informasi Elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi.'`
+*   `'201902071505200', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '52', 'Penyelenggara Sertifikasi Elektronik berwenang melakukan:\r\nb. pembuatan, verifikasi, dan validasi terhadap Tanda Tangan Elektronik dan/atau layanan lain yang menggunakan Sertifikat Elektronik.'`
+*   `'201902071505700', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '57', '(2) Layanan sebagaimana dimaksud pada ayat (1) meliputi:\r\na. Tanda Tangan Elektronik; dan/atau\r\nb. layanan lain yang menggunakan Sertifikat Elektronik.'`
+*   `'201902071505900', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '59', '(1) Tanda Tangan Elektronik yang digunakan dalam Transaksi Elektronik dapat dihasilkan melalui berbagai prosedur penandatanganan.'`
+*   `'201902071506000', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '60', '(1) Tanda Tangan Elektronik berfungsi sebagai alat autentikasi dan verifikasi atas:\r\na. identitas Penanda Tangan; dan\r\nb. keutuhan dan keautentikan Informasi Elektronik.'`
+*   `'201902071506100', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '61', '(1) Data Pembuatan Tanda Tangan Elektronik harus secara unik merujuk hanya kepada Penanda Tangan dan dapat digunakan untuk mengidentifikasi Penanda Tangan.'`
+*   `'201902071506200', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '62', '(1) Pada proses penandatanganan harus dilakukan mekanisme untuk memastikan data verifikasi Tanda Tangan Elektronik terkait dengan Data Pembuatan Tanda Tangan Elektronik masih berlaku atau tidak dicabut.'`
+*   `'201902071506300', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '63', '(1) Penanda Tangan dapat menitipkan Data Pembuatan Tanda Tangan Elektroniknya kepada Penyelenggara Sertifikasi Elektronik.'`
+*   `'201902071506400', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '64', '(1) Sebelum Tanda Tangan Elektronik digunakan, Penyelenggara Sertifikasi Elektronik wajib memastikan identifikasi awal Penanda Tangan dengan cara:'`
+*   `'201902071506500', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '65', 'Pengaturan mengenai Tanda Tangan Elektronik berlaku mutatis mutandis terhadap pengaturan segel elektronik.'`
+*   `'201902071506900', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '69', '(2) Layanan pengiriman elektronik tercatat tersertifikasi sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan paling sedikit:\r\nd. pengiriman dan penerimaan data diamankan oleh Tanda Tangan Elektronik dan segel elektronik dari Penyelenggara Sertifikasi Elektronik Indonesia;'`
+*   `'201902071507200', '201902071100000', '5', 'BAB V - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK', '72', '(1) Preservasi Tanda Tangan Elektronik dan/atau segel elektronik terdiri atas:\r\na. preservasi Tanda Tangan Elektronik dan/atau segel elektronik tersertifikasi; dan'`
+*   `'201902080502900', '201902080100000', '7', 'BAB VII - BUKTI TRANSAKSI PERDAGANGAN MELALUI SISTEM ELEKTRONIK', '29', '(2) Bukti transaksi PMSE dapat dijadikan bukti tulisan yang autentik jika menggunakan tanda tangan elektronik yang didukung oleh suatu sertifikat elektronik yang terpercaya sesuai dengan ketentuan peraturan perundangundangan.'`
+*   `'201902080504900', '201902080100000', '9', 'BAB IX - PENAWARAN SECARA ELEKTRONIK, PENERIMAAN SECARA ELEKTRONIK, DAN KONFIRMASI ELEKTRONIK', '49', '(1) PPMSE dalam negeri dan/atau PPMSE luar negeri dapat menggunakan tanda tangan elektronik tersertifikasi yang dibuktikan dengan kepemilikan sertifikat elektronik.'`
+*   `'201902080505400', '201902080100000', '10', 'BAB X - KONTRAK ELEKTRONIK', '54', 'Kontrak Elektronik dapat menggunakan tanda tangan elektronik sebagai tanda persetujuan para pihak sesuai dengan ketentuan peraturan perundang-undangan.'`
+*   `'200801011501100', '200801011100000', '3', 'BAB III - INFORMASI DOKUMEN DAN TANDA TANGAN ELEKTRONIK', '11', '(1) Tanda Tangan Elektronik memiliki kekuatan hukum dan akibat hukum yang sah selama memenuhi persyaratan sebagai berikut:'`
+*   `'200801011501200', '200801011100000', '3', 'BAB III - INFORMASI DOKUMEN DAN TANDA TANGAN ELEKTRONIK', '12', '(1) Setiap Orang yang terlibat dalam Tanda Tangan Elektronik berkewajiban memberikan pengamanan atas Tanda Tangan Elektronik yang digunakannya.'`
+*   `'200801011501400', '200801011100000', '4', 'BAB IV - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK DAN SISTEM ELEKTRONIK', '14', 'Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud dalam Pasal 13 ayat (1) sampai dengan ayat (5) harus menyediakan informasi yang akurat, jelas, dan pasti kepada setiap pengguna jasa, yang meliputi:\r\nc. hal yang dapat digunakan untuk menunjukkan keberlakuan dan keamanan Tanda Tangan Elektronik.'`
+*   `'201601019500100', '201601019100000', '1', 'BAB I - KETENTUAN UMUM', '1', 'Dalam Undang-Undang ini yang dimaksud dengan:\r\n(12) Tanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan, terasosiasi atau terkait dengan Informasi Elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi.'`
+*   `'202401001501300', '202401001100000', '4', 'BAB IV - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK DAN SISTEM ELEKTRONIK', '13', '(1) Setiap Orang berhak menggunakan jasa Penyelenggara Sertifikasi Elektronik untuk pembuatan Tanda Tangan Elektronik.'`
+*   `'202401001501301', '202401001100000', '4', 'BAB IV - PENYELENGGARAAN SERTIFIKASI ELEKTRONIK DAN SISTEM ELEKTRONIK', '13A', '(1) Penyelenggara Sertifikasi Elektronik dapat menyelenggarakan layanan berupa:\r\na. Tanda Tangan Elektronik;\r\nf. preservasi Tanda Tangan Elektronik dan/ atau segel elektronik;'`
+*   `'202401001501700', '202401001100000', '5', 'BAB V - TRANSAKSI ELEKTRONIK', '17', '(2a) Transaksi Elektronik yang memiliki risiko tinggi bagi para pihak menggunakan Tanda Tangan Elektronik yang diamankan dengan Sertifikat Elektronik.'`",Sukses
+7,"Dalam regulasi Nomor 19 Tahun 2016, sebutkan isi dari Pasal 27","Jawaban: Tidak ada data mengenai isi Pasal 27 dalam regulasi Nomor 19 Tahun 2016.
+
+Referensi: Tidak ada data yang relevan.",Sukses
+8,Peraturan bidang teknologi Informasi apa saja (lima) yang memiliki perubahan (amandemen) paling banyak?,"Jawaban:
+Peraturan bidang teknologi informasi yang memiliki perubahan paling banyak adalah:
+
+1.  Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2017 tentang Perubahan Keempat atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet (4 amandemen).
+2.  Peraturan Menteri Komunikasi dan Informatika Nomor 24/PER/M.KOMINFO/12/2011 Tahun 2011 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 26/Per/M.Kominfo/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet (3 amandemen).
+3.  Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2021 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi (3 amandemen).
+4.  Undang-undang (UU) Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (2 amandemen).
+5.  Peraturan Menteri Komunikasi dan Informatika Nomor 29/PER/M.KOMINFO/12/2010 Tahun 2010 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor : 26/PER/M.KOMINFO/5/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet (2 amandemen).
+
+Referensi: id, title, amendment\_count dari setiap data yang diberikan.",Sukses
+9,Sebutkan semua judul regulasi di bidang teknologi informasi yang diterbitkan pada tahun 2016.,"Jawaban:
+Regulasi di bidang teknologi informasi yang diterbitkan pada tahun 2016 meliputi:
+
+*   Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2016 tentang Sistem Manajemen Pengamanan Informasi
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2016 tentang Uji Coba Teknologi Telekomunikasi, Informatika, Dan Penyiaran
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2016 tentang Hasil Pemetaan Urusan Pemerintahan Daerah di Bidang Komunikasi dan Informatika
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2016 tentang Pedoman Nomenklatur Perangkat Daerah Bidang Komunikasi dan Informatika
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2016 tentang Perlindungan Data Pribadi Dalam Sistem Elektronik
+
+Referensi:
+*   Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2016 tentang Sistem Manajemen Pengamanan Informasi
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2016 tentang Uji Coba Teknologi Telekomunikasi, Informatika, Dan Penyiaran
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2016 tentang Hasil Pemetaan Urusan Pemerintahan Daerah di Bidang Komunikasi dan Informatika
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2016 tentang Pedoman Nomenklatur Perangkat Daerah Bidang Komunikasi dan Informatika
+*   Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2016 tentang Perlindungan Data Pribadi Dalam Sistem Elektronik",Sukses
+10,"Dari seluruh regulasi yang membahas ""sistem elektronik"", regulasi mana yang paling baru diterbitkan?","Jawaban: Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2021 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat.
+
+Referensi: issue_date = datetime.date(2021, 5, 21)",Sukses
