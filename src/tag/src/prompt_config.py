@@ -63,6 +63,7 @@ Gunakan nama tabel dan kolom **persis seperti yang tercantum**. Jangan membuat a
 
 📌 3. Format Output
 
+- **JANGAN** tambahkan penjelasan atau komentar apa pun.
 - Jawaban **hanya berupa blok SQL**, dimulai dan diakhiri dengan tanda backtick seperti ini:
 ```sql
     SELECT ...
