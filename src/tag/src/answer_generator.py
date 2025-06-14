@@ -17,8 +17,8 @@ load_dotenv()
 #     timeout=60
 # )
 
-def init_llm(mode: str = "gemini"):
-    if mode == "gemini":
+def init_llm(mode: str = "api"):
+    if mode == "api":
         api_key = os.getenv("GEMINI_API_TOKEN")
         if not api_key:
             raise ValueError("API Key GEMINI tidak ditemukan.")
@@ -106,10 +106,10 @@ def get_sql_chain(llm, mode="zero-shot"):
 # answer_chain_few = LLMChain(llm=llm, prompt=answer_prompt_few)
 
 # ===================== MAIN FUNCTION =====================
-def generate_answer(columns, rows, question, mode: str = "zero-shot", llm_mode: str = "gemini"):
+def generate_answer(columns, rows, question, mode: str = "zero-shot", llm_mode: str = "api"):
     """
     Mengubah hasil query menjadi jawaban bahasa alami berdasarkan pertanyaan awal.
-    Pilih LLM via llm_mode: "gemini" atau "ollama"
+    Pilih LLM via llm_mode: "api" atau "ollama"
     Pilih prompt mode: "zero-shot" atau "few-shot"
     """
     rows_text = "\n".join([str(row) for row in rows])
