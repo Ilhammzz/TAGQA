@@ -17,8 +17,8 @@ load_dotenv()
 #     timeout=60
 # )
 
-def init_llm(mode: str = "api"):
-    if mode == "api":
+def init_llm(mode: str = "gemini"):
+    if mode == "gemini":
         api_key = os.getenv("GEMINI_API_TOKEN")
         if not api_key:
             raise ValueError("API Key GEMINI tidak ditemukan.")
@@ -79,7 +79,7 @@ Gunakan petunjuk berikut:
 
 Format jawaban yang harus kamu berikan:
 
-Jawaban: [Tuliskan jawaban alami yang menjawab pertanyaan secara lengkap]
+[Tuliskan jawaban alami yang menjawab pertanyaan secara lengkap]
 
 Referensi: [Tuliskan referensi pasal, isi pasal, atau bagian dari data yang relevan sebagai sumber jawaban]
 """
@@ -106,10 +106,10 @@ def get_sql_chain(llm, mode="zero-shot"):
 # answer_chain_few = LLMChain(llm=llm, prompt=answer_prompt_few)
 
 # ===================== MAIN FUNCTION =====================
-def generate_answer(columns, rows, question, mode: str = "zero-shot", llm_mode: str = "api"):
+def generate_answer(columns, rows, question, mode: str = "few-shot", llm_mode: str = "gemini"):
     """
     Mengubah hasil query menjadi jawaban bahasa alami berdasarkan pertanyaan awal.
-    Pilih LLM via llm_mode: "api" atau "ollama"
+    Pilih LLM via llm_mode: "gemini" atau "ollama"
     Pilih prompt mode: "zero-shot" atau "few-shot"
     """
     rows_text = "\n".join([str(row) for row in rows])
