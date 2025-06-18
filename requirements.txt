@@ -24,9 +24,10 @@ pandas==2.2.3
 selenium==4.28.1
 dateparser==1.2.0
 
-torch==2.2.2 --index-url https://download.pytorch.org/whl/cu124
-torchvision==0.17.2 --index-url https://download.pytorch.org/whl/cu124
-torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu124
+#torch
+torch==2.3.0 --index-url https://download.pytorch.org/whl/cu124
+torchvision==0.18.0 --index-url https://download.pytorch.org/whl/cu124
+torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu124
 
 ragas==0.2.14
 rouge-score==0.1.2
