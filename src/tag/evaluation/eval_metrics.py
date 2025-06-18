@@ -380,7 +380,7 @@ def evaluate_text_generation(
             RougeScore(rouge_type="rougeL", mode="precision", name="rougeL_precision"),
             RougeScore(rouge_type="rougeL", mode="recall", name="rougeL_recall"),
             RougeScore(rouge_type="rougeL", mode="fmeasure", name="rougeL_fmeasure"),
-            ResponseRelevancy(strictness=1),
+            ResponseRelevancy(),
             Faithfulness(),
         ],
         llm=LangchainLLMWrapper(llm_model, run_config=run_config),
