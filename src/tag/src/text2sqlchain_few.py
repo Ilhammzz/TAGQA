@@ -126,7 +126,7 @@ examples = [
   },
   {
     "question": "Kapan (tanggal) Pasal 40 UU Nomor 11 Tahun 2008 terakhir kali diamandemen?",
-    "answer": "\"\"\" ```sql\nselect afrom.article_number, rfrom.issue_date , rfrom.title from article_relations ar join articles afrom on ar.from_article_id = afrom.id join articles ato on ar.to_article_id = ato.id\njoin regulations rfrom on afrom.regulation_id = rfrom.id join regulations rto on ato.regulation_id = rto.id\nwhere rto.short_type = 'UU' and rto.number = '11' and rto.year = 2008\nand ar.relation_type ilike '%mengubah%' and ato.article_number = '40'\norder by rfrom.issue_date desc \nlimit 1;\n``` \"\"\""
+    "answer": "\"\"\" ```sql\select rfrom.issue_date\n from article_relations ar join articles afrom on ar.from_article_id = afrom.id join articles ato on ar.to_article_id = ato.id\n join regulations rfrom on afrom.regulation_id = rfrom.id join regulations rto on ato.regulation_id = rto.id\n where rto.short_type = 'UU' and rto.number = '11' and rto.year = 2008\n and ar.relation_type ilike '%mengubah%' and ato.article_number = '40'\n order by rfrom.issue_date desc \n limit 1;\n``` \"\"\""
   },
   {
     "question": "Pasal mana saja yang diamandemen oleh UU No. 19 Tahun 2016?",
@@ -150,7 +150,7 @@ def build_selector(examples):
         examples,
         embedding_model,
         Chroma,
-        k=2
+        k=5
     )
     
 def make_prompt(selector):
