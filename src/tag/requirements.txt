@@ -33,3 +33,6 @@ jupyterlab==4.1.6
 chainlit==2.5.5
 
 huggingface-hub==0.25.2
+
+matplotlib==3.10.3
+rapidfuzz==3.13.0

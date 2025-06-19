@@ -80,3 +80,32 @@ Pertanyaan: {input}
 
 # Prompt untuk tiap contoh
 example_prompt = PromptTemplate.from_template("Pertanyaan: {question}\n{answer}")
+
+
+# ===================== PROMPT TEMPLATE ANSWER GENERATOR =====================
+ANSWER_GENERATOR_INSTRUCTION = """Kamu adalah asisten ahli hukum Indonesia.
+
+{few_shot_section}
+
+Berikut adalah hasil data dari query database:
+Kolom-kolom: {columns}
+Data: {rows}
+
+Jawablah pertanyaan berikut dengan bahasa Indonesia yang alami, profesional, dan akurat:
+{question}
+
+Gunakan petunjuk berikut:
+- Jangan mengulang isi data, cukup sebutkan jawaban yang ditanyakan.
+- Jangan menambahkan narasi pembuka seperti "berdasarkan data", "terdapat dalam database", atau "dari hasil query".
+- Jika dalam data ditemukan referensi tidak eksplisit seperti "peraturan ini", gantilah dengan nama peraturan lengkap dari kolom "title", "number", "year", dan "short_type".
+    Contoh: ubah "peraturan ini" menjadi "Peraturan Pemerintah Nomor 71 Tahun 2019".
+- Jawaban harus berdasarkan data di atas, dan tidak boleh menambahkan informasi umum yang tidak ada di data.
+- Jika data terdiri dari beberapa item, sebutkan semuanya sesuai pertanyaan.
+- Gunakan bahasa Indonesia formal,  lugas, dan padat sesuai gaya tulisan hukum.
+
+Format jawaban yang harus kamu berikan:
+
+[Tuliskan jawaban alami yang menjawab pertanyaan secara lengkap]
+"""
+
+

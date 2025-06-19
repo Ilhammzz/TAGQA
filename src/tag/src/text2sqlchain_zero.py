@@ -1,9 +1,8 @@
+import os, sys
+sys.path.append(os.path.dirname(__file__))
 from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from init_llm import init_llm
-from dotenv import load_dotenv
-import os, sys
-sys.path.append(os.path.dirname(__file__))
 from prompt_config import TAG_INSTRUCTION, PROMPT_SUFFIX_ID
 
 # Zero-shot prompt
