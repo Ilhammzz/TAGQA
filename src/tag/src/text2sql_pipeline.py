@@ -1,9 +1,10 @@
 from langchain.chains import LLMChain
 import os, sys
 sys.path.append(os.path.dirname(__file__))
-from text2sqlchain_zero import POSTGRES_PROMPT_ZERO, init_llm
+from text2sqlchain_zero import POSTGRES_PROMPT_ZERO
 from text2sqlchain_few import get_prompt_by_intent, build_selectors_by_intent, detect_intent
 from prompt_config import TAG_INSTRUCTION, PROMPT_SUFFIX_ID
+from init_llm import init_llm
 
 
 selectors = build_selectors_by_intent()

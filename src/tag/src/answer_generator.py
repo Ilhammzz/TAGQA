@@ -4,38 +4,9 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_ollama import ChatOllama
 import os
 from dotenv import load_dotenv
+from init_llm import init_llm
 
 load_dotenv()
-
-# Inisialisasi LLM
-# llm = ChatGoogleGenerativeAI(
-#     model="gemini-2.0-flash",
-#     temperature=0.0,
-#     top_p=1,
-#     google_api_key=os.getenv("GEMINI_API_TOKEN"),
-#     credentials=None,
-#     timeout=60
-# )
-
-def init_llm(mode: str = "gemini"):
-    if mode == "gemini":
-        api_key = os.getenv("GEMINI_API_TOKEN")
-        if not api_key:
-            raise ValueError("API Key GEMINI tidak ditemukan.")
-        return ChatGoogleGenerativeAI(
-            model="gemini-2.0-flash",
-            temperature=0.0,
-            top_p=1,
-            google_api_key=api_key,
-            timeout=60
-        )
-    elif mode == "ollama":
-        try:
-            return ChatOllama(model="llama3.1:8b-instruct-q4_K_M")
-        except Exception as e:
-            raise RuntimeError(f"Model tidak ditemukan: {e}")
-    else:
-        raise ValueError("Mode LLM tidak dikenali. Gunakan 'gemini' atau 'ollama'.")
 
 
 # ===================== FEW SHOT EXAMPLES =====================
