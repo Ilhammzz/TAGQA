@@ -2,7 +2,7 @@ import os
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_ollama import ChatOllama
 from langchain_anthropic import ChatAnthropic
-from google.colab import userdata
+# from google.colab import userdata
 
 def init_llm(mode: str = "claude"):
     if mode == "claude":
@@ -17,7 +17,7 @@ def init_llm(mode: str = "claude"):
             timeout=None
         )
     elif mode == "evaluator":
-        api_key = userdata.get("GOOGLE_API_KEY")
+        api_key = os.getenv("GOOGLE_API_KEY")
         if not api_key:
             raise ValueError("API Key untuk evaluator tidak ditemukan.")
         return ChatGoogleGenerativeAI(
