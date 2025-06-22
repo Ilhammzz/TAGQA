@@ -1,6 +1,6 @@
 from langchain_core.prompts import FewShotPromptTemplate
-from langchain.chains import LLMChain
-from langchain_community.embeddings import OllamaEmbeddings
+from langchain_core.runnables import RunnableSequence
+from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.example_selectors import SemanticSimilarityExampleSelector
 from collections import defaultdict
@@ -10,7 +10,7 @@ from prompt_config import TAG_INSTRUCTION, PROMPT_SUFFIX_ID, example_prompt
 
       
 # ======================= EMBEDDING MODEL ========================
-embedding_model = OllamaEmbeddings(model="nomic-embed-text")
+embedding_model = OllamaEmbeddings(model="jeffh/intfloat-multilingual-e5-large-instruct:q8_0")
 
 # ======================= INTENT DETECTION ========================
 def detect_intent(question: str) -> str:
@@ -23,9 +23,9 @@ def detect_intent(question: str) -> str:
         return "regulation"
     elif any(x in q for x in ["tahun", "terbit", "kapan"]):
         return "date"
-    elif any(x in q for x in ["mengubah", "diubah", "diamandemen"]):
+    elif any(x in q for x in ["mengubah", "diubah", "amandemen"]):
         return "regulation_relations"
-    elif "merujuk" in q or "dirujuk" in q:
+    elif any(x in q for x in ["merujuk", "dirujuk", "sebelumnya", "berikutnya"]):
         return "article_relations"
     else:
         return "general"
@@ -142,6 +142,8 @@ examples = [
   }
 ]
 
+# examples["answer"] = examples["answer"].replace("\n", " ")
+
 # ======================= EXAMPLE SELECTOR ========================
 
 # BUILD SELECTOR
@@ -193,5 +195,10 @@ def get_prompt_by_intent(intent: str, selectors: dict) -> FewShotPromptTemplate:
 def get_sql_chain(llm, question, selectors):
     intent = detect_intent(question)
     prompt = get_prompt_by_intent(intent, selectors)
-    return LLMChain(llm=llm, prompt=prompt)
+    
+    chain = prompt | llm
+    if hasattr(chain, "content"):
+        return chain.content.strip()
+    else:
+        return str(chain).strip()
   

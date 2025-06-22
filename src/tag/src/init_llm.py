@@ -17,7 +17,7 @@ def init_llm(mode: str = "claude"):
             timeout=None
         )
     elif mode == "evaluator":
-        api_key = os.getenv("GOOGLE_API_KEY")
+        api_key = os.getenv("GEMINI_API_TOKEN")
         if not api_key:
             raise ValueError("API Key untuk evaluator tidak ditemukan.")
         return ChatGoogleGenerativeAI(

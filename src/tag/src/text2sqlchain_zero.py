@@ -12,12 +12,11 @@ POSTGRES_PROMPT_ZERO = PromptTemplate(
 )
 
 
-def get_sql_chain(llm):
-    return LLMChain(llm=llm, prompt=POSTGRES_PROMPT_ZERO)
+prompt = POSTGRES_PROMPT_ZERO
 
 
 # ============================ GENERATE SQL ============================
-def generate_sql(schema: str, question: str, top_k: int = 100, llm_mode: str = "gemini") -> str:
+def generate_sql(schema: str, question: str, top_k: int = 100, llm_mode: str = "claude") -> str:
     """
     Generate SQL query dari pertanyaan pengguna.
 
@@ -25,13 +24,19 @@ def generate_sql(schema: str, question: str, top_k: int = 100, llm_mode: str = "
         schema (str): Informasi struktur tabel.
         question (str): Pertanyaan hukum dari user.
         top_k (int): Batas maksimum hasil.
-        llm_mode (str): 'gemini' atau 'ollama'
+        llm_mode (str): 'claude' atau 'ollama'
     """
     llm = init_llm(llm_mode)
-    chain = get_sql_chain(llm)
+
     inputs = {
         "input": question,
         "table_info": schema,
         "top_k": top_k
     }
-    return chain.run(inputs).strip()
+    
+    chain = prompt | llm
+    result = chain.invoke(inputs)
+    if hasattr(result, "content"):
+        return result.content.strip()
+    else:
+        return str(result).strip()

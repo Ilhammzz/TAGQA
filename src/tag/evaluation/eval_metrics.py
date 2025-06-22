@@ -4,8 +4,6 @@ import string
 import warnings
 from ast import literal_eval
 from typing import Dict, List, Set, Tuple, Union
-
-import numpy as np
 from langchain_core.callbacks import Callbacks
 from langchain_core.embeddings import Embeddings
 from langchain_core.language_models import BaseLanguageModel
@@ -140,9 +138,7 @@ class NonLLMContextPrecisionMod(NonLLMContextPrecisionWithReference):
     """
     Standard context precision metric.
     """
-
     name: str = "standard_precision"
-    threshold: float = 0.5
 
     async def _single_turn_ascore(
         self, sample: SingleTurnSample, callbacks: Callbacks
@@ -168,12 +164,6 @@ class NonLLMContextPrecisionMod(NonLLMContextPrecisionWithReference):
         retrieved_contexts = process_data(retrieved_contexts)
         reference_contexts = process_data(reference_contexts)
 
-        overal_similarity = 0.5 * self.distance_measure.single_turn_score(
-            SingleTurnSample(
-                reference=str(retrieved_contexts), response=str(reference_contexts)
-            )
-        )
-
         scores = []
         for rc in retrieved_contexts:
             scores.append(
@@ -182,8 +172,6 @@ class NonLLMContextPrecisionMod(NonLLMContextPrecisionWithReference):
                         await self.distance_measure.single_turn_ascore(
                             SingleTurnSample(reference=rc, response=ref), callbacks
                         )
-                        * 0.5
-                        + overal_similarity
                         for ref in reference_contexts
                     ]
                 )
@@ -239,12 +227,6 @@ class NonLLMContextRecallMod(NonLLMContextRecall):
         retrieved_contexts = process_data(retrieved_contexts)
         reference_contexts = process_data(reference_contexts)
 
-        overal_similarity = 0.5 * self.distance_measure.single_turn_score(
-            SingleTurnSample(
-                reference=str(retrieved_contexts), response=str(reference_contexts)
-            )
-        )
-
         scores = []
         for ref in reference_contexts:
             scores.append(
@@ -253,29 +235,11 @@ class NonLLMContextRecallMod(NonLLMContextRecall):
                         await self.distance_measure.single_turn_ascore(
                             SingleTurnSample(reference=rc, response=ref), callbacks
                         )
-                        * 0.5
-                        + overal_similarity
                         for rc in retrieved_contexts
                     ]
                 )
             )
         return self._compute_score(scores)
-
-    def _compute_score(self, verdict_list: List[float]) -> float:
-        """
-        Calculate standard recall from list of binary relevancy.
-
-        Args:
-            verdict_list (List[int]): A list of binary relevancy (0 or 1).
-
-        Returns:
-            score (float): The calculated standard precision.
-        """
-        response = [1 if score >= self.threshold else 0 for score in verdict_list]
-        denom = len(response)
-        numerator = sum(response)
-        score = numerator / denom if denom > 0 else np.nan
-        return score
 
 
 class ToolCallAccuracyMod(ToolCallAccuracy):
@@ -339,10 +303,10 @@ def evaluate_retriever(
         dataset=evaluation_dataset,
         metrics=[
             NonLLMContextPrecisionMod(
-                name="precision", distance_measure=JaccardSimilarity()
+                name="precision", threshold=0.8, distance_measure=JaccardSimilarity()
             ),
             NonLLMContextRecallMod(
-                name="recall", _distance_measure=JaccardSimilarity()
+                name="recall", threshold=0.8, _distance_measure=JaccardSimilarity()
             ),
         ],
         experiment_name=experiment_name,
@@ -374,9 +338,6 @@ def evaluate_text_generation(
     return evaluate(
         dataset=evaluation_dataset,
         metrics=[
-            RougeScore(rouge_type="rouge1", mode="precision", name="rouge1_precision"),
-            RougeScore(rouge_type="rouge1", mode="recall", name="rouge1_recall"),
-            RougeScore(rouge_type="rouge1", mode="fmeasure", name="rouge1_fmeasure"),
             RougeScore(rouge_type="rougeL", mode="precision", name="rougeL_precision"),
             RougeScore(rouge_type="rougeL", mode="recall", name="rougeL_recall"),
             RougeScore(rouge_type="rougeL", mode="fmeasure", name="rougeL_fmeasure"),
@@ -417,23 +378,32 @@ def evaluate_end_to_end_graph_rag(
     """
     single_turn_evaluation_dataset, multi_turn_evaluation_dataset = evaluation_dataset
 
+    # ToolCallAccuracy (need multi turn evaluation dataset)
+    if multi_turn_evaluation_dataset:
+        multi_turn_evaluation_result = evaluate(
+            dataset=multi_turn_evaluation_dataset,
+            metrics=[
+                ToolCallAccuracyMod(arg_comparison_metric=SkipArgsValueComparison())
+            ],
+            experiment_name=experiment_name + "_multi_turn",
+        )
+    else:
+        multi_turn_evaluation_result = None
+
     # General metric evaluation (need single turn evaluation dataset)
     single_turn_evaluation_result = evaluate(
         dataset=single_turn_evaluation_dataset,
         metrics=[
             NonLLMContextPrecisionMod(
-                name="precision", distance_measure=JaccardSimilarity()
+                name="precision", threshold=0.8, distance_measure=JaccardSimilarity()
             ),
             NonLLMContextRecallMod(
-                name="recall", _distance_measure=JaccardSimilarity()
+                name="recall", threshold=0.8, _distance_measure=JaccardSimilarity()
             ),
-            RougeScore(rouge_type="rouge1", mode="precision", name="rouge1_precision"),
-            RougeScore(rouge_type="rouge1", mode="recall", name="rouge1_recall"),
-            RougeScore(rouge_type="rouge1", mode="fmeasure", name="rouge1_fmeasure"),
             RougeScore(rouge_type="rougeL", mode="precision", name="rougeL_precision"),
             RougeScore(rouge_type="rougeL", mode="recall", name="rougeL_recall"),
             RougeScore(rouge_type="rougeL", mode="fmeasure", name="rougeL_fmeasure"),
-            ResponseRelevancy(strictness=1),
+            ResponseRelevancy(),
             Faithfulness(),
         ],
         llm=LangchainLLMWrapper(llm_model, run_config=run_config),
@@ -441,15 +411,5 @@ def evaluate_end_to_end_graph_rag(
         experiment_name=experiment_name + "_single_turn",
         run_config=run_config,
     )
-
-    # ToolCallAccuracy (need multi turn evaluation dataset)
-    if multi_turn_evaluation_dataset:
-        multi_turn_evaluation_result = evaluate(
-            dataset=multi_turn_evaluation_dataset,
-            metrics=[ToolCallAccuracyMod(arg_comparison_metric=SkipArgsValueComparison())],
-            experiment_name=experiment_name + "_multi_turn",
-        )
-    else:
-        multi_turn_evaluation_result = None
 
     return (single_turn_evaluation_result, multi_turn_evaluation_result)
