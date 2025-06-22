@@ -1,7 +1,6 @@
 import os, sys
 sys.path.append(os.path.dirname(__file__))
 from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
 from dotenv import load_dotenv
 from init_llm import init_llm
 from prompt_config import ANSWER_GENERATOR_INSTRUCTION
@@ -42,22 +41,29 @@ answer_prompt_few = PromptTemplate(
 )
 
 
-def get_sql_chain(llm, mode="zero-shot"):
-    prompt = answer_prompt_few if mode == "few-shot" else answer_prompt_zero
-    return LLMChain(llm=llm, prompt=prompt)
-
-
 # ===================== MAIN FUNCTION =====================
-def generate_answer(columns, rows, question, mode: str = "few-shot", llm_mode: str = "gemini"):
+def generate_answer(columns, rows, question, mode: str = "few-shot", llm_mode: str = "claude"):
     """
-    Mengubah hasil query menjadi jawaban bahasa alami berdasarkan pertanyaan awal.
-    Pilih LLM via llm_mode: "gemini" atau "ollama"
+    Pilih hasil query kemudian susun menjadi jawaban bahasa alami berdasarkan pertanyaan user.
+    Pilih LLM via llm_mode: "claude" atau "ollama"
     Pilih prompt mode: "zero-shot" atau "few-shot"
     """
     rows_text = "\n".join([str(row) for row in rows])
     columns_text = ", ".join(columns)
 
     llm = init_llm(llm_mode)
-    chain = get_sql_chain(llm, mode=mode)
+    prompt = answer_prompt_few if mode == "few-shot" else answer_prompt_zero
+    inputs = {
+        "columns": columns_text,
+        "rows": rows_text,
+        "question": question
+    }
+    
+    chain = prompt | llm
+    result = chain.invoke(inputs)
 
-    return chain.run(columns=columns_text, rows=rows_text, question=question).strip()
+    if hasattr(result, "content"):
+        return result.content.strip()
+    else:
+        return str(result).strip()
+
