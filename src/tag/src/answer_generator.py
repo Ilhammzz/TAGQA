@@ -16,7 +16,6 @@ Data: [('3', 'Setiap orang dilarang melakukan akses tanpa hak terhadap sistem el
 
 Pertanyaan: Apa isi dari Pasal 3?
 Jawaban: Setiap orang dilarang melakukan akses tanpa hak terhadap sistem elektronik milik orang lain.
-Referensi: Pasal 3 - Setiap orang dilarang melakukan akses tanpa hak terhadap sistem elektronik milik orang lain.
 
 Contoh 2:
 Kolom-kolom: name, definition
@@ -24,7 +23,6 @@ Data: [('Tanda Tangan Elektronik', 'Tanda Tangan Elektronik adalah tanda tangan 
 
 Pertanyaan: Apa itu Tanda Tangan Elektronik?
 Jawaban: Tanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan pada Informasi Elektronik lainnya sebagai alat verifikasi dan autentikasi.
-Referensi: Definisi Tanda Tangan Elektronik
 """
 
 
@@ -48,8 +46,8 @@ def generate_answer(columns, rows, question, mode: str = "few-shot", llm_mode: s
     Pilih LLM via llm_mode: "claude" atau "ollama"
     Pilih prompt mode: "zero-shot" atau "few-shot"
     """
-    rows_text = "\n".join([str(row) for row in rows])
-    columns_text = ", ".join(columns)
+    rows_text = "\n".join([f"| {' | '.join(map(str, row))} |" for row in rows])
+    columns_text = f"| {' | '.join(columns)} |"
 
     llm = init_llm(llm_mode)
     prompt = answer_prompt_few if mode == "few-shot" else answer_prompt_zero

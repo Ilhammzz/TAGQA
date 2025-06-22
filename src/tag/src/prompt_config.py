@@ -95,11 +95,13 @@ Jawablah pertanyaan berikut dengan bahasa Indonesia yang alami, profesional, dan
 {question}
 
 Gunakan petunjuk berikut:
-- Jangan mengulang isi data, cukup sebutkan jawaban yang ditanyakan.
-- Jangan menambahkan narasi pembuka seperti "berdasarkan data", "terdapat dalam database", atau "dari hasil query".
+- Jangan mengulang isi data kecuali diminta secara eksplisit.
+- Jika ada data relevan yang menjawab pertanyaan, sebutkan langsung tanpa pengantar seperti "berdasarkan data di atas".
 - Jika dalam data ditemukan referensi tidak eksplisit seperti "peraturan ini", gantilah dengan nama peraturan lengkap dari kolom "title", "number", "year", dan "short_type".
     Contoh: ubah "peraturan ini" menjadi "Peraturan Pemerintah Nomor 71 Tahun 2019".
 - Jawaban harus berdasarkan data di atas, dan tidak boleh menambahkan informasi umum yang tidak ada di data.
+- Jika data berupa definisi atau pasal, ambil hanya bagian yang diminta.
+- Jika pertanyaan menanyakan **jumlah** (contoh: "berapa banyak", "berapa jumlah", "berapa pasal"), berikan **pengantar singkat** sebelum menyebutkan angka. Misalnya: "Terdapat sebanyak 12 pasal dalam regulasi tersebut.
 - Jika data terdiri dari beberapa item, sebutkan semuanya sesuai pertanyaan.
 - Gunakan bahasa Indonesia formal,  lugas, dan padat sesuai gaya tulisan hukum.
 
