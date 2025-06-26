@@ -17,6 +17,8 @@ from ragas.metrics import (
     ResponseRelevancy,
     RougeScore,
     ToolCallAccuracy,
+    AnswerAccuracy,
+    AnswerCorrectness
 )
 from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
@@ -351,13 +353,13 @@ def evaluate_text_generation(
     )
 
 
-def evaluate_end_to_end_graph_rag(
-    evaluation_dataset: Tuple[EvaluationDataset, Union[EvaluationDataset, None]],
+def evaluate_end_to_end_tag(
+    evaluation_dataset: EvaluationDataset,
     *,
     llm_model: BaseLanguageModel,
     embedding_model: Embeddings,
     experiment_name: str
-) -> Tuple[EvaluationResult, Union[EvaluationResult, None]]:
+): 
     """
     Evaluates the end-to-end RAG performance, incorporating both retriever and
     generator metrics.
@@ -376,23 +378,10 @@ def evaluate_end_to_end_graph_rag(
             multi_turn_evaluation_result will be None if the multi_turn_evaluation_dataset
             is None
     """
-    single_turn_evaluation_dataset, multi_turn_evaluation_dataset = evaluation_dataset
-
-    # ToolCallAccuracy (need multi turn evaluation dataset)
-    if multi_turn_evaluation_dataset:
-        multi_turn_evaluation_result = evaluate(
-            dataset=multi_turn_evaluation_dataset,
-            metrics=[
-                ToolCallAccuracyMod(arg_comparison_metric=SkipArgsValueComparison())
-            ],
-            experiment_name=experiment_name + "_multi_turn",
-        )
-    else:
-        multi_turn_evaluation_result = None
 
     # General metric evaluation (need single turn evaluation dataset)
-    single_turn_evaluation_result = evaluate(
-        dataset=single_turn_evaluation_dataset,
+    result = evaluate(
+        dataset=evaluation_dataset,
         metrics=[
             NonLLMContextPrecisionMod(
                 name="precision", threshold=0.8, distance_measure=JaccardSimilarity()
@@ -405,6 +394,8 @@ def evaluate_end_to_end_graph_rag(
             RougeScore(rouge_type="rougeL", mode="fmeasure", name="rougeL_fmeasure"),
             ResponseRelevancy(),
             Faithfulness(),
+            AnswerCorrectness(),
+            AnswerAccuracy(),
         ],
         llm=LangchainLLMWrapper(llm_model, run_config=run_config),
         embeddings=LangchainEmbeddingsWrapper(embedding_model, run_config=run_config),
@@ -412,4 +403,4 @@ def evaluate_end_to_end_graph_rag(
         run_config=run_config,
     )
 
-    return (single_turn_evaluation_result, multi_turn_evaluation_result)
+    return result
