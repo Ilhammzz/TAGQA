@@ -152,7 +152,7 @@ def build_selector(examples):
         examples,
         embedding_model,
         Chroma,
-        k=2
+        k=3
     )
     
 def make_prompt(selector):

@@ -1,0 +1,1002 @@
+[
+    {
+        "user_input": "Dalam pembangunan infrastruktur telekomunikasi, bagaimana cara perhitungan persentase TKDN untuk belanja modal atau capital expenditure (Capex) yang digunakan?",
+        "response": "Dalam perhitungan persentase TKDN (Tingkat Komponen Dalam Negeri) untuk belanja modal atau capital expenditure (Capex) dalam pembangunan infrastruktur telekomunikasi, terdapat beberapa hal yang perlu diperhatikan:\n\n1. Komponen Perhitungan TKDN:\n- Tenaga kerja dalam negeri\n- Bahan\/material dalam negeri\n- Peralatan dalam negeri\n- Jasa dalam negeri\n\n2. Metode Perhitungan:\n- Menghitung total nilai komponen dalam negeri\n- Membagi total nilai komponen dalam negeri dengan total nilai Capex\n- Mengalikan hasilnya dengan 100%\n\n3. Dokumen Pendukung:\n- Surat keterangan TKDN dari produsen\n- Invoice\/bukti pembelian\n- Sertifikat TKDN dari lembaga berwenang\n\n4. Kriteria Penilaian:\n- Minimal 40% komponen dalam negeri\n- Semakin tinggi persentase TKDN, semakin baik\n\n5. Contoh Perhitungan:\nTotal Capex = Rp 100 miliar\nKomponen dalam negeri = Rp 60 miliar\nPersentase TKDN = (60\/100) x 100% = 60%",
+        "reference": "Persentase TKDN untuk belanja modal (capex) dihitung berdasarkan perbandingan antara total belanja modal dikurangi belanja modal komponen luar negeri terhadap total belanja modal, atau perbandingan antara total belanja modal komponen dalam negeri terhadap total belanja modal. Formula yang digunakan adalah: % TKDN (Capex) = ((Total Capex - Capex Komponen Luar Negeri) x 100%) \/ Total Capex atau % TKDN (Capex) = (Capex Komponen Dalam Negeri x 100%) \/ Total Capex. Belanja modal ini meliputi biaya untuk engineering, material\/perangkat telekomunikasi, tenaga kerja, alat kerja, dan jasa pendukung pada pembangunan infrastruktur telekomunikasi.",
+        "rougeL_precision(mode=precision)": 0.2051282051,
+        "rougeL_recall(mode=recall)": 0.2857142857,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2388059701,
+        "answer_relevancy": 0.9335939312,
+        "nv_accuracy": 1.0
+    },
+    {
+        "user_input": "Apakah Lembaga Penyiaran Asing boleh mendirikan stasiun penyiaran di Indonesia?",
+        "response": "Berdasarkan peraturan perundang-undangan di Indonesia, lembaga penyiaran asing memiliki beberapa batasan dalam mendirikan stasiun penyiaran:\n\n1. Kepemilikan Modal\n- Lembaga penyiaran asing hanya diperbolehkan memiliki saham maksimal 49% di stasiun penyiaran Indonesia\n- 51% saham harus dimiliki oleh pihak Indonesia\n\n2. Persyaratan\n- Harus berbentuk badan hukum Indonesia\n- Mendapatkan izin dari Kementerian Komunikasi dan Informatika\n- Memenuhi ketentuan Undang-Undang Penyiaran No. 32 Tahun 2002\n\n3. Pembatasan\n- Hanya boleh melakukan kerja sama siaran\n- Tidak diperbolehkan mendirikan stasiun penyiaran secara penuh\n- Konten harus sesuai dengan peraturan Indonesia\n\n4. Pengawasan\n- Diawasi oleh Komisi Penyiaran Indonesia (KPI)\n- Harus mematuhi kode etik dan standar penyiaran nasional\n\nKesimpulannya, lembaga penyiaran asing dapat beroperasi di Indonesia dengan berbagai pembatasan dan persyaratan.",
+        "reference": "Tidak, Lembaga Penyiaran Asing dilarang didirikan di Indonesia. Namun, mereka dapat menyelenggarakan kegiatan peliputan yang meliputi kegiatan siaran secara tidak tetap dan\/atau kegiatan jurnalistik. Kegiatan jurnalistik ini dapat dilakukan dengan menempatkan koresponden atau membuka kantor penyiaran asing.",
+        "rougeL_precision(mode=precision)": 0.0892857143,
+        "rougeL_recall(mode=recall)": 0.2631578947,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1333333333,
+        "answer_relevancy": 0.898888398,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Bagaimana cara mendapatkan rekomendasi untuk menyelenggarakan Diklat Radio Elektronika atau Operator Radio (REOR)?",
+        "response": "Untuk mendapatkan rekomendasi menyelenggarakan Diklat Radio Elektronika atau Operator Radio (REOR), Anda dapat mengikuti langkah-langkah berikut:\n\n1. Persyaratan Umum:\n- Memiliki lembaga\/institusi yang kompeten\n- Memiliki tenaga pengajar yang berkualifikasi\n- Memiliki sarana dan prasarana pendukung\n\n2. Prosedur Pengajuan:\n- Hubungi Direktorat Jenderal Sumber Daya dan Perangkat Pos dan Informatika (Ditjen SDPPI)\n- Siapkan proposal lengkap penyelenggaraan diklat\n- Lampirkan dokumen persyaratan\n\n3. Dokumen yang Diperlukan:\n- Surat permohonan resmi\n- Profil lembaga\/institusi\n- Daftar tenaga pengajar\n- Rencana kurikulum\n- Sarana prasarana pendukung\n\n4. Kontak Resmi:\n- Kementerian Komunikasi dan Informatika\n- Direktorat Jenderal SDPPI\n- Website: www.postel.go.id\n\n5. Proses Verifikasi:\n- Tim akan menilai kelengkapan dokumen\n- Melakukan survei lapangan\n- Memberikan rekomendasi",
+        "reference": "Lembaga Diklat harus mengajukan permohonan kepada Direktur Jenderal dengan dilengkapi persyaratan administrasi dan perlengkapan teknis, termasuk akta pendirian, NPWP, instruktur berpengalaman, peralatan dan perangkat pendidikan, tempat yang tetap untuk Diklat, dan fasilitas kepustakaan. Direktur Jenderal akan melakukan evaluasi terhadap persyaratan tersebut di lokasi Lembaga Diklat REOR. Lembaga Diklat juga wajib menerapkan kurikulum dan silabus yang ditetapkan oleh Direktur Jenderal.",
+        "rougeL_precision(mode=precision)": 0.1057692308,
+        "rougeL_recall(mode=recall)": 0.186440678,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1349693252,
+        "answer_relevancy": 0.9556916072,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa itu Jaringan Dokumentasi dan Informasi Hukum (JDIH) Kemkominfo, dan apa tujuannya?",
+        "response": "Jaringan Dokumentasi dan Informasi Hukum (JDIH) Kemkominfo adalah:\n\n1. Pengertian:\n- Sistem dokumentasi dan informasi hukum di lingkungan Kementerian Komunikasi dan Informatika (Kemkominfo)\n- Wadah penyimpanan dan penyebaran produk-produk hukum resmi di lingkungan Kemkominfo\n\n2. Tujuan:\n- Menyediakan akses informasi hukum yang transparan\n- Memudahkan masyarakat mengakses produk-produk hukum\n- Meningkatkan transparansi dan akuntabilitas lembaga\n- Mendukung pelaksanaan tata kelola pemerintahan yang baik\n\n3. Fungsi:\n- Pengumpulan dokumen hukum\n- Pengolahan dan pendokumentasian\n- Penyebarluasan informasi hukum\n- Publikasi produk hukum resmi\n\n4. Manfaat:\n- Membantu masyarakat memahami regulasi\n- Mempermudah penelusuran produk hukum\n- Meningkatkan pelayanan publik di bidang hukum",
+        "reference": "JDIH Kemkominfo adalah wadah pendayagunaan bersama atas dokumen hukum secara tertib, terpadu, dan berkesinambungan di lingkungan Kementerian Komunikasi dan Informatika. Tujuannya adalah untuk menjamin terciptanya pengelolaan dokumentasi dan informasi hukum yang terpadu, menjamin ketersediaan dokumen dan informasi hukum yang lengkap dan akurat, mengembangkan kerja sama yang efektif, dan meningkatkan kualitas pembangunan hukum di bidang komunikasi dan informatika serta pelayanan kepada publik.",
+        "rougeL_precision(mode=precision)": 0.2333333333,
+        "rougeL_recall(mode=recall)": 0.3442622951,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2781456954,
+        "answer_relevancy": 0.95957517,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Bagaimana proses pendaftaran Nama Domain dilakukan, dan apa prinsip yang digunakan?",
+        "response": "Proses pendaftaran nama domain dilakukan melalui beberapa tahapan dengan prinsip-prinsip tertentu:\n\nProses Pendaftaran:\n1. Memilih registrar domain\n2. Memeriksa ketersediaan nama domain\n3. Melakukan pembayaran\n4. Mengisi formulir pendaftaran\n5. Konfirmasi dan aktivasi domain\n\nPrinsip-prinsip Utama:\n1. First Come First Served\n- Domain didaftarkan berdasarkan urutan pendaftaran\n- Siapa tercepat, dialah yang mendapatkan domain\n\n2. Unique Domain Name\n- Setiap nama domain bersifat unik\n- Tidak boleh ada domain yang sama\n\n3. Periodisasi Kepemilikan\n- Domain memiliki masa aktif tertentu\n- Perlu diperpanjang secara berkala\n\n4. Verifikasi Identitas Pendaftar\n- Memastikan keabsahan data pendaftar\n- Mencegah penyalahgunaan\n\n5. Kepatuhan Hukum\n- Sesuai regulasi domain nasional\/internasional\n- Menghormati hak kekayaan intelektual\n\nPersyaratan Umum:\n- Dokumen identitas\n- Kontak yang valid\n- Pembayaran biaya pendaftaran",
+        "reference": "Pendaftaran Nama Domain dilakukan oleh Registri Nama Domain dan Registrar Nama Domain atas permohonan Pengguna Nama Domain. Pendaftaran Nama Domain berdasarkan prinsip pendaftar pertama (first-come, first-served). Proses penetapan Nama Domain paling lambat 5 (lima) hari kerja sejak pengajuan pendaftaran diterima lengkap.",
+        "rougeL_precision(mode=precision)": 0.1681415929,
+        "rougeL_recall(mode=recall)": 0.4418604651,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2435897436,
+        "answer_relevancy": 0.9151078643,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Bagaimana ketentuan mengenai transparansi tarif layanan roaming internasional?",
+        "response": "Berdasarkan regulasi yang berlaku di Indonesia, berikut adalah beberapa ketentuan penting terkait transparansi tarif layanan roaming internasional:\n\n1. Kewajiban Penyedia Layanan:\n- Operator telekomunikasi wajib memberikan informasi tarif roaming yang jelas dan transparan\n- Harus menyediakan mekanisme pemberitahuan biaya saat pelanggan menggunakan layanan roaming\n\n2. Informasi Tarif:\n- Tarif harus dikomunikasikan secara detail sebelum pelanggan menggunakan layanan\n- Mencakup biaya untuk panggilan, SMS, dan penggunaan data\n\n3. Batasan Biaya:\n- Pelanggan berhak mendapatkan informasi batas maksimal biaya roaming\n- Operator wajib memberikan mekanisme pembatasan penggunaan untuk mencegah tagihan berlebih\n\n4. Notifikasi:\n- Pelanggan harus diberi notifikasi otomatis saat memasuki jaringan asing\n- Pemberitahuan biaya berkala selama menggunakan layanan roaming\n\n5. Mekanisme Kontrol:\n- Pelanggan dapat memantau penggunaan dan biaya roaming melalui aplikasi atau portal resmi operator\n\nTujuannya adalah melindungi konsumen dan memberikan transparansi penuh dalam layanan roaming internasional.",
+        "reference": "Penyelenggara wajib memberikan informasi tarif retail layanan roaming internasional secara rinci, termasuk tarif layanan suara (panggilan lokal, panggilan ke negara asal, menerima panggilan), tarif SMS (mengirim dan menerima SMS), dan tarif layanan data (per satuan volume, per satuan waktu, atau paket data).",
+        "rougeL_precision(mode=precision)": 0.1007751938,
+        "rougeL_recall(mode=recall)": 0.3095238095,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1520467836,
+        "answer_relevancy": 0.9317310673,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa persyaratan teknis yang harus dipenuhi oleh pembaca kartu cerdas nirkontak?",
+        "response": "Untuk pembaca kartu cerdas nirkontak (contactless smart card reader), beberapa persyaratan teknis utama yang harus dipenuhi adalah:\n\n1. Spesifikasi Teknis\n- Mendukung frekuensi standar (13.56 MHz)\n- Jarak pembacaan 4-10 cm\n- Kecepatan transfer data tinggi\n- Kompatibel dengan berbagai protokol komunikasi\n\n2. Keamanan\n- Enkripsi data\n- Autentikasi pengguna\n- Perlindungan terhadap serangan cyber\n- Sertifikasi keamanan internasional\n\n3. Kinerja\n- Waktu respon cepat\n- Akurasi pembacaan tinggi\n- Handal dalam berbagai kondisi lingkungan\n- Konsumsi daya rendah\n\n4. Antarmuka\n- USB\n- Bluetooth\n- NFC\n- Kompatibel dengan berbagai sistem operasi\n\n5. Standar Kepatuhan\n- ISO\/IEC 14443\n- EMV\n- PCI DSS",
+        "reference": "Detail persyaratan teknis yang harus dipenuhi oleh pembaca kartu cerdas nirkontak tercantum dalam Lampiran yang merupakan bagian tak terpisahkan dari Peraturan Menteri Komunikasi dan Informatika Nomor 17 Tahun 2015 tentang Persyaratan Teknis Pembaca Kartu Cerdas Nirkontak (Contactless Smart Card Reader). Untuk mengetahui detailnya, perlu membaca dan memahami isi Lampiran tersebut.",
+        "rougeL_precision(mode=precision)": 0.0909090909,
+        "rougeL_recall(mode=recall)": 0.16,
+        "rougeL_fmeasure(mode=fmeasure)": 0.115942029,
+        "answer_relevancy": 0.8998404052,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Bagaimana cara menyampaikan laporan pelanggaran hak cipta secara resmi?",
+        "response": "Untuk melaporkan pelanggaran hak cipta, Anda dapat:\n\n1. Melalui Kementerian Hukum dan HAM\n- Kirim surat resmi\n- Lampirkan bukti pelanggaran\n- Sertakan identitas lengkap\n\n2. Melalui Direktorat Jenderal HKI\n- Gunakan formulir pengaduan online\n- Sertakan dokumen pendukung\n- Cantumkan detail pelanggaran\n\n3. Jalur Hukum\n- Konsultasi dengan pengacara\n- Ajukan gugatan perdata\n- Laporkan ke kepolisian\n\n4. Platform Online\n- Laporkan ke platform terkait\n- Gunakan fitur pelaporan resmi\n- Sertakan bukti konkret\n\n5. Dokumentasikan Bukti\n- Rekam jejak digital\n- Simpan bukti pelanggaran\n- Catat tanggal dan waktu\n\nPastikan melengkapi semua persyaratan dan dokumen pendukung.",
+        "reference": "Laporan pelanggaran hak cipta dapat disampaikan secara elektronik maupun non-elektronik kepada Menteri yang menyelenggarakan urusan pemerintahan di bidang hukum melalui Direktorat Jenderal Kekayaan Intelektual. Untuk laporan elektronik, pelapor harus mengisi formulir aplikasi laporan di situs resmi dan mengunggah hasil pindai dokumen fisik yang diperlukan. Sedangkan untuk laporan non-elektronik, pelapor mengisi formulir dan menyerahkannya secara langsung ke Direktorat Jenderal Kekayaan Intelektual beserta dokumen pendukung. Proses ini bertujuan untuk memastikan keabsahan laporan yang diterima sebelum dilakukan verifikasi lebih lanjut.",
+        "rougeL_precision(mode=precision)": 0.1686746988,
+        "rougeL_recall(mode=recall)": 0.1772151899,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1728395062,
+        "answer_relevancy": 0.9689704033,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Bagaimana prosedur untuk mengajukan permohonan Nomor Protokol Internet?",
+        "response": "Untuk mengajukan permohonan Nomor Protokol Internet (IP), Anda umumnya perlu:\n\n1. Hubungi Lembaga Resmi\n- APNIC untuk wilayah Asia Pasifik\n- ARIN untuk Amerika Utara\n- RIPE NCC untuk Eropa\n- LACNIC untuk Amerika Latin\n\n2. Persyaratan Umum\n- Dokumen identitas perusahaan\/organisasi\n- Rencana penggunaan alamat IP\n- Bukti kebutuhan teknis\n- Informasi kontak yang valid\n\n3. Tahapan Pengajuan\n- Isi formulir pendaftaran online\n- Lengkapi dokumen persyaratan\n- Bayar biaya administrasi\n- Tunggu proses verifikasi\n\n4. Proses Verifikasi\n- Pemeriksaan kelengkapan dokumen\n- Evaluasi kebutuhan IP\n- Konfirmasi persyaratan\n\n5. Penerbitan Nomor IP\n- Mendapatkan blok alamat IP\n- Sertifikat resmi\n- Informasi konfigurasi\n\nPastikan memenuhi semua persyaratan dengan lengkap.",
+        "reference": "Permohonan Nomor PI diajukan kepada Pengelola Nomor PI Nasional atau Pengelola Nomor PI Lokal. Pengelola Nomor PI Nasional dan Pengelola Nomor PI Lokal dalam memproses permohonan Nomor PI dilakukan secara sederhana dan transparan. Ketentuan lebih lanjut tentang tata cara permohonan Nomor PI disusun oleh Pengelola Nomor PI Nasional dan diumumkan secara terbuka melalui situs web (website) Pengelola Nomor PI Nasional.",
+        "rougeL_precision(mode=precision)": 0.0319148936,
+        "rougeL_recall(mode=recall)": 0.05,
+        "rougeL_fmeasure(mode=fmeasure)": 0.038961039,
+        "answer_relevancy": 0.8785008544,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa yang dimaksud dengan alat dan perangkat telekomunikasi jarak dekat (short range devices), dan mengapa persyaratan teknisnya perlu diatur?",
+        "response": "Alat dan perangkat telekomunikasi jarak dekat (short range devices) adalah perangkat komunikasi yang dirancang untuk beroperasi pada jarak pendek dengan daya transmisi rendah. Berikut penjelasan lebih detail:\n\nDefinisi:\n1. Perangkat komunikasi dengan jangkauan terbatas\n2. Biasanya beroperasi dalam jarak beberapa meter\n3. Menggunakan daya transmisi rendah\n\nContoh perangkat:\n- Bluetooth\n- WiFi\n- NFC (Near Field Communication)\n- Zigbee\n- Remote kontrol\n- Wireless mouse\/keyboard\n\nAlasan pengaturan persyaratan teknis:\n1. Mencegah interferensi frekuensi\n2. Menjamin keamanan komunikasi\n3. Melindungi spektrum frekuensi radio\n4. Menjamin kualitas transmisi data\n5. Standarisasi teknologi\n6. Melindungi kepentingan konsumen\n7. Mendukung perkembangan teknologi komunikasi\n\nAspek teknis yang diatur:\n- Rentang frekuensi\n- Daya pancar\n- Protokol komunikasi\n- Keamanan transmisi data\n\nKesimpulan: Pengaturan diperlukan untuk menjamin efisiensi dan kualitas komunikasi.",
+        "reference": "Alat dan perangkat telekomunikasi jarak dekat (short range devices) adalah perangkat telekomunikasi yang dirancang untuk beroperasi pada jarak yang relatif pendek. Persyaratan teknisnya perlu diatur untuk memastikan bahwa perangkat tersebut beroperasi secara efisien, tidak menimbulkan gangguan terhadap perangkat lain, dan memenuhi standar keselamatan serta kesehatan. Pengaturan ini juga bertujuan untuk menciptakan harmonisasi penggunaan spektrum frekuensi radio dan mendorong inovasi teknologi di bidang telekomunikasi.",
+        "rougeL_precision(mode=precision)": 0.224137931,
+        "rougeL_recall(mode=recall)": 0.4126984127,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2905027933,
+        "answer_relevancy": 0.8810217491,
+        "nv_accuracy": 1.0
+    },
+    {
+        "user_input": "Apa sanksi yang akan diberikan jika ada pihak yang melanggar ketentuan dalam peraturan Nomor Panggilan Darurat, misalnya memberikan informasi yang tidak benar saat melakukan panggilan ke Pusat Panggilan Darurat?",
+        "response": "Berdasarkan peraturan yang berlaku di Indonesia, memberikan informasi palsu atau tidak benar saat melakukan panggilan darurat dapat dikenakan sanksi pidana. Beberapa sanksi yang mungkin diberlakukan antara lain:\n\n1. Sanksi Pidana\n- Dapat dipidana sesuai pasal 212-216 KUHP\n- Ancaman pidana penjara atau denda\n\n2. Sanksi Administratif\n- Pemblokiran akses panggilan darurat\n- Pencabutan hak menggunakan layanan darurat\n\n3. Sanksi Denda\n- Sejumlah uang yang besarannya ditentukan berdasarkan peraturan yang berlaku\n\nNamun untuk detail spesifik sanksinya, saya sarankan untuk mengkonfirmasi langsung ke instansi terkait seperti Kepolisian atau Kementerian yang berwenang.",
+        "reference": "Pelanggaran terhadap ketentuan dalam Peraturan Menteri ini, termasuk memberikan informasi yang tidak benar saat melakukan panggilan ke Pusat Panggilan Darurat, akan dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku. Sanksi ini dapat berupa sanksi administratif maupun sanksi pidana, tergantung pada jenis dan tingkat pelanggaran yang dilakukan.",
+        "rougeL_precision(mode=precision)": 0.2,
+        "rougeL_recall(mode=recall)": 0.3541666667,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2556390977,
+        "answer_relevancy": 0.8963241298,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa yang dimaksud dengan pemetaan urusan pemerintahan daerah di bidang komunikasi dan informatika dan mengapa hal ini penting?",
+        "response": "Pemetaan urusan pemerintahan daerah di bidang komunikasi dan informatika adalah proses identifikasi, pembagian, dan pengaturan kewenangan serta tanggung jawab pemerintah daerah dalam mengelola sektor komunikasi dan teknologi informasi. Berikut adalah penjelasan lebih detail:\n\nDefinisi:\n1. Proses menentukan kewenangan dan tanggung jawab pemerintah daerah\n2. Mengatur pembagian tugas antara pemerintah pusat dan daerah\n3. Mengoptimalkan pelayanan publik di bidang komunikasi dan informatika\n\nAspek-aspek penting:\n1. Infrastruktur telekomunikasi\n2. Pengembangan sistem informasi\n3. Pengelolaan media komunikasi\n4. Keamanan informasi\n5. Aksesibilitas teknologi informasi\n\nTujuan:\n1. Meningkatkan kualitas pelayanan publik\n2. Mendorong pembangunan daerah\n3. Mempercepat transformasi digital\n4. Menjamin pemerataan akses teknologi informasi\n\nManfaat:\n1. Koordinasi antar pemerintah lebih efektif\n2. Pemanfaatan sumber daya lebih optimal\n3. Mendukung tata kelola pemerintahan yang baik",
+        "reference": "Pemetaan urusan pemerintahan daerah di bidang komunikasi dan informatika adalah proses perhitungan nilai variabel Urusan Pemerintahan Daerah provinsi dan Daerah kabupaten\/kota bidang komunikasi dan informatika setelah dikalikan dengan faktor kesulitan geografis. Pemetaan ini penting karena menjadi dasar bagi Pemerintah Daerah untuk menetapkan kelembagaan Perangkat Daerah, perencanaan, dan penganggaran di bidang Komunikasi dan Informatika. Dengan pemetaan yang tepat, diharapkan penyelenggaraan urusan pemerintahan di bidang Kominfo dapat lebih efektif dan efisien.",
+        "rougeL_precision(mode=precision)": 0.2049180328,
+        "rougeL_recall(mode=recall)": 0.3571428571,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2604166667,
+        "answer_relevancy": 0.8674727814,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apa saja tugas dan fungsi Dinas Komunikasi dan Informatika Provinsi dan Kabupaten atau Kota?",
+        "response": "Tugas dan fungsi Dinas Komunikasi dan Informatika (Diskominfo) Provinsi dan Kabupaten\/Kota pada umumnya meliputi:\n\nTugas Pokok:\n1. Menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika\n2. Melaksanakan pembinaan dan pengembangan teknologi informasi\n3. Mengelola sistem informasi dan komunikasi pemerintahan\n\nFungsi Utama:\n1. Bidang Komunikasi\n- Pengelolaan informasi publik\n- Pelayanan komunikasi pemerintah\n- Penyebaran informasi resmi pemerintah\n- Pemberdayaan media massa\n\n2. Bidang Informatika\n- Pengembangan infrastruktur teknologi informasi\n- Pengelolaan jaringan komunikasi\n- Pengembangan sistem informasi\n- Keamanan informasi\n\n3. Bidang Persandian\n- Pengelolaan keamanan informasi\n- Pengamanan dokumen dan komunikasi penting\n- Pelaksanaan sandi dan telekomunikasi\n\n4. Bidang Statistik\n- Pengumpulan dan pengolahan data statistik\n- Penyusunan laporan data daerah\n\nKegiatan Pokok:\n- Sosialisasi kebijakan\n- Pembinaan SDM\n- Pengembangan infrastruktur TIK\n- Pelayanan publik berbasis digital",
+        "reference": "Pembagian dan penjabaran tugas dan fungsi Dinas Komunikasi dan Informatika Provinsi dan Dinas Kabupaten\/Kota dikelompokkan berdasarkan pendekatan fungsi dengan rincian sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2016 tentang Pedoman Nomenklatur Perangkat Daerah Bidang Komunikasi dan Informatika. Rincian tugas dan fungsi ini dapat berbeda-beda tergantung pada tipe Dinas (A, B, atau C).",
+        "rougeL_precision(mode=precision)": 0.1592920354,
+        "rougeL_recall(mode=recall)": 0.2769230769,
+        "rougeL_fmeasure(mode=fmeasure)": 0.202247191,
+        "answer_relevancy": 0.9128399145,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apa yang dapat saya lakukan jika saya merasa bahwa Data Pribadi saya telah disalahgunakan oleh Penyelenggara Sistem Elektronik (PSE)?",
+        "response": "Jika Anda merasa Data Pribadi Anda telah disalahgunakan oleh Penyelenggara Sistem Elektronik (PSE), berikut adalah beberapa langkah yang dapat Anda lakukan:\n\n1. Dokumentasi\n- Kumpulkan bukti-bukti penyalahgunaan data pribadi\n- Catat kronologis kejadian\n\n2. Hubungi PSE\n- Laporkan masalah secara resmi kepada PSE terkait\n- Minta penjelasan dan pertanggungjawaban\n\n3. Pengaduan Resmi\n- Laporkan ke Komisi Informasi\n- Ajukan pengaduan ke Kementerian Komunikasi dan Informatika\n- Laporkan ke Komisi Perlindungan Data Pribadi\n\n4. Langkah Hukum\n- Konsultasi dengan pengacara\n- Pertimbangkan gugatan perdata\n- Laporkan ke pihak kepolisian jika terbukti pidana\n\n5. Perlindungan Diri\n- Ganti password\n- Aktifkan autentikasi dua faktor\n- Pantau aktivitas akun\n\nPastikan Anda memiliki bukti-bukti konkret saat melaporkan.",
+        "reference": "Anda dapat mengajukan pengaduan kepada Menteri atas kegagalan perlindungan kerahasiaan Data Pribadi. Pengaduan ini dimaksudkan sebagai upaya penyelesaian sengketa secara musyawarah atau melalui upaya penyelesaian alternatif lainnya. Jika upaya tersebut tidak berhasil, Anda dapat mengajukan gugatan perdata ke pengadilan.",
+        "rougeL_precision(mode=precision)": 0.0882352941,
+        "rougeL_recall(mode=recall)": 0.2307692308,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1276595745,
+        "answer_relevancy": 0.9145802104,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apa saja jenis layanan yang termasuk dalam ruang lingkup IPTV?",
+        "response": "IPTV (Internet Protocol Television) mencakup beberapa jenis layanan utama:\n\n1. Layanan Televisi Langsung\n- Saluran TV tradisional\n- Siaran olahraga\n- Berita real-time\n- Acara hiburan\n\n2. Video On Demand (VOD)\n- Film\n- Serial TV\n- Dokumenter\n- Konten khusus\n\n3. Catch-up TV\n- Menonton ulang program yang sudah tayang\n- Akses konten dalam periode tertentu\n\n4. Time-shifted TV\n- Pause\n- Rewind\n- Fast forward\n\n5. Interactive Services\n- Polling\n- Permainan interaktif\n- Belanja online\n- Informasi cuaca\n\n6. Layanan Multimedia\n- Musik\n- Podcast\n- Foto\n- Streaming konten\n\n7. Layanan Pendidikan\n- Kelas online\n- Materi pembelajaran\n- Webinar\n\nKeunggulan IPTV terletak pada fleksibilitas dan kualitas streaming yang tinggi.",
+        "reference": "Ruang lingkup layanan IPTV meliputi beberapa jenis, yaitu: layanan penyiaran (pushed services), yang mencakup siaran televisi linier dan non-linier serta Pay per View; layanan multimedia (pulled services dan interactive services), yang penyalurannya diberikan berdasarkan permintaan dari Pelanggan; layanan Transaksi Elektronik; dan layanan akses internet untuk keperluan publik. Dengan demikian, IPTV tidak hanya terbatas pada siaran televisi tradisional, tetapi juga mencakup berbagai layanan interaktif dan on-demand yang memanfaatkan teknologi protokol internet.",
+        "rougeL_precision(mode=precision)": 0.1397849462,
+        "rougeL_recall(mode=recall)": 0.1805555556,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1575757576,
+        "answer_relevancy": 0.8952580655,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa hak dan kewajiban lembaga pelatihan setelah terakreditasi?",
+        "response": "Setelah terakreditasi, lembaga pelatihan memiliki beberapa hak dan kewajiban:\n\nHak Lembaga Pelatihan:\n1. Menyelenggarakan program pelatihan resmi\n2. Mendapatkan pengakuan dari pemerintah\n3. Mengeluarkan sertifikat kompetensi\n4. Mengikuti tender\/proyek pelatihan resmi\n5. Mendapatkan bantuan dan pembinaan\n\nKewajiban Lembaga Pelatihan:\n1. Mempertahankan standar mutu pelatihan\n2. Melakukan evaluasi berkala\n3. Melaporkan kegiatan secara berkala\n4. Menjaga kualitas instruktur\n5. Memelihara sarana dan prasarana\n6. Mematuhi peraturan yang berlaku\n7. Melakukan pengembangan kurikulum\n8. Menjamin keamanan dan keselamatan peserta\n9. Memberikan pelayanan prima\n10. Membayar biaya perpanjangan akreditasi\n\nDengan demikian, akreditasi memberikan hak dan tanggung jawab yang harus dijalankan secara profesional.",
+        "reference": "Setelah terakreditasi, Lembaga Pelatihan berhak menyelenggarakan Pelatihan Teknis Bidang TIK sebagaimana ditetapkan dalam keputusan dan sertifikat akreditasi. Namun, Lembaga Pelatihan Terakreditasi juga berkewajiban menyelenggarakan Pelatihan Teknis Bidang TIK sesuai dengan ketentuan penyelenggaraan Pelatihan yang telah ditetapkan. Dengan kata lain, akreditasi memberikan hak untuk menyelenggarakan pelatihan, tetapi juga mewajibkan lembaga untuk menjaga kualitas dan standar pelatihan yang diselenggarakan.",
+        "rougeL_precision(mode=precision)": 0.17,
+        "rougeL_recall(mode=recall)": 0.298245614,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2165605096,
+        "answer_relevancy": 0.9215661379,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa itu Badan Aksesibilitas Telekomunikasi dan Informasi (Bakti), dan apa tugas utamanya?",
+        "response": "Badan Aksesibilitas Telekomunikasi dan Informasi (Bakti) adalah sebuah lembaga di bawah Kementerian Komunikasi dan Informatika (Kemenkominfo) Republik Indonesia. Berikut adalah penjelasan lebih detail tentang Bakti:\n\n1. Definisi:\nBakti adalah badan yang dibentuk untuk mendukung pembangunan infrastruktur telekomunikasi dan informatika di Indonesia, terutama di daerah-daerah yang sulit terjangkau.\n\n2. Tugas Utama:\n- Memperluas akses telekomunikasi dan informasi di seluruh wilayah Indonesia\n- Mendorong pemerataan pembangunan infrastruktur digital\n- Meningkatkan konektivitas di daerah-daerah terpencil\n- Mendukung program Palapa Ring untuk konektivitas internet nasional\n\n3. Fokus Kegiatan:\n- Pembangunan menara telekomunikasi\n- Penyediaan jaringan internet\n- Pengembangan infrastruktur digital di daerah tertinggal\n- Mendukung program digital Indonesia\n\n4. Tujuan:\n- Mengurangi kesenjangan digital antara perkotaan dan pedesaan\n- Meningkatkan akses informasi dan komunikasi di seluruh Indonesia",
+        "reference": "Badan Aksesibilitas Telekomunikasi dan Informasi (Bakti) adalah unit organisasi noneselon di lingkungan Kementerian Komunikasi dan Informatika yang menerapkan pola Pengelolaan Keuangan Badan Layanan Umum. Tugas utamanya adalah melaksanakan pengelolaan pembiayaan Kewajiban Pelayanan Universal (KPU) dan penyediaan infrastruktur serta layanan telekomunikasi dan informatika. Bakti bertujuan untuk memperluas akses telekomunikasi dan informasi ke seluruh wilayah Indonesia, terutama daerah yang belum terjangkau layanan komersial.",
+        "rougeL_precision(mode=precision)": 0.2260869565,
+        "rougeL_recall(mode=recall)": 0.4262295082,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2954545455,
+        "answer_relevancy": 0.9417107804,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Bagaimana mekanisme pengusulan program KPU Telekomunikasi dan Informatika dari masyarakat atau pemerintah daerah?",
+        "response": "Untuk mekanisme pengusulan program KPU Telekomunikasi dan Informatika, biasanya dilakukan melalui beberapa tahapan:\n\n1. Tahap Persiapan\n- Mengidentifikasi kebutuhan daerah\n- Menyusun konsep usulan program\n- Mempersiapkan dokumen pendukung\n\n2. Mekanisme Pengajuan\n- Usulan disampaikan secara tertulis\n- Melalui surat resmi dari pemerintah daerah\n- Dilengkapi proposal detail program\n\n3. Kriteria Usulan\n- Sesuai dengan prioritas pembangunan\n- Memiliki manfaat strategis\n- Mendukung pengembangan telekomunikasi dan informatika\n\n4. Proses Verifikasi\n- Dikaji oleh tim teknis\n- Dinilai kelayakan dan dampaknya\n- Disesuaikan dengan regulasi yang berlaku\n\n5. Tahap Seleksi\n- Evaluasi komprehensif\n- Penilaian prioritas program\n- Pertimbangan anggaran\n\n6. Tindak Lanjut\n- Penetapan program\n- Sosialisasi\n- Implementasi",
+        "reference": "Kementerian\/Lembaga, Pemerintah Daerah, Penyelenggara Telekomunikasi, kelompok masyarakat dan\/atau organisasi kemasyarakatan dapat mengusulkan program pelaksanaan KPU Telekomunikasi dan Informatika kepada Direktur Utama BAKTI dengan ditembuskan kepada Menteri dalam bentuk daftar isian. Usulan program pelaksanaan KPU Telekomunikasi dan Informatika harus mendapat dukungan dari pimpinan instansi terkait, seperti pimpinan Kementerian\/Lembaga, Gubernur\/Bupati\/Wali kota, Pemerintah Daerah setempat, atau Direksi penyelenggara telekomunikasi. Bentuk dukungan ini dapat berupa Perjanjian Kerja Sama. Usulan dari organisasi kemasyarakatan berskala nasional dapat ditindaklanjuti setelah dituangkan dalam Kesepakatan Bersama antara Menteri atau Direktur Utama dengan Ketua organisasi kemasyarakatan berskala nasional.",
+        "rougeL_precision(mode=precision)": 0.1318681319,
+        "rougeL_recall(mode=recall)": 0.1290322581,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1304347826,
+        "answer_relevancy": 0.9657188953,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa perbedaan mendasar antara Tanda Tangan Elektronik dan Sertifikat Elektronik, dan bagaimana keduanya saling terkait?",
+        "response": "Perbedaan mendasar antara Tanda Tangan Elektronik dan Sertifikat Elektronik:\n\nTanda Tangan Elektronik:\n1. Metode untuk memverifikasi identitas\n2. Berfungsi sebagai persetujuan dokumen digital\n3. Dapat berbentuk gambar\/kode digital\n4. Memiliki tingkat keamanan yang bervariasi\n5. Lebih sederhana dalam implementasi\n\nSertifikat Elektronik:\n1. Dokumen digital yang membuktikan identitas\n2. Dikeluarkan oleh Otoritas Sertifikasi\n3. Berisi informasi detail pemilik\n4. Memiliki tingkat keamanan tinggi\n5. Menggunakan kriptografi kunci publik\n\nHubungan keduanya:\n- Sertifikat elektronik sering digunakan untuk membuat tanda tangan elektronik yang valid\n- Sertifikat elektronik memberikan kepercayaan pada tanda tangan elektronik\n- Keduanya bertujuan meningkatkan keamanan transaksi digital\n\nKesimpulan: Saling melengkapi dalam sistem keamanan digital.",
+        "reference": "Tanda Tangan Elektronik adalah informasi elektronik yang dilekatkan, terasosiasi, atau terkait dengan informasi elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi. Sementara itu, Sertifikat Elektronik adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam Transaksi Elektronik. Jadi, Sertifikat Elektronik memuat Tanda Tangan Elektronik dan identitas pemiliknya, sehingga Sertifikat Elektronik berfungsi untuk memvalidasi Tanda Tangan Elektronik tersebut.",
+        "rougeL_precision(mode=precision)": 0.2254901961,
+        "rougeL_recall(mode=recall)": 0.3382352941,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2705882353,
+        "answer_relevancy": 0.9793554734,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Jenis alat atau perangkat telekomunikasi apa saja yang wajib memenuhi persyaratan teknis?",
+        "response": "Berdasarkan peraturan yang berlaku di Indonesia, beberapa jenis alat atau perangkat telekomunikasi yang wajib memenuhi persyaratan teknis antara lain:\n\n1. Perangkat seluler\/handphone\n- Smartphone\n- Feature phone\n- Tablet dengan fungsi komunikasi\n\n2. Perangkat komunikasi nirkabel\n- Router WiFi\n- Modem\n- Hotspot\n- Bluetooth device\n\n3. Perangkat komunikasi fixed wireless\n- Telepon rumah nirkabel\n- CDMA fixed wireless\n\n4. Perangkat komunikasi satelit\n- Telepon satelit\n- Modem satelit\n\n5. Perangkat jaringan\n- Switch\n- Access point\n- Network interface card (NIC)\n\n6. Perangkat komunikasi radio\n- Handy talky (HT)\n- Radio komunikasi\n- Repeater\n\n7. Perangkat telekomunikasi lainnya\n- Fax\n- PABX\n- Video conference equipment\n\nPersyaratan teknis yang harus dipenuhi meliputi:\n- Sertifikasi alat\n- Standar keamanan\n- Kesesuaian frekuensi\n- Kualitas sinyal\n- Kelaikan teknis",
+        "reference": "Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2019 tentang Persyaratan Teknis Alat dan\/atau Perangkat Telekomunikasi untuk Keperluan Penyelenggaraan Televisi Siaran dan Radio Siaran, mencakup berbagai jenis alat dan\/atau perangkat telekomunikasi yang digunakan untuk keperluan penyelenggaraan televisi siaran dan radio siaran, termasuk televisi siaran digital terestrial, televisi siaran berbasis kabel, televisi siaran berbasis satelit, televisi siaran lainnya (seperti IPTV), perangkat radio siaran berbasis terestrial, dan Studio Transmission Link (STL).",
+        "rougeL_precision(mode=precision)": 0.0961538462,
+        "rougeL_recall(mode=recall)": 0.1408450704,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1142857143,
+        "answer_relevancy": 0.9163175317,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa sanksi yang akan diberikan jika pemegang IPFR tidak menyampaikan laporan penggunaan Pita Frekuensi Radio secara berkala?",
+        "response": "Berdasarkan peraturan yang berlaku di Indonesia, jika pemegang Izin Pita Frekuensi Radio (IPFR) tidak menyampaikan laporan penggunaan Pita Frekuensi Radio secara berkala, maka akan dikenakan sanksi administratif. Sanksi tersebut dapat berupa:\n\n1. Peringatan tertulis\n2. Pembekuan sementara izin\n3. Pencabutan izin\n\nNamun, untuk detail spesifik sanksi, saya menyarankan untuk merujuk langsung pada peraturan terbaru dari Kementerian Komunikasi dan Informatika (Kominfo) atau peraturan BRTI (Badan Regulasi Telekomunikasi Indonesia) yang paling mutakhir.",
+        "reference": "Dalam hal pemegang IPFR tidak menyerahkan atau terlambat menyampaikan laporan penggunaan Pita Frekuensi Radio secara berkala, akan dikenai sanksi administratif berupa tidak dapat mengikuti proses penetapan Izin Pita Frekuensi Radio, diumumkan melalui laman Kementerian Komunikasi dan Informatika, dan\/atau tidak dapat melakukan penambahan penggunaan Kanal Frekuensi Radio.",
+        "rougeL_precision(mode=precision)": 0.3,
+        "rougeL_recall(mode=recall)": 0.4468085106,
+        "rougeL_fmeasure(mode=fmeasure)": 0.358974359,
+        "answer_relevancy": 0.9080296207,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa yang terjadi jika suatu handphone tidak memiliki nomor IMEI yang terverifikasi secara resmi?",
+        "response": "Jika sebuah handphone tidak memiliki nomor IMEI yang terverifikasi secara resmi, beberapa konsekuensi yang mungkin terjadi adalah:\n\n1. Tidak dapat menggunakan jaringan seluler\n- Operator tidak akan mengizinkan SIM card terhubung\n- Ponsel tidak bisa melakukan panggilan atau SMS\n\n2. Risiko hukum\n- Dapat dianggap sebagai ponsel ilegal\n- Berpotensi disita oleh pihak berwenang\n- Kemungkinan dikenakan sanksi\n\n3. Masalah keamanan\n- Sulit dilacak jika hilang\/dicuri\n- Tidak terdaftar di sistem resmi\n\n4. Tidak bisa mendapatkan garansi resmi\n- Produsen tidak akan melayani perbaikan\n- Tidak ada jaminan kualitas produk\n\n5. Pembatasan fitur\n- Beberapa aplikasi mungkin tidak bisa diinstal\n- Akses terbatas pada layanan tertentu\n\nDisarankan untuk selalu membeli ponsel dari sumber resmi dan terverifikasi.",
+        "reference": "Jika handphone Anda tidak memiliki nomor IMEI yang terdaftar secara resmi dan tidak memenuhi ketentuan verifikasi sebagaimana dimaksud dalam Pasal 3, maka Penyelenggara wajib melakukan pembatasan Akses Jaringan Bergerak Seluler terhadap handphone tersebut. Artinya, handphone Anda tidak akan mendapatkan layanan jaringan seluler dari operator di Indonesia.",
+        "rougeL_precision(mode=precision)": 0.1603773585,
+        "rougeL_recall(mode=recall)": 0.3695652174,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2236842105,
+        "answer_relevancy": 0.9164484426,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apakah ada peraturan yang menjelaskan bahwa Penyelenggara Jasa Telekomunikasi wajib melakukan sosialisasi skema tarif yang jelas kepada pengguna atau pelanggan?",
+        "response": "Ya, terdapat beberapa peraturan yang mengatur tentang kewajiban Penyelenggara Jasa Telekomunikasi untuk melakukan sosialisasi tarif kepada pelanggan:\n\n1. Peraturan Menteri Komunikasi dan Informatika (Permenkominfo):\n- Pasal 10 Permenkominfo No. 11 Tahun 2018 tentang Penyelenggaraan Jaringan Telekomunikasi\n- Mensyaratkan transparansi informasi tarif kepada pelanggan\n\n2. Undang-Undang Telekomunikasi:\n- UU No. 36 Tahun 1999 tentang Telekomunikasi\n- Mewajibkan penyelenggara jasa telekomunikasi memberikan informasi yang jelas\n\n3. Peraturan BRTI (Badan Regulasi Telekomunikasi Indonesia):\n- Mengatur standar transparansi tarif dan layanan\n\nPoin penting dalam peraturan tersebut:\n- Tarif harus jelas dan transparan\n- Informasi tarif harus mudah diakses\n- Adanya sosialisasi yang komprehensif",
+        "reference": "Ya, Pasal 79 ayat (1) Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2021 tentang Penyelenggaraan Telekomunikasi menyatakan bahwa Penyelenggara Jasa Telekomunikasi wajib mensosialisasikan setiap skema tarif kepada Pelanggan secara benar, jelas, tidak menyesatkan, dan transparan. Informasi yang wajib disampaikan meliputi jenis Produk Layanan, besaran tarif, area layanan, waktu pemberlakuan tarif, dan informasi kontak untuk korespondensi. Sosialisasi ini harus dilakukan dengan menggunakan media cetak dan\/atau elektronik dengan memperhatikan etika dalam beriklan.",
+        "rougeL_precision(mode=precision)": 0.2391304348,
+        "rougeL_recall(mode=recall)": 0.3055555556,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2682926829,
+        "answer_relevancy": 0.8854100925,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apakah registrasi kartu SIM (Nomor MSISDN) merupakan suatu kewajiban bagi pelanggan jasa telekomunikasi, dan apa konsekuensi hukum apabila kewajiban tersebut tidak dipenuhi?",
+        "response": "Berdasarkan peraturan perundang-undangan di Indonesia, registrasi kartu SIM merupakan suatu kewajiban bagi pelanggan jasa telekomunikasi. Berikut adalah penjelasan lebih detail:\n\nDasar Hukum:\n1. Peraturan Menteri Komunikasi dan Informatika (Permen Kominfo) No. 14 Tahun 2017\n2. Undang-Undang Nomor 36 Tahun 1999 tentang Telekomunikasi\n\nKewajiban Registrasi:\n- Setiap pengguna kartu SIM wajib melakukan registrasi dengan menggunakan identitas diri yang sah\n- Registrasi dilakukan dengan menyerahkan fotokopi KTP\/identitas resmi\n- Berlaku untuk kartu prabayar dan pascabayar\n\nKonsekuensi Hukum Jika Tidak Registrasi:\n1. Kartu SIM akan diblokir\/dinonaktifkan\n2. Tidak dapat melakukan panggilan atau SMS\n3. Potensi sanksi administratif\n4. Kehilangan hak akses layanan telekomunikasi\n\nTujuan Registrasi:\n- Keamanan\n- Pencegahan kejahatan\n- Perlindungan konsumen",
+        "reference": "Ya, registrasi kartu SIM merupakan kewajiban bagi pelanggan jasa telekomunikasi. Apabila kewajiban tersebut tidak dipenuhi, konsekuensinya adalah penonaktifan Nomor MSISDN atau nomor Pelanggan Jasa Telekomunikasi Prabayar.",
+        "rougeL_precision(mode=precision)": 0.1203703704,
+        "rougeL_recall(mode=recall)": 0.5,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1940298507,
+        "answer_relevancy": 0.8698198865,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apakah terdapat batasan jumlah nomor kartu SIM (Nomor MSISDN) yang dapat diregistrasi menggunakan satu identitas pelanggan?",
+        "response": "Berdasarkan Peraturan Menteri Komunikasi dan Informatika (Permen Kominfo) No. 14 Tahun 2022, setiap penduduk Indonesia yang memiliki Kartu Tanda Penduduk (KTP) atau Kartu Keluarga (KK) dapat mendaftarkan maksimal 10 nomor kartu SIM atas namanya.\n\nBatasan ini berlaku untuk:\n- 10 nomor SIM per penduduk\n- Menggunakan satu identitas KTP\/KK\n- Berlaku untuk semua operator seluler di Indonesia\n\nTujuannya adalah:\n- Mencegah penyalahgunaan kartu SIM\n- Meningkatkan keamanan dan ketertiban\n- Mempermudah proses identifikasi\n\nProses registrasi dilakukan melalui:\n- Gerai operator\n- Aplikasi resmi operator\n- Titik registrasi yang disediakan\n\nSanksi bila melanggar:\n- Kartu SIM akan diblokir\n- Denda administratif",
+        "reference": "Ya, Penyelenggara Jasa Telekomunikasi dilarang melakukan Registrasi Pelanggan Jasa Telekomunikasi lebih dari 3 (tiga) Nomor MSISDN atau Nomor Pelanggan Jasa Telekomunikasi untuk setiap identitas Pelanggan Jasa Telekomunikasi pada setiap Penyelenggara Jasa Telekomunikasi. Terdapat pengecualian untuk keperluan komunikasi M2M, pengujian, atau keperluan tertentu badan hukum.",
+        "rougeL_precision(mode=precision)": 0.0555555556,
+        "rougeL_recall(mode=recall)": 0.1136363636,
+        "rougeL_fmeasure(mode=fmeasure)": 0.0746268657,
+        "answer_relevancy": 0.8850642065,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa saja yang menjadi fokus pemeriksaan dalam Audit TIK terhadap penerapan tata kelola dan manajemen TIK di SPBE?",
+        "response": "Dalam audit TIK terhadap penerapan tata kelola dan manajemen TIK di SPBE (Sistem Pemerintahan Berbasis Elektronik), terdapat beberapa fokus pemeriksaan utama:\n\n1. Aspek Tata Kelola TIK\n- Struktur organisasi TIK\n- Kebijakan dan prosedur TIK\n- Rencana strategis TIK\n- Tata hubungan antar unit TIK\n- Kepatuhan terhadap regulasi SPBE\n\n2. Manajemen Risiko TIK\n- Identifikasi risiko TIK\n- Penilaian risiko\n- Mitigasi risiko\n- Rencana kontinjensi\n\n3. Keamanan Informasi\n- Kontrol akses\n- Manajemen identitas\n- Perlindungan data\n- Keamanan jaringan\n- Kepatuhan standar keamanan\n\n4. Manajemen Aset TIK\n- Inventarisasi aset TIK\n- Pengelolaan aset\n- Pemeliharaan aset\n- Pengadaan dan penghapusan aset\n\n5. Manajemen Layanan TIK\n- Katalog layanan\n- Tingkat layanan\n- Penanganan insiden\n- Manajemen perubahan\n\n6. Infrastruktur TIK\n- Arsitektur sistem\n- Kinerja infrastruktur\n- Kapasitas dan skalabilitas\n- Interoperabilitas\n\n7. Sumber Daya Manusia TIK\n- Kompetensi SDM\n- Pelatihan\n- Pengembangan kapasitas\n- Manajemen kinerja\n\n8. Kepatuhan dan Standar\n- Standar SPBE\n- Regulasi pemerintah\n- Praktik terbaik internasional\n\n9. Evaluasi dan Pengukuran Kinerja\n- Indikator kinerja TIK\n- Audit berkala\n- Perbaikan berkelanjutan\n\n10. Manajemen Dokumen dan Rekaman\n- Pengelolaan dokumen\n- Sistem dokumentasi\n- Kontrol versi\n- Keamanan dokumen\n\nFokus pemeriksaan tersebut bertujuan untuk:\n- Memastikan tata kelola TIK berjalan efektif\n- Meminimalkan risiko\n- Meningkatkan kualitas layanan\n- Mendukung pencapaian tujuan organisasi\n- Memastikan kepatuhan terhadap regulasi\n\nMetodologi audit umumnya mencakup:\n- Wawancara\n- Observasi\n- Pengujian dokumen\n- Pengujian teknis\n- Analisis kesenjangan\n\nStandar yang biasa digunakan:\n- COBIT\n- ITIL\n- ISO 27001\n- SNI ISO\/IEC 27001\n\nDengan pendekatan komprehensif ini, audit TIK dapat memberikan jaminan dan rekomendasi perbaikan dalam penerapan SPBE.",
+        "reference": "Audit TIK terhadap tata kelola TIK meliputi pemeriksaan terhadap kerangka kerja pengaturan, pengarahan, dan pengendalian dalam penerapan SPBE secara terpadu atas unsur-unsur SPBE, seperti Rencana Induk SPBE Nasional, Arsitektur SPBE, Peta Rencana SPBE, rencana dan anggaran SPBE, Proses Bisnis, data dan informasi, Infrastruktur SPBE, Aplikasi SPBE, Keamanan SPBE, dan layanan SPBE. Audit TIK terhadap manajemen TIK meliputi pemeriksaan terhadap tahapan perencanaan, pengembangan, pengoperasian, dan pemantauan TIK, serta aktivitas manajemen keamanan TIK, manajemen risiko TIK, manajemen aset TIK, dan lain-lain.",
+        "rougeL_precision(mode=precision)": 0.1221719457,
+        "rougeL_recall(mode=recall)": 0.3333333333,
+        "rougeL_fmeasure(mode=fmeasure)": 0.178807947,
+        "answer_relevancy": 0.9059939949,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa saja yang harus diperhatikan dalam pengelolaan Nama Domain Pemerintah Daerah dan subdomain?",
+        "response": "Dalam pengelolaan Nama Domain Pemerintah Daerah dan subdomain, beberapa hal penting yang harus diperhatikan adalah:\n\n1. Persyaratan Teknis\n- Memenuhi standar PANDI\n- Ketersediaan nama domain\n- Kesesuaian dengan pedoman Kementerian Komunikasi dan Informatika\n\n2. Aspek Keamanan\n- Penggunaan protokol HTTPS\n- Perlindungan data\n- Enkripsi yang memadai\n- Firewall yang kuat\n- Pencegahan serangan siber\n\n3. Struktur Domain\n- Nama domain resmi\n- Subdomain yang jelas\n- Konsistensi penamaan\n- Mudah diingat\n\n4. Administrasi\n- Perpanjangan domain secara berkala\n- Pencatatan administrasi\n- Pendaftaran resmi\n- Pembayaran tepat waktu\n\n5. Tata Kelola\n- Regulasi pemerintah\n- Standar pelayanan publik\n- Transparansi informasi\n- Akses publik\n\n6. Aspek Teknis\n- Kestabilan server\n- Kecepatan akses\n- Kapasitas hosting\n- Backup data\n\n7. Dokumentasi\n- Pencatatan konfigurasi\n- Rekam jejak perubahan\n- Panduan pengelolaan",
+        "reference": "Pemerintah Daerah harus mendaftarkan dan menggunakan Nama Domain Pemerintah Daerah sebagai alamat elektronik resmi Pemerintah Daerah. Perangkat Daerah menggunakan subdomain dari Nama Domain Pemerintah Daerahnya. Pelayanan publik berbasis elektronik yang diselenggarakan oleh Pemerintah Daerah harus menggunakan Nama Domain Pemerintah Daerah. Pengelolaan Nama Domain Pemerintah Daerah dan subdomain dilaksanakan oleh Dinas Kominfo.",
+        "rougeL_precision(mode=precision)": 0.1226415094,
+        "rougeL_recall(mode=recall)": 0.2549019608,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1656050955,
+        "answer_relevancy": 0.9279421697,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Kenapa pemberian perizinan penggunaan spektrum frekuensi radio harus melalui proses seleksi?",
+        "response": "Pemberian perizinan penggunaan spektrum frekuensi radio melalui proses seleksi karena beberapa alasan penting:\n\n1. Keterbatasan Sumber Daya\n- Spektrum frekuensi radio bersifat terbatas\n- Tidak memungkinkan semua pihak menggunakan frekuensi yang sama\n\n2. Mencegah Interferensi\n- Menghindari gangguan sinyal antar pengguna\n- Menjamin kualitas komunikasi\n\n3. Efisiensi Penggunaan\n- Mengoptimalkan penggunaan spektrum\n- Mengalokasikan frekuensi sesuai kebutuhan\n\n4. Keamanan Nasional\n- Mengontrol penggunaan frekuensi\n- Melindungi kepentingan strategis negara\n\n5. Aspek Ekonomi\n- Menghasilkan pendapatan negara\n- Mendorong kompetisi yang sehat\n\n6. Pemenuhan Standar Teknis\n- Memastikan kesesuaian perangkat\n- Menjamin kualitas layanan\n\n7. Perlindungan Hak Pengguna\n- Memberikan kepastian hukum\n- Melindungi hak pengguna frekuensi",
+        "reference": "Pemberian perizinan penggunaan spektrum frekuensi radio harus melalui proses seleksi dalam hal permintaan dan\/atau kebutuhan penggunaan Spektrum Frekuensi Radio lebih dari ketersediaan Pita Frekuensi Radio. Hal ini dilakukan untuk memilih pengguna yang paling optimal dan efisien dalam memanfaatkan sumber daya spektrum yang terbatas tersebut, sehingga memberikan manfaat yang maksimal bagi masyarakat.",
+        "rougeL_precision(mode=precision)": 0.1847826087,
+        "rougeL_recall(mode=recall)": 0.3269230769,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2361111111,
+        "answer_relevancy": 0.9240891805,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa yang harus diperhatikan oleh Penyelenggara Sistem Elektronik dalam hal melakukan pengelolaan, pemrosesan, atau penyimpanan Data Pribadi Pengguna?",
+        "response": "Berdasarkan Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP), Penyelenggara Sistem Elektronik harus memperhatikan beberapa hal penting dalam pengelolaan Data Pribadi:\n\n1. Prinsip Dasar Perlindungan Data Pribadi:\n- Persetujuan (Consent) dari Pemilik Data\n- Transparansi dalam pengumpulan dan penggunaan data\n- Pembatasan tujuan pengumpulan data\n- Menjaga kerahasiaan dan keamanan data\n\n2. Kewajiban Utama:\n- Memperoleh persetujuan tertulis dari Pemilik Data\n- Memberikan informasi jelas tentang tujuan pengumpulan data\n- Melindungi data dari akses yang tidak sah\n- Menjamin keakuratan dan kualitas data\n\n3. Keamanan Data:\n- Menerapkan teknologi pengamanan data\n- Melakukan enkripsi data\n- Membatasi akses data\n- Memiliki prosedur pencegahan kebocoran data\n\n4. Hak Pemilik Data:\n- Memberikan hak akses dan koreksi data\n- Memungkinkan penarikan persetujuan\n- Menghapus data sesuai permintaan\n\n5. Dokumentasi dan Pelaporan:\n- Memiliki rekam jejak pengelolaan data\n- Melaporkan setiap kejadian pelanggaran data\n\n6. Aspek Hukum:\n- Mematuhi regulasi perlindungan data\n- Siap menghadapi konsekuensi hukum jika melakukan pelanggaran\n\nDengan memperhatikan hal-hal tersebut, Penyelenggara Sistem Elektronik dapat menjamin perlindungan Data Pribadi Pengguna sesuai ketentuan yang berlaku.",
+        "reference": "Penyelenggara Sistem Elektronik wajib melaksanakan prinsip pelindungan Data Pribadi dalam melakukan pemrosesan Data Pribadi, meliputi pengumpulan Data Pribadi yang terbatas dan sah, pemrosesan sesuai tujuan, menjamin hak pemilik Data Pribadi, menjaga akurasi data, melindungi keamanan data, memberitahukan tujuan pengumpulan dan kegagalan pelindungan data, serta memusnahkan data yang tidak relevan. Selain itu, Data Pribadi yang disimpan dalam Sistem Elektronik harus dalam bentuk data terenkripsi dan disimpan sesuai dengan ketentuan jangka waktu penyimpanan yang berlaku.",
+        "rougeL_precision(mode=precision)": 0.18125,
+        "rougeL_recall(mode=recall)": 0.397260274,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2489270386,
+        "answer_relevancy": 0.8758035877,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Bagaimana peran Pemerintah dalam memfasilitasi pemanfaatan Teknologi Informasi dan Transaksi Elektronik, serta melindungi kepentingan umum dari penyalahgunaan Informasi Elektronik?",
+        "response": "Berdasarkan Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE), peran Pemerintah dalam memfasilitasi dan melindungi pemanfaatan Teknologi Informasi dan Transaksi Elektronik meliputi beberapa aspek:\n\n1. Fasilitasi Pemanfaatan Teknologi Informasi:\n- Mengembangkan sistem elektronik nasional\n- Mendorong pengembangan infrastruktur digital\n- Memberikan kemudahan akses internet\n- Mendukung inovasi teknologi informasi\n- Mendorong literasi digital masyarakat\n\n2. Perlindungan Kepentingan Umum:\n- Menetapkan regulasi dan kebijakan\n- Mengawasi transaksi elektronik\n- Melindungi data pribadi\n- Mencegah kejahatan siber\n- Menjamin keamanan informasi elektronik\n\n3. Aspek Hukum:\n- Membuat regulasi yang komprehensif\n- Menegakkan hukum di ranah digital\n- Memberikan sanksi bagi pelanggar\n- Melindungi hak-hak pengguna digital\n\n4. Pemberdayaan Masyarakat:\n- Sosialisasi penggunaan teknologi\n- Pelatihan keamanan digital\n- Edukasi tentang etika bermedia sosial\n\n5. Pengembangan Infrastruktur:\n- Membangun jaringan telekomunikasi\n- Meningkatkan kualitas konektivitas\n- Mendorong investasi di sektor digital\n\nDengan demikian, Pemerintah memiliki peran strategis dalam menciptakan ekosistem digital yang aman, produktif, dan berkelanjutan.",
+        "reference": "Pemerintah memfasilitasi pemanfaatan Teknologi Informasi dan Transaksi Elektronik melalui penetapan dan pelaksanaan kebijakan, fasilitasi infrastruktur, promosi dan edukasi, serta pengawasan. Pemerintah juga melindungi kepentingan umum dari penyalahgunaan Informasi Elektronik dan Transaksi Elektronik yang mengganggu ketertiban umum melalui penetapan strategi keamanan siber nasional, pengaturan standar keamanan informasi, pengaturan penyelenggaraan pelindungan infrastruktur informasi vital, pengaturan manajemen risiko penyelenggaraan Sistem Elektronik, pengaturan sumber daya manusia dalam penyelenggaraan pelindungan Sistem Elektronik, penyelenggaraan pengamanan Informasi Elektronik, penyelenggaraan penanganan insiden keamanan informasi, dan penyelenggaraan penanganan tanggap darurat.",
+        "rougeL_precision(mode=precision)": 0.1510791367,
+        "rougeL_recall(mode=recall)": 0.2592592593,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1909090909,
+        "answer_relevancy": 0.910443004,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": " Apa kewajiban pelaku usaha ketika mereka akan melakukan usaha perdagangan melalui sistem elektronik? Terutama terkait dengan informasi produk dan perlindungan konsumen",
+        "response": "Berdasarkan Peraturan Pemerintah Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik (PMSE), pelaku usaha memiliki beberapa kewajiban utama:\n\n1. Kewajiban Informasi Produk:\n- Menyediakan informasi produk secara lengkap dan jelas\n- Mencantumkan harga produk dengan jelas\n- Menjelaskan kondisi, spesifikasi, dan kualitas barang\/jasa\n- Memberikan informasi pengiriman dan estimasi waktu\n- Menampilkan identitas dan legalitas usaha\n\n2. Perlindungan Konsumen:\n- Menjamin keamanan data konsumen\n- Memberikan mekanisme penanganan komplain\n- Menyediakan sistem pengembalian\/penukaran barang\n- Memberikan garansi produk\n- Melakukan transaksi dengan transparan\n- Menjamin keamanan sistem pembayaran\n\n3. Kewajiban Administratif:\n- Mendaftarkan usaha elektronik\n- Memiliki izin usaha yang sah\n- Membuat perjanjian elektronik yang jelas\n- Mematuhi ketentuan hukum yang berlaku\n\n4. Etika Bisnis:\n- Bersikap jujur\n- Tidak melakukan penipuan\n- Menjaga kualitas produk\n- Memberikan pelayanan prima\n\nDengan memenuhi kewajiban-kewajiban tersebut, pelaku usaha elektronik dapat memberikan perlindungan dan kepuasan kepada konsumen.",
+        "reference": "Pelaku Usaha wajib memberikan informasi yang benar, jelas, dan jujur tentang identitas subyek hukum yang didukung dengan data atau dokumen yang sah, karakteristik fungsi dan perannya dalam transaksi tersebut, dan memenuhi ketentuan etika periklanan. Selain itu, Pelaku Usaha wajib melindungi hak-hak Konsumen sesuai dengan ketentuan peraturan perundang-undangan di bidang perlindungan Konsumen dan menyediakan layanan pengaduan bagi Konsumen.",
+        "rougeL_precision(mode=precision)": 0.1230769231,
+        "rougeL_recall(mode=recall)": 0.2711864407,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1693121693,
+        "answer_relevancy": 0.8797887583,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa saja asas, fungsi, dan peranan pers nasional?",
+        "response": "Berdasarkan Undang-Undang Pers No. 40 Tahun 1999, pers nasional memiliki asas, fungsi, dan peranan sebagai berikut:\n\nAsas Pers Nasional:\n1. Kemerdekaan pers\n2. Independensi\n3. Objektifitas\n4. Keseimbangan\n5. Manfaat\n\nFungsi Pers Nasional:\n1. Fungsi Penyiaran Informasi\n- Menyampaikan informasi\n- Memberikan pencerahan\n- Mengembangkan pendapat umum\n\n2. Fungsi Mediasi\n- Menjembatani kepentingan masyarakat\n- Menyalurkan aspirasi publik\n\n3. Fungsi Edukasi\n- Mendidik masyarakat\n- Memberikan pengetahuan\n\n4. Fungsi Kontrol Sosial\n- Mengawasi jalannya pemerintahan\n- Mencegah penyalahgunaan kekuasaan\n\nPeranan Pers Nasional:\n1. Menegakkan demokrasi\n2. Menjaga kepentingan nasional\n3. Mencerdaskan kehidupan bangsa\n4. Memperjuangkan keadilan dan kebenaran",
+        "reference": "Pers nasional berasaskan prinsip-prinsip demokrasi, keadilan, dan supremasi hukum. Fungsi pers nasional adalah sebagai media informasi, pendidikan, hiburan, dan kontrol sosial, serta dapat berfungsi sebagai lembaga ekonomi. Peran pers nasional meliputi memenuhi hak masyarakat untuk mengetahui, menegakkan nilai-nilai dasar demokrasi, mengembangkan pendapat umum berdasarkan informasi yang tepat, akurat, dan benar, melakukan pengawasan, kritik, koreksi, dan saran terhadap hal-hal yang berkaitan dengan kepentingan umum, serta memperjuangkan keadilan dan kebenaran.",
+        "rougeL_precision(mode=precision)": 0.2,
+        "rougeL_recall(mode=recall)": 0.2535211268,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2236024845,
+        "answer_relevancy": 0.8896204187,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Tindakan apa saja yang dilarang dalam penggunaan Data Pribadi, dan sanksi pidana apa yang dapat dikenakan jika melanggar larangan tersebut?",
+        "response": "Berdasarkan Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP), berikut adalah tindakan yang dilarang dan sanksi pidananya:\n\nTindakan Terlarang:\n\n1. Pengumpulan Data Pribadi tanpa persetujuan\n2. Pengolahan Data Pribadi di luar tujuan semula\n3. Pembocoran Data Pribadi\n4. Penjualan Data Pribadi\n5. Penggunaan Data Pribadi untuk tujuan komersial tanpa izin\n\nSanksi Pidana:\n\n1. Pidana Penjara:\n- Maksimal 4 tahun\n- Maksimal 6 tahun untuk pelanggaran berat\n\n2. Pidana Denda:\n- Maksimal Rp 4 miliar\n- Maksimal Rp 6 miliar untuk pelanggaran berat\n\n3. Sanksi Administratif:\n- Peringatan tertulis\n- Denda administratif\n- Pemblokiran sementara\n- Pencabutan izin\n\nCatatan: Sanksi dapat berbeda tergantung tingkat pelanggaran.",
+        "reference": "Setiap Orang dilarang secara melawan hukum memperoleh atau mengumpulkan Data Pribadi yang bukan miliknya dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian Subjek Data Pribadi, mengungkapkan Data Pribadi yang bukan miliknya, dan menggunakan Data Pribadi yang bukan miliknya. Setiap Orang juga dilarang membuat Data Pribadi palsu atau memalsukan Data Pribadi dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian bagi orang lain. Pelanggaran terhadap larangan ini dapat dipidana dengan pidana penjara dan\/atau pidana denda.",
+        "rougeL_precision(mode=precision)": 0.18,
+        "rougeL_recall(mode=recall)": 0.2142857143,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1956521739,
+        "answer_relevancy": 0.9016903899,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa saja yang menjadi hak dan kewajiban pelaksana penyediaan KPU Telekomunikasi?",
+        "response": "Berdasarkan peraturan yang berlaku, hak dan kewajiban pelaksana penyediaan KPU (Kewajiban Pelayanan Universal) Telekomunikasi meliputi:\n\nHak Pelaksana:\n\n1. Mendapatkan dana kompensasi dari pemerintah\n2. Memperoleh insentif dan dukungan dari pemerintah\n3. Mendapatkan kemudahan perizinan\n4. Menerima bantuan pendanaan untuk pembangunan infrastruktur\n\nKewajiban Pelaksana:\n\n1. Menyediakan layanan telekomunikasi di wilayah yang belum terjangkau\n2. Memenuhi standar kualitas layanan yang ditetapkan pemerintah\n3. Memberikan akses telekomunikasi dengan harga terjangkau\n4. Melakukan pembangunan infrastruktur sesuai rencana\n5. Melaporkan secara berkala pelaksanaan kegiatan kepada pemerintah\n6. Menjaga keberlangsungan layanan telekomunikasi\n7. Memelihara dan merawat infrastruktur yang telah dibangun\n8. Mematuhi ketentuan dan regulasi yang berlaku",
+        "reference": "Pelaksana penyedia berhak mendapatkan akses interkoneksi dari penyelenggara jasa\/jaringan telekomunikasi, dapat diberikan uang muka dalam penyediaan akses telekomunikasi, berhak mendapatkan biaya sewa atas jasa penyediaan akses KPU telekomunikasi, dan berhak memperoleh seluruh pendapatan dari hasil penyediaan layanan KPU telekomunikasi. Pelaksana penyedia wajib membangun, mengoperasikan dan memelihara serta mengembangkan akses dan layanan KPU telekomunikasi, memberlakukan tarif layanan jasa teleponi dasar maksimal sesuai dengan tarif yang ditetapkan oleh penyelenggara jaringan tetap lokal dominan, menanggung resiko atas pendapatan dari penyediaan layanan KPU telekomunikasi, menjamin interoperability sistem yang dibangun dengan sistem milik penyelenggara telekomunikasi lainnya, menggunakan sistem penomoran yang telah dialokasikan, mengikuti ketentuan dalam Rencana Dasar Teknis yang ditetapkan oleh Menteri, melaksanakan pencatatan atas pendapatan dari hasil penyediaan KPU telekomunikasi dan dilaporkan secara berkala kepada BTIP, menyediakan akses dan menyampaikan data pengoperasian kepada BTIP.",
+        "rougeL_precision(mode=precision)": 0.1881188119,
+        "rougeL_recall(mode=recall)": 0.1450381679,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1637931034,
+        "answer_relevancy": 0.8967163233,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apakah terdapat kewajiban bagi Pelaksana Penyedia Kewajiban Pelayanan Universal (KPU) Telekomunikasi untuk menggunakan produk dalam negeri dalam penyelenggaraan layanan telekomunikasi?",
+        "response": "Berdasarkan peraturan perundang-undangan di Indonesia, terdapat beberapa ketentuan terkait penggunaan produk dalam negeri dalam penyelenggaraan telekomunikasi:\n\n1. Landasan Hukum\n- UU No. 11 Tahun 2020 tentang Cipta Kerja\n- Peraturan Menteri Komunikasi dan Informatika\n\n2. Kewajiban Penggunaan Produk Dalam Negeri\n- Pelaksana KPU Telekomunikasi diharuskan mengutamakan penggunaan produk dalam negeri\n- Prioritas penggunaan perangkat dan konten lokal\n- Mendukung pengembangan industri telekomunikasi nasional\n\n3. Persyaratan\n- Produk dalam negeri harus memenuhi standar teknis\n- Memiliki kualitas yang sesuai kebutuhan\n- Harga kompetitif\n\n4. Tujuan\n- Mendorong kemandirian teknologi\n- Melindungi industri telekomunikasi dalam negeri\n- Menciptakan lapangan kerja\n\n5. Mekanisme Implementasi\n- Melalui kebijakan pengadaan\n- Sertifikasi produk dalam negeri\n- Insentif penggunaan produk lokal",
+        "reference": "Benar, dalam penyediaan akses dan layanan telekomunikasi, Pelaksana Penyedia wajib menggunakan belanja modal (capital expenditure\/capex) sekurang-kurangnya 35% (tiga puluh lima persen) untuk pembelanjaan produksi dalam negeri. Jika Pelaksana Penyedia menggunakan spektrum frekuensi radio 2,3 GHz, mereka juga wajib menggunakan alat dan atau perangkat telekomunikasi yang memiliki tingkat komponen dalam negeri sekurang-kurangnya 20% (dua puluh persen).",
+        "rougeL_precision(mode=precision)": 0.0980392157,
+        "rougeL_recall(mode=recall)": 0.1694915254,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1242236025,
+        "answer_relevancy": 0.8824678237,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa saja kewajiban yang dimiliki oleh perusahaan penyelenggara telekomunikasi, seperti Telkom dan Indosat, terkait dengan pengamanan jaringan internet yang mereka kelola?",
+        "response": "Berdasarkan peraturan perundang-undangan di Indonesia, perusahaan telekomunikasi memiliki beberapa kewajiban utama dalam pengamanan jaringan internet:\n\n1. Perlindungan Data Pribadi\n- Menjaga kerahasiaan data pelanggan\n- Melindungi informasi pribadi dari akses tidak sah\n\n2. Keamanan Infrastruktur Jaringan\n- Menjaga kehandalan dan keamanan infrastruktur jaringan\n- Mencegah gangguan dan serangan siber\n- Memiliki sistem keamanan yang memadai\n\n3. Kepatuhan Regulasi\n- Mematuhi UU Informasi dan Transaksi Elektronik (ITE)\n- Mengikuti standar keamanan yang ditetapkan pemerintah\n- Melaporkan insiden keamanan yang terjadi\n\n4. Perlindungan Konsumen\n- Memberikan layanan internet yang aman\n- Menginformasikan risiko keamanan kepada pelanggan\n- Memberikan mekanisme pengaduan\n\n5. Kerja sama dengan Penegak Hukum\n- Membantu penyelidikan terkait kejahatan siber\n- Memberikan data yang diperlukan sesuai prosedur hukum",
+        "reference": "Perusahaan telekomunikasi, sebagai penyelenggara telekomunikasi yang menggunakan protokol internet, memiliki beberapa kewajiban penting dalam pengamanan jaringan internet. Pertama, mereka wajib melakukan rekaman transaksi koneksi (log file) yang mencatat detail akses pengguna, seperti alamat IP asal dan tujuan, jenis protokol, port, waktu, dan durasi transaksi. Rekaman ini harus disimpan minimal selama tiga bulan dan dilaporkan secara online ke sistem database ID-SIRTII. Jika koneksi online belum tersedia, laporan harus diserahkan offline setiap 14 hari. Kedua, perusahaan telekomunikasi wajib melakukan penyelarasan waktu (clock synchronization) dengan server yang ditetapkan oleh Direktur Jenderal untuk memastikan ketepatan catatan waktu transaksi. Dengan melakukan kewajiban ini, perusahaan telekomunikasi berperan aktif dalam mendukung upaya pengamanan jaringan internet secara nasional dan membantu penegakan hukum terkait kejahatan siber.",
+        "rougeL_precision(mode=precision)": 0.1886792453,
+        "rougeL_recall(mode=recall)": 0.1694915254,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1785714286,
+        "answer_relevancy": 0.9276707995,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Ketika menggunakan layanan internet di rumah, data apa saja yang dicatat oleh penyedia jasa layanan internet (ISP) seperti Telkom atau penyedia lainnya?",
+        "response": "Beberapa data yang biasa dicatat oleh ISP antara lain:\n\n1. Data Teknis\n- Alamat IP\n- Waktu koneksi\n- Durasi koneksi\n- Kecepatan akses\n- Jenis koneksi\n\n2. Data Penggunaan\n- Situs web yang dikunjungi\n- Waktu akses\n- Volume data yang diunduh\/diunggah\n- Protokol yang digunakan\n\n3. Data Pribadi\n- Nama pelanggan\n- Alamat\n- Nomor telepon\n- Email\n- Metode pembayaran\n\n4. Data Perangkat\n- Jenis perangkat\n- MAC address\n- Sistem operasi\n\n5. Data Lokasi\n- Koordinat geografis\n- Wilayah koneksi\n\nNamun, untuk melindungi privasi, disarankan:\n- Gunakan VPN\n- Aktifkan mode penyamaran\n- Hindari aktivitas ilegal",
+        "reference": "Provider internet seperti Telkom atau yang lainnya wajib mencatat setiap akses internet yang kamu lakukan. Data yang dicatat meliputi alamat IP kamu, alamat website atau aplikasi yang kamu akses, jenis protokol yang digunakan (misalnya HTTP atau HTTPS), nomor port yang digunakan, waktu akses, dan berapa lama kamu mengaksesnya. Pencatatan ini disebut rekaman transaksi koneksi atau log file.",
+        "rougeL_precision(mode=precision)": 0.1518987342,
+        "rougeL_recall(mode=recall)": 0.2105263158,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1764705882,
+        "answer_relevancy": 0.8614292729,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apabila seseorang memanfaatkan jaringan WiFi yang disediakan secara publik, misalnya di kafe atau warnet, apakah data pribadi yang bersangkutan turut terekam oleh penyedia layanan WiFi tersebut?",
+        "response": "Ya, ketika seseorang terhubung ke jaringan WiFi publik, data pribadi dan aktivitas online berpotensi terekam oleh penyedia layanan. Beberapa hal yang perlu diperhatikan:\n\n1. Potensi Risiko Keamanan:\n- Penyedia layanan dapat melihat lalu lintas data\n- Riwayat browsing bisa terekam\n- Informasi perangkat dapat terdeteksi\n\n2. Perlindungan yang Disarankan:\n- Gunakan VPN\n- Hindari transaksi keuangan\n- Aktifkan enkripsi HTTPS\n- Nonaktifkan berbagi file\n- Gunakan firewall\n\n3. Praktik Keamanan Tambahan:\n- Gunakan autentikasi dua faktor\n- Perbarui password secara berkala\n- Hindari login akun sensitif\n\n4. Kesadaran Privasi:\n- Baca kebijakan privasi penyedia\n- Pahami risiko jaringan publik\n- Berhati-hati dalam berbagi data\n\nKesimpulannya, kehati-hatian dan langkah preventif sangat penting.",
+        "reference": "Iya, pengelola kafe, warnet, atau tempat lainnya yang menyediakan WiFi gratis (hotspot) juga wajib mendata setiap pengguna internetnya. Data yang dicatat minimal identitas kamu dan waktu kamu mulai dan selesai menggunakan internet di sana.",
+        "rougeL_precision(mode=precision)": 0.0404040404,
+        "rougeL_recall(mode=recall)": 0.1176470588,
+        "rougeL_fmeasure(mode=fmeasure)": 0.0601503759,
+        "answer_relevancy": 0.8339568186,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Terkait pengamanan jaringan internet. Apa sebenarnya yang ingin diamankan dan ancaman apa saja yang perlu diwaspadai?",
+        "response": "Dalam pengamanan jaringan internet, hal-hal yang perlu diamankan dan ancaman yang perlu diwaspadai meliputi:\n\nYang Ingin Diamankan:\n1. Data pribadi\n2. Informasi rahasia\n3. Akses sistem\n4. Infrastruktur jaringan\n5. Komunikasi\n\nAncaman Utama:\n1. Malware\n- Virus\n- Trojan\n- Ransomware\n- Spyware\n\n2. Serangan Jaringan\n- DDoS\n- Man-in-the-middle\n- Phishing\n- SQL Injection\n\n3. Peretasan\n- Pembobolan akun\n- Pencurian data\n- Pengintaian\n- Sabotase sistem\n\n4. Kerentanan Keamanan\n- Celah sistem operasi\n- Kelemahan aplikasi\n- Konfigurasi yang tidak aman\n\nStrategi Pengamanan:\n- Firewall\n- Antivirus\n- Enkripsi\n- Autentikasi bertingkat\n- Update sistem berkala\n- Pelatihan keamanan",
+        "reference": "Pengamanan jaringan telekomunikasi berbasis protokol internet bertujuan untuk menciptakan lingkungan dan pemanfaatan jaringan yang aman dari berbagai macam potensi ancaman dan gangguan. Ruang lingkup pengamanan meliputi koordinasi pencegahan, pemantauan, pendeteksian, dan peringatan dini terhadap ancaman dan gangguan pada jaringan telekomunikasi berbasis protokol internet nasional, khususnya infrastruktur strategis. Koordinasi pengamanan infrastruktur strategis ini mencakup bidang-bidang yang menyangkut keselamatan dan keamanan manusia, hajat hidup masyarakat, pelayanan umum, sumber daya milik bangsa, dan potensi ekonomi negara, antara lain bidang pemerintahan, layanan publik, pertahanan, sumber daya alam, perhubungan, keuangan, pendidikan, perdagangan, telekomunikasi, dan pariwisata.",
+        "rougeL_precision(mode=precision)": 0.130952381,
+        "rougeL_recall(mode=recall)": 0.1208791209,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1257142857,
+        "answer_relevancy": 0.8798846333,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apa itu Internet Exchange Point dan apa kewajibannya untuk menjaga keamanan internet?",
+        "response": "Internet Exchange Point (IXP) adalah infrastruktur jaringan yang memungkinkan penyedia layanan internet (ISP) dan jaringan lainnya saling bertukar lalu lintas internet secara langsung. Berikut adalah penjelasan lebih detail tentang IXP dan perannya dalam keamanan internet:\n\nFungsi Utama IXP:\n1. Pertukaran lalu lintas internet antar jaringan\n2. Meningkatkan kecepatan koneksi\n3. Mengurangi biaya transmisi data\n4. Meningkatkan kualitas koneksi internet\n\nPeran dalam Keamanan Internet:\n1. Memfilter lalu lintas berbahaya\n2. Mencegah serangan DDoS\n3. Melakukan monitoring lalu lintas\n4. Menerapkan protokol keamanan\n5. Berbagi informasi ancaman\n\nKewajiban Keamanan:\n- Mengimplementasikan firewall\n- Melakukan pengawasan berkala\n- Memperbarui sistem keamanan\n- Melindungi data pengguna\n- Mencegah akses tidak sah\n\nIXP berperan penting dalam menjaga infrastruktur dan keamanan internet.",
+        "reference": "Internet Exchange Point (IXP) adalah titik di mana routing internet nasional berkumpul untuk saling berinterkoneksi. Dengan kata lain, IXP merupakan infrastruktur penting yang memungkinkan pertukaran lalu lintas data internet antar penyelenggara jaringan di Indonesia. Berkaitan dengan pengamanan jaringan internet, pengelola Internet Exchange Point memiliki kewajiban untuk mengaktifkan dan menyediakan fasilitas monitoring jaringan. Fasilitas ini harus terhubung secara online kepada sistem database pemantauan dan pengamanan pemanfaatan jaringan telekomunikasi berbasis protokol internet.",
+        "rougeL_precision(mode=precision)": 0.1801801802,
+        "rougeL_recall(mode=recall)": 0.2857142857,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2209944751,
+        "answer_relevancy": 0.9034186258,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa itu Uji Laik Operasi (ULO) dan kapan penyelenggara jaringan telekomunikasi harus melaksanakannya?",
+        "response": "Uji Laik Operasi (ULO) adalah:\n\n1. Definisi\n- Pengujian kelayakan teknis dan operasional suatu jaringan telekomunikasi\n- Dilakukan sebelum jaringan telekomunikasi beroperasi secara komersial\n\n2. Tujuan ULO\n- Memastikan kualitas dan kehandalan infrastruktur telekomunikasi\n- Menjamin keamanan dan keselamatan pengoperasian jaringan\n- Memenuhi standar teknis yang ditetapkan pemerintah\n\n3. Kapan harus dilaksanakan\n- Sebelum memulai operasi komersial jaringan\n- Pada saat:\n  a. Pembangunan jaringan baru\n  b. Pengembangan\/perluasan jaringan\n  c. Pergantian\/upgrade perangkat utama jaringan\n\n4. Pihak yang melakukan\n- Penyelenggara jaringan telekomunikasi\n- Dengan pengawasan dari Kementerian Komunikasi dan Informatika\n\n5. Ruang lingkup pengujian\n- Aspek teknis\n- Aspek keamanan\n- Aspek kualitas layanan",
+        "reference": "Uji Laik Operasi (ULO) adalah pengujian teknis yang dilakukan untuk memastikan bahwa jaringan telekomunikasi yang dibangun telah memenuhi standar teknis dan operasional yang ditetapkan. Pemilik izin prinsip yang telah siap menyelenggarakan jaringan telekomunikasi wajib mengajukan permohonan ULO kepada Direktur Jenderal paling lama 30 hari kerja sebelum izin prinsip berakhir. ULO juga wajib dilaksanakan setiap kali ada penambahan kapasitas, perluasan lokasi, atau realokasi yang mengalami perubahan teknologi.",
+        "rougeL_precision(mode=precision)": 0.1935483871,
+        "rougeL_recall(mode=recall)": 0.2727272727,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2264150943,
+        "answer_relevancy": 0.938585037,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa bedanya proses seleksi dan evaluasi untuk mendapatkan izin penyelenggaraan jaringan telekomunikasi?",
+        "response": "Proses seleksi dan evaluasi untuk mendapatkan izin penyelenggaraan jaringan telekomunikasi memiliki beberapa perbedaan penting:\n\nSeleksi:\n1. Tahap awal untuk menilai kelayakan calon penyelenggara\n2. Fokus pada persyaratan administratif dan teknis\n3. Menyeleksi calon berdasarkan kriteria yang telah ditentukan\n4. Bersifat lebih umum dan menyeluruh\n5. Bertujuan menyaring calon yang memenuhi syarat\n\nEvaluasi:\n1. Tahap lanjutan setelah seleksi\n2. Menilai secara mendalam kemampuan teknis dan finansial\n3. Menganalisis detail rencana bisnis dan teknologi\n4. Lebih spesifik dan komprehensif\n5. Memutuskan kelayakan izin secara final\n\nKedua proses ini dilakukan oleh regulator telekomunikasi untuk memastikan kualitas dan kepatuhan penyelenggara jaringan.",
+        "reference": "Proses seleksi digunakan untuk penyelenggaraan jaringan telekomunikasi yang jumlah penyelenggaranya dibatasi, misalnya karena keterbatasan sumber daya seperti spektrum frekuensi radio. Dalam proses ini, calon penyelenggara harus mengikuti serangkaian tahapan seleksi yang ketat. Sementara itu, proses evaluasi digunakan untuk penyelenggaraan jaringan telekomunikasi yang jumlah penyelenggaranya tidak dibatasi. Proses ini lebih sederhana dan fokus pada pemenuhan persyaratan administrasi dan teknis. Evaluasi juga dilakukan dengan memperhatikan persaingan usaha yang sehat, perlindungan investasi, perbandingan ketersediaan layanan dengan kebutuhan masyarakat, dan efisiensi nasional.",
+        "rougeL_precision(mode=precision)": 0.1649484536,
+        "rougeL_recall(mode=recall)": 0.2051282051,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1828571429,
+        "answer_relevancy": 0.9208961143,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apakah izin penyelenggaraan jaringan telekomunikasi berlaku selamanya?",
+        "response": "Tidak, izin penyelenggaraan jaringan telekomunikasi tidak berlaku selamanya. Pada umumnya, izin tersebut memiliki masa berlaku tertentu dan perlu diperpanjang. Berikut beberapa hal penting terkait izin jaringan telekomunikasi:\n\n1. Masa Berlaku\n- Biasanya izin berlaku untuk jangka waktu tertentu, misalnya 5 tahun\n- Setelah masa berlaku habis, harus dilakukan perpanjangan\n\n2. Perpanjangan Izin\n- Dilakukan sebelum masa berlaku izin berakhir\n- Memerlukan permohonan perpanjangan ke instansi berwenang\n- Harus memenuhi persyaratan yang ditentukan\n\n3. Persyaratan Perpanjangan\n- Kelengkapan dokumen administratif\n- Pemenuhan ketentuan teknis\n- Pembayaran biaya perpanjangan izin\n\n4. Konsekuensi Tidak Diperpanjang\n- Izin tidak berlaku lagi\n- Tidak dapat menyelenggarakan jaringan telekomunikasi\n- Dapat dikenakan sanksi",
+        "reference": "Izin penyelenggaraan jaringan telekomunikasi diberikan tanpa batas waktu. Namun, setiap tahun dilakukan evaluasi dan setiap 5 tahun dilakukan evaluasi secara menyeluruh. Jika hasil evaluasi menunjukkan bahwa Anda tidak memenuhi ketentuan, izin Anda bisa dicabut. Pasal 74 mengatur tentang evaluasi ini.",
+        "rougeL_precision(mode=precision)": 0.1145833333,
+        "rougeL_recall(mode=recall)": 0.275,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1617647059,
+        "answer_relevancy": 1.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa yang dimaksud dengan Layanan Konten SMS Premium dan apa saja kewajiban penyelenggaranya?",
+        "response": "Layanan Konten SMS Premium adalah:\n\nDefinisi:\n- Layanan SMS berbayar dengan konten tertentu\n- Diselenggarakan oleh penyedia jasa telekomunikasi\n- Memiliki tarif khusus yang lebih tinggi dari SMS biasa\n\nKewajiban Penyelenggara:\n\n1. Aspek Teknis\n- Menjamin keamanan sistem\n- Melindungi data pelanggan\n- Memastikan kualitas konten\n- Menggunakan sistem pembayaran yang aman\n\n2. Aspek Hukum\n- Memiliki izin resmi dari regulator\n- Mematuhi peraturan telekomunikasi\n- Transparan dalam penetapan tarif\n- Melindungi hak konsumen\n\n3. Aspek Pelayanan\n- Memberikan informasi tarif yang jelas\n- Menyediakan mekanisme berhenti berlangganan\n- Memberikan layanan customer service\n- Menangani komplain pelanggan\n\n4. Aspek Etika\n- Tidak menyediakan konten yang melanggar norma\n- Melindungi anak-anak dari konten tidak pantas\n- Menjaga privasi pelanggan",
+        "reference": "Layanan Konten SMS Premium adalah jenis layanan dalam Penyelenggaraan Jasa Telekomunikasi yang menyediakan Konten dengan memanfaatkan pesan pendek premium dan\/atau mekanisme lainnya. Penyelenggara Layanan Konten SMS Premium wajib menyediakan Alat dan\/atau Perangkat Telekomunikasi, menjamin setiap Penyedia Konten Independen yang berkontribusi telah sesuai dengan ketentuan peraturan perundang-undangan, membuat perjanjian kerja sama jika menyalurkan Konten dari Penyedia Konten Independen asing, melakukan kerja sama dengan Penyelenggara Jasa Telekomunikasi yang menyelenggarakan layanan Teleponi Dasar, dan memenuhi Komitmen Layanan berupa jumlah perjanjian kerja sama dengan Penyedia Konten Independen.",
+        "rougeL_precision(mode=precision)": 0.1782178218,
+        "rougeL_recall(mode=recall)": 0.2093023256,
+        "rougeL_fmeasure(mode=fmeasure)": 0.192513369,
+        "answer_relevancy": 0.9143799303,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apakah benar siaran televisi analog akan diberhentikan, dan jika benar apa yang akan menggantikannya?",
+        "response": "Ya, benar bahwa siaran televisi analog akan dihentikan dan digantikan oleh siaran televisi digital. Berikut beberapa informasi penting:\n\n1. Proses Transisi\n- Indonesia sudah mulai melakukan transisi dari analog ke digital sejak beberapa tahun terakhir\n- Proses ini bertujuan meningkatkan kualitas siaran dan efisiensi spektrum frekuensi\n\n2. Teknologi Pengganti\n- Siaran Televisi Digital Terestrial (TV Digital)\n- Menggunakan teknologi DVB-T2 (Digital Video Broadcasting - Second Generation Terrestrial)\n\n3. Keunggulan TV Digital\n- Kualitas gambar dan suara lebih jernih\n- Lebih hemat frekuensi\n- Dapat menampilkan beberapa saluran dalam satu frekuensi\n- Mendukung siaran dalam format HD\n\n4. Cara Menerima Siaran Digital\n- Menggunakan TV digital\n- Menggunakan set-top box untuk TV analog\n\nPemerintah Indonesia terus mendorong percepatan transisi menuju siaran digital.",
+        "reference": "Benar, siaran televisi analog akan diberhentikan secara bertahap dan digantikan dengan siaran televisi digital melalui terestrial. Penghentian siaran televisi analog ini dilakukan dengan berpedoman pada pentahapan berdasarkan Wilayah Layanan Siaran dengan keseluruhan waktu pelaksanaan yang tidak melewati tanggal 2 November 2022 pukul 24:00 Waktu Indonesia Barat.",
+        "rougeL_precision(mode=precision)": 0.1339285714,
+        "rougeL_recall(mode=recall)": 0.3191489362,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1886792453,
+        "answer_relevancy": 0.9679776729,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa itu PSE Lingkup Privat dan siapa saja yang termasuk di dalamnya?",
+        "response": "PSE (Penyelenggara Sistem Elektronik) Lingkup Privat adalah:\n\nDefinisi:\n- Badan hukum privat yang menyelenggarakan sistem elektronik\n- Diatur dalam Peraturan Pemerintah Nomor 71 Tahun 2019\n\nYang termasuk PSE Lingkup Privat:\n1. Perusahaan Teknologi Informasi\n2. E-commerce\n3. Platform Media Sosial\n4. Startup Digital\n5. Perusahaan Fintech\n6. Platform Streaming\n7. Marketplace Online\n8. Perusahaan Telekomunikasi\n9. Perusahaan Cloud Computing\n10. Platform Berbagi Konten Digital\n\nKriteria:\n- Memiliki sistem elektronik sendiri\n- Melayani transaksi\/layanan digital\n- Menyimpan data elektronik\n- Beroperasi di Indonesia\n\nKewajiban:\n- Mendaftarkan diri ke Kementerian Komunikasi dan Informatika\n- Memenuhi persyaratan keamanan informasi\n- Melindungi data pribadi pengguna",
+        "reference": "PSE Lingkup Privat adalah Penyelenggara Sistem Elektronik yang diselenggarakan oleh orang, badan usaha, dan masyarakat. Ini mencakup berbagai platform dan layanan online yang kita gunakan sehari-hari, seperti e-commerce, fintech, media sosial, aplikasi chatting, mesin pencari, dan lain-lain. Intinya, semua sistem elektronik yang menyediakan layanan ke publik tapi bukan diselenggarakan oleh instansi pemerintah.",
+        "rougeL_precision(mode=precision)": 0.1595744681,
+        "rougeL_recall(mode=recall)": 0.2727272727,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2013422819,
+        "answer_relevancy": 0.9158026689,
+        "nv_accuracy": 1.0
+    },
+    {
+        "user_input": "Apa yang akan terjadi jika suatu PSE Lingkup Privat tidak melakukan pendaftaran ke kementerian?",
+        "response": "Jika suatu Penyelenggara Sistem Elektronik (PSE) Lingkup Privat tidak melakukan pendaftaran ke kementerian, akan terdapat beberapa konsekuensi:\n\n1. Sanksi Administratif\n- Peringatan tertulis\n- Pembatasan kegiatan\n- Denda administratif\n\n2. Konsekuensi Hukum\n- Tidak memiliki legalitas resmi\n- Berisiko diblokir oleh pemerintah\n- Dapat dikenai tuntutan hukum\n\n3. Risiko Operasional\n- Tidak dapat beroperasi secara legal\n- Potensi gangguan layanan\n- Kehilangan kepercayaan pengguna\n\n4. Kemungkinan Pemblokiran\n- Akses internet dapat dibatasi\n- Layanan elektronik bisa ditutup\n\n5. Dampak Bisnis\n- Kehilangan reputasi\n- Potensi kerugian finansial\n- Kesulitan mendapatkan mitra bisnis\n\nOleh karena itu, pendaftaran PSE sangat penting untuk menjamin legalitas dan kelangsungan usaha.",
+        "reference": "Jika PSE Lingkup Privat tidak melakukan pendaftaran, Menteri Komunikasi dan Informatika dapat memberikan sanksi administratif berupa Pemutusan Akses terhadap Sistem Elektronik (access blocking). Artinya, website atau aplikasi tersebut bisa diblokir dan tidak bisa diakses oleh pengguna di Indonesia.",
+        "rougeL_precision(mode=precision)": 0.1428571429,
+        "rougeL_recall(mode=recall)": 0.3421052632,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2015503876,
+        "answer_relevancy": 0.9103570326,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Ke daerah mana saja cakupan wilayah Siaran yang diperbolehkan dalam penyelenggaraan Penyiaran?",
+        "response": "Berdasarkan Undang-Undang Penyiaran No. 32 Tahun 2002, cakupan wilayah siaran yang diperbolehkan dalam penyelenggaraan penyiaran dibagi menjadi beberapa kategori:\n\n1. Siaran Lokal\n- Meliputi wilayah satu kabupaten\/kota\n- Jangkauan terbatas pada satu daerah tertentu\n\n2. Siaran Provinsi\n- Mencakup wilayah satu provinsi\n- Dapat dijangkau di seluruh wilayah provinsi tersebut\n\n3. Siaran Nasional\n- Mencakup seluruh wilayah Indonesia\n- Dapat diterima di berbagai provinsi\n\n4. Siaran Internasional\n- Dapat diterima di luar wilayah Indonesia\n- Menggunakan teknologi satelit atau media internasional\n\nSetiap kategori memiliki izin dan persyaratan yang berbeda dalam penyelenggaraannya.",
+        "reference": "Penyelenggaraan Penyiaran dapat dilakukan dengan cakupan wilayah Siaran meliputi seluruh Indonesia, regional, dan\/atau lokal dengan terlebih dahulu memperoleh persetujuan Menteri.",
+        "rougeL_precision(mode=precision)": 0.0941176471,
+        "rougeL_recall(mode=recall)": 0.380952381,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1509433962,
+        "answer_relevancy": 0.8487542081,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Bagaimana cara mendapatkan IPP untuk penyelenggaraan Penyiaran?",
+        "response": "Untuk mendapatkan IPP (Izin Penyelenggaraan Penyiaran) di Indonesia, berikut adalah langkah-langkah umumnya:\n\n1. Persyaratan Umum:\n- Berbadan hukum Indonesia\n- Memiliki Akta Pendirian Perusahaan\n- Memiliki NPWP\n- Memiliki modal yang memadai\n\n2. Dokumen yang Diperlukan:\n- Proposal lengkap\n- Studi kelayakan\n- Rencana bisnis\n- Dokumen legalitas perusahaan\n- Surat pernyataan kesanggupan\n\n3. Proses Pengajuan:\n- Mendaftar ke Komisi Penyiaran Indonesia (KPI)\n- Mengisi formulir pendaftaran\n- Melengkapi persyaratan administratif\n- Mengikuti uji kelayakan\n\n4. Tahapan Perizinan:\n- Pemeriksaan administrasi\n- Evaluasi proposal\n- Wawancara\n- Verifikasi lapangan\n- Penetapan izin\n\n5. Biaya:\n- Sesuai peraturan yang berlaku\n- Bervariasi tergantung jenis penyiaran\n\nDisarankan konsultasi langsung dengan KPI untuk detail terkini.",
+        "reference": "Untuk mendapatkan IPP, Pelaku Usaha harus memenuhi ketentuan Perizinan Berusaha sesuai dengan peraturan perundang-undangan. Permohonan IPP untuk Penyelenggaraan Penyiaran melalui media terestrial diajukan setelah adanya pengumuman peluang penyelenggaraan Penyiaran oleh Menteri. Namun, ada pengecualian untuk daerah tertinggal, terdepan, dan terluar. Jika jumlah permohonan melebihi ketersediaan kanal frekuensi radio dan\/atau Slot Multipleksing, IPP diberikan melalui mekanisme seleksi.",
+        "rougeL_precision(mode=precision)": 0.0860215054,
+        "rougeL_recall(mode=recall)": 0.1379310345,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1059602649,
+        "answer_relevancy": 0.9008453972,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apakah Informasi Elektronik bisa dijadikan alat bukti yang sah di pengadilan?",
+        "response": "Ya, Informasi Elektronik dapat dijadikan alat bukti yang sah di pengadilan berdasarkan UU ITE (Undang-Undang Informasi dan Transaksi Elektronik) No. 11 Tahun 2008 jo UU No. 19 Tahun 2016. Berikut penjelasannya:\n\n1. Landasan Hukum\n- Pasal 5 ayat (1) UU ITE menyatakan bahwa Informasi Elektronik dan\/atau Dokumen Elektronik dianggap sah sebagai alat bukti hukum.\n\n2. Syarat-syarat Alat Bukti Elektronik\n- Memiliki integritas data\n- Dapat dipertanggungjawabkan\n- Dapat ditelusuri autentitasnya\n- Tidak mengalami perubahan\n\n3. Jenis Alat Bukti Elektronik\n- Email\n- Rekaman percakapan\n- Dokumen digital\n- Screenshot\n- Transaksi online\n- Bukti transfer\n\n4. Kekuatan Pembuktian\n- Memiliki nilai yang sama dengan alat bukti tertulis\n- Dapat digunakan dalam proses peradilan\n\nNamun, tetap memperhatikan keaslian dan keabsahan bukti elektronik.",
+        "reference": "Ya, Informasi Elektronik dan\/atau Dokumen Elektronik dan\/atau hasil cetaknya merupakan alat bukti hukum yang sah. Bahkan, UU ITE menyebutkan bahwa ini merupakan perluasan dari alat bukti yang sah sesuai dengan Hukum Acara yang berlaku di Indonesia.",
+        "rougeL_precision(mode=precision)": 0.1261261261,
+        "rougeL_recall(mode=recall)": 0.3684210526,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1879194631,
+        "answer_relevancy": 0.9378276121,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa saja perbuatan yang dilarang dalam UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik?",
+        "response": "Berdasarkan UU ITE Nomor 11 Tahun 2008 (yang telah diubah), beberapa perbuatan yang dilarang adalah:\n\n1. Penyebaran Konten Ilegal\n- Pornografi\n- Penghinaan\/pencemaran nama baik\n- Pemerasan\n- Berita bohong\n- Ujaran kebencian\n\n2. Tindak Pidana Elektronik\n- Pembobolan sistem elektronik\n- Intersepsi data elektronik\n- Perusakan sistem elektronik\n- Pencurian data digital\n- Penyebaran virus komputer\n\n3. Transaksi Elektronik Ilegal\n- Penipuan online\n- Transaksi tidak sah\n- Pemalsuan dokumen elektronik\n\n4. Pelanggaran Privasi\n- Penyebaran informasi pribadi tanpa izin\n- Penggunaan data pribadi secara ilegal\n\n5. Perjudian Online\n- Menyelenggarakan\/terlibat perjudian elektronik\n\nSetiap pelanggaran dapat dikenai sanksi pidana dan denda sesuai ketentuan UU ITE.",
+        "reference": "UU ITE melarang berbagai perbuatan, di antaranya mendistribusikan\/mentransmisikan konten yang melanggar kesusilaan, perjudian, penghinaan\/pencemaran nama baik, pemerasan\/pengancaman, menyebarkan berita bohong yang merugikan konsumen, menyebarkan informasi yang menimbulkan kebencian\/permusuhan berdasarkan SARA, mengirimkan informasi yang berisi ancaman kekerasan, mengakses sistem elektronik orang lain tanpa hak, melakukan intersepsi\/penyadapan ilegal, mengubah\/merusak informasi elektronik, dan melakukan tindakan yang mengakibatkan terganggunya sistem elektronik.",
+        "rougeL_precision(mode=precision)": 0.2065217391,
+        "rougeL_recall(mode=recall)": 0.3015873016,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2451612903,
+        "answer_relevancy": 0.8916628701,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa saja sanksi pidana yang bisa dikenakan jika melanggar UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik??",
+        "response": "Berdasarkan UU ITE (UU No. 11 Tahun 2008 yang telah diubah dengan UU No. 19 Tahun 2016), beberapa sanksi pidana yang dapat dikenakan adalah:\n\n1. Pasal Pencemaran Nama Baik\n- Pidana penjara maksimal 6 tahun\n- Denda maksimal Rp. 1 miliar\n\n2. Pasal Penghinaan\/Pencemaran\n- Pidana penjara maksimal 4 tahun\n- Denda maksimal Rp. 750 juta\n\n3. Pasal Pemerasan\/Ancaman\n- Pidana penjara maksimal 4 tahun\n- Denda maksimal Rp. 750 juta\n\n4. Pasal Pornografi Elektronik\n- Pidana penjara maksimal 4-10 tahun\n- Denda maksimal Rp. 2 miliar\n\n5. Pasal Penyebaran Berita Bohong\n- Pidana penjara maksimal 6 tahun\n- Denda maksimal Rp. 1 miliar\n\n6. Akses Ilegal ke Sistem Elektronik\n- Pidana penjara maksimal 8 tahun\n- Denda maksimal Rp. 800 juta\n\nSanksi bervariasi tergantung jenis dan bobot pelanggaran.",
+        "reference": "Sanksi pidana dalam UU ITE bervariasi tergantung pada jenis pelanggarannya. Ada yang dipidana dengan pidana penjara paling lama 6 tahun dan\/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah), ada juga yang dipidana dengan pidana penjara paling lama 12 tahun dan\/atau denda paling banyak Rp12.000.000.000,00 (dua belas miliar rupiah).",
+        "rougeL_precision(mode=precision)": 0.125,
+        "rougeL_recall(mode=recall)": 0.2586206897,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1685393258,
+        "answer_relevancy": 0.8571111111,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apakah ada kewajiban bagi Penyelenggara Sistem Elektronik untuk melindungi anak-anak yang menggunakan layanan mereka?",
+        "response": "Ya, Penyelenggara Sistem Elektronik memiliki kewajiban untuk melindungi anak-anak yang menggunakan layanannya. Beberapa kewajiban tersebut antara lain:\n\n1. Berdasarkan UU ITE dan Perlindungan Anak:\n- Melakukan filter konten yang tidak sesuai untuk anak\n- Membatasi akses konten dewasa\n- Melindungi data pribadi anak\n\n2. Upaya perlindungan:\n- Menyediakan fitur pengawasan orangtua\n- Membuat sistem verifikasi umur\n- Memberikan edukasi keamanan digital\n- Melaporkan aktivitas berbahaya\n\n3. Konsekuensi hukum:\n- Dapat dikenakan sanksi jika lalai melindungi anak\n- Bertanggung jawab atas dampak yang terjadi\n\n4. Prinsip utama:\n- Menjamin keselamatan\n- Melindungi privasi\n- Mencegah eksploitasi\n\nPerlindungan anak di dunia digital merupakan tanggung jawab bersama.",
+        "reference": "Ya, Penyelenggara Sistem Elektronik wajib memberikan pelindungan bagi anak yang menggunakan atau mengakses Sistem Elektronik. Pelindungan ini meliputi pelindungan terhadap hak anak sebagaimana dimaksud dalam peraturan perundang-undangan mengenai penggunaan produk, layanan, dan fitur yang dikembangkan dan diselenggarakan oleh Penyelenggara Sistem Elektronik.",
+        "rougeL_precision(mode=precision)": 0.1075268817,
+        "rougeL_recall(mode=recall)": 0.2380952381,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1481481481,
+        "answer_relevancy": 0.9108532306,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa yang dimaksud dengan 'intersepsi' atau 'penyadapan' dalam UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik, dan apakah semua tindakan penyadapan dilarang?",
+        "response": "Berdasarkan UU ITE No. 11 Tahun 2008 (yang telah diubah dengan UU No. 19 Tahun 2016), berikut penjelasan tentang intersepsi\/penyadapan:\n\nDefinisi Intersepsi:\n1. Kegiatan untuk mendengarkan, merekam, mengubah, menghambat, atau mencatat transmisi informasi elektronik dan\/atau dokumen elektronik\n\nKetentuan Hukum:\n1. Pada prinsipnya, intersepsi tanpa izin adalah dilarang\n2. Pengecualian diperbolehkan dengan izin dari pihak berwenang:\n- Untuk kepentingan penegakan hukum\n- Atas perintah pengadilan\n- Dilakukan oleh lembaga resmi yang berwenang\n\nSanksi Pelanggaran:\n- Pidana penjara maksimal 10 tahun\n- Denda maksimal Rp 800 juta\n\nKesimpulan:\nTidak semua penyadapan dilarang, tetapi harus melalui prosedur hukum yang sah dan dilakukan oleh pihak berwenang.",
+        "reference": "Intersepsi atau penyadapan adalah kegiatan melakukan intervensi atau penyadapan atas Informasi Elektronik dan\/atau Dokumen Elektronik dalam suatu Komputer dan\/atau Sistem Elektronik tertentu milik Orang lain. UU ITE melarang intersepsi atau penyadapan yang dilakukan tanpa hak atau melawan hukum. Namun, ada pengecualian untuk intersepsi yang dilakukan dalam rangka penegakan hukum atas permintaan kepolisian, kejaksaan, atau institusi lainnya yang kewenangannya ditetapkan berdasarkan undang-undang.",
+        "rougeL_precision(mode=precision)": 0.1818181818,
+        "rougeL_recall(mode=recall)": 0.28125,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2208588957,
+        "answer_relevancy": 0.8908716337,
+        "nv_accuracy": 1.0
+    },
+    {
+        "user_input": "Apa saja kewajiban Penyelenggara Sistem Elektronik?",
+        "response": "Berdasarkan Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE), Penyelenggara Sistem Elektronik memiliki beberapa kewajiban, antara lain:\n\n1. Mengoperasikan Sistem Elektronik secara andal dan aman\n\n2. Melindungi kerahasiaan, keutuhan, dan ketersediaan data pribadi pengguna\n\n3. Bertanggung jawab atas kerugian yang ditimbulkan akibat kesalahan atau kelalaian dalam pengoperasian sistem elektronik\n\n4. Menyediakan mekanisme pengaduan pengguna\n\n5. Menjamin keberlangsungan layanan sistem elektronik\n\n6. Memastikan sistem elektronik memenuhi persyaratan minimum:\n- Kehandalan\n- Keamanan\n- Kemampuan\n- Kapasitas\n\n7. Melakukan pencadangan data (backup)\n\n8. Memiliki dokumen pendukung sistem elektronik\n\n9. Memenuhi standar sertifikasi keamanan sistem elektronik\n\n10. Mematuhi ketentuan peraturan perundang-undangan yang berlaku.",
+        "reference": "Setiap Penyelenggara Sistem Elektronik harus menyelenggarakan Sistem Elektronik secara andal dan aman serta bertanggung jawab terhadap beroperasinya Sistem Elektronik sebagaimana mestinya. Selain itu, mereka juga wajib mengoperasikan Sistem Elektronik yang memenuhi persyaratan minimum, seperti dapat menampilkan kembali Informasi Elektronik secara utuh, melindungi ketersediaan, keutuhan, keotentikan, kerahasiaan, dan keteraksesan Informasi Elektronik, serta memiliki mekanisme yang berkelanjutan untuk menjaga kebaruan, kejelasan, dan kebertanggungjawaban prosedur atau petunjuk.",
+        "rougeL_precision(mode=precision)": 0.2058823529,
+        "rougeL_recall(mode=recall)": 0.328125,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2530120482,
+        "answer_relevancy": 0.8655017986,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa judul dari Peraturan Pemerintah (PP) Nomor 80 Tahun 2019?",
+        "response": "Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 berjudul \"Perdagangan Melalui Sistem Elektronik (Sistem E-Commerce)\". Peraturan ini mengatur tentang tata cara dan ketentuan perdagangan yang dilakukan melalui sistem elektronik atau e-commerce di Indonesia.",
+        "reference": "Judul dari Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 adalah Perdagangan Melalui Sistem Elektronik.",
+        "rougeL_precision(mode=precision)": 0.3235294118,
+        "rougeL_recall(mode=recall)": 0.7857142857,
+        "rougeL_fmeasure(mode=fmeasure)": 0.4583333333,
+        "answer_relevancy": 0.935049339,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa isi Pasal 2 Peraturan Pemerintah (PP) Nomor 80 Tahun 2019?",
+        "response": "Pasal 2 PP Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik (PMSE) mengatur ruang lingkup perdagangan elektronik yang meliputi:\n\n1. Pelaku usaha dalam negeri\n2. Pelaku usaha luar negeri yang menjalankan kegiatan perdagangan melalui sistem elektronik yang masuk ke wilayah Indonesia\n\nPasal ini menjelaskan cakupan subjek yang terkena regulasi perdagangan elektronik di Indonesia.",
+        "reference": "Isi Pasal 2 Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik adalah:\n\nLingkup pengaturan Perdagangan Melalui Sistem Elektronik meliputi:\na. pihak yang melakukan PMSE;\nb. persyaratan dalam PMSE;\nc. penyelenggaraan PMSE;\nd. kewajiban Pelaku Usaha;\ne. bukti transaksi PMSE;\nf. Iklan Elektronik;\ng. Penawaran Secara Elektronik, Penerimaan Secara Elektronik, dan Konfirmasi Elektronik;\nh. Kontrak Elektronik;\ni. perlindungan terhadap data pribadi;\nj. pembayaran dalam PMSE;\nk. pengiriman Barang dan Jasa dalam PMSE;\nl. penukaran Barang atau Jasa dan pembatalan pembelian dalam PMSE;\nm. penyelesaian sengketa dalam PMSE; dan\nn. pembinaan dan pengawasan.",
+        "rougeL_precision(mode=precision)": 0.3888888889,
+        "rougeL_recall(mode=recall)": 0.2210526316,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2818791946,
+        "answer_relevancy": 0.8616160722,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa isi Pasal 10 Peraturan Menteri Komunikasi dan Informatika (PERMENKOMINFO) Nomor 4 Tahun 2016?",
+        "response": "Pasal 10 Peraturan Menteri Komunikasi dan Informatika (PERMENKOMINFO) Nomor 4 Tahun 2016 mengatur tentang Penyelenggaraan Sistem Elektronik. Namun, untuk memberikan informasi yang akurat, saya sarankan Anda membaca langsung dokumen resmi peraturan tersebut, karena saya tidak ingin memberikan kutipan yang tidak tepat tanpa memeriksa sumber aslinya.",
+        "reference": "Isi Pasal 10 Peraturan Menteri Komunikasi dan Informatika (PERMENKOMINFO) Nomor 4 Tahun 2016 adalah:\n(1) Penyelenggara Sistem Elektronik strategis dan Penyelenggara Sistem Elektronik tinggi wajib memiliki Sertifikat Sistem Manajemen Pengamanan Informasi.\n(2) Penyelenggara Sistem Elektronik rendah dapat memiliki Sertifikat Sistem Manajemen Pengamanan Informasi.",
+        "rougeL_precision(mode=precision)": 0.3333333333,
+        "rougeL_recall(mode=recall)": 0.3488372093,
+        "rougeL_fmeasure(mode=fmeasure)": 0.3409090909,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Berdasarkan seluruh peraturan teknologi informasi yang ada di database, apa saja daftar seluruh judul subjek yang ada?",
+        "response": "Maaf, saya tidak memiliki akses ke database peraturan teknologi informasi yang Anda maksud. Untuk mendapatkan daftar lengkap judul subjek, saya sarankan Anda:\n\n1. Mengecek langsung di database resmi\n2. Menghubungi administrator sistem\n3. Meminta laporan daftar subjek dari pihak yang berwenang\n\nApakah Anda ingin saya bantu mencari cara untuk mendapatkan informasi tersebut?",
+        "reference": "Berikut adalah daftar topik atau subjek peraturan yang ada:\n\n1.  ADMINISTRASI DAN TATA USAHA NEGARA\n2.  CIPTA KERJA\n3.  HAK ASASI MANUSIA\n4.  HAK ATAS KEKAYAAN INTELEKTUAL\n5.  ILMU PENGETAHUAN DAN TEKNOLOGI\n6.  INFORMASI PUBLIK\n7.  JABATAN \/ PROFESI \/ KEAHLIAN \/ SERTIFIKASI\n8.  JARINGAN DOKUMENTASI DAN INFORMASI HUKUM \/ JDIH\n9.  OTONOMI DAERAH DAN PEMERINTAH DAERAH\n10. PARTAI POLITIK DAN PEMILU\n11. PEMILIHAN UMUM DAERAH, DPRD, PEMILIHAN KEPALA DAERAH\n12. PENDIDIKAN\n13. PENGADAAN BARANG \/ JASA\n14. PERIZINAN, PELAYANAN PUBLIK\n15. PERLINDUNGAN KONSUMEN\n16. PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN\n17. PERS, POS, DAN PERIKLANAN\n18. PROGRAM, RENCANA PEMBANGUNAN DAN RENCANA KERJA\n19. SISTEM PENGENDALIAN INTERN\n20. STANDAR \/ PEDOMAN\n21. STRUKTUR ORGANISASI\n22. TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET",
+        "rougeL_precision(mode=precision)": 0.1153846154,
+        "rougeL_recall(mode=recall)": 0.0526315789,
+        "rougeL_fmeasure(mode=fmeasure)": 0.0722891566,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa judul pasal selanjutnya setelah Pasal 39 UU Nomor 11 Tahun 2008?",
+        "response": "Untuk menjawab pertanyaan ini dengan pasti, saya perlu melihat langsung teks resmi Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE). Namun, tanpa memeriksa dokumen asli, saya tidak dapat memberikan jawaban yang akurat tentang judul pasal setelah Pasal 39.",
+        "reference": "Pasal selanjutnya setelah Pasal 39 UU Nomor 11 Tahun 2008 adalah Pasal 40. \n\nNamun, perlu diperhatikan bahwa terdapat tiga node Pasal 40 yang berbeda, yaitu:\n- Pasal 40 dari UU Nomor 1 Tahun 2024 (status: Berlaku)\n- Pasal 40 dari UU Nomor 11 Tahun 2008 (status: Tidak Berlaku)\n- Pasal 40 dari UU Nomor 19 Tahun 2016 (status: Tidak Berlaku)\n\nIni menunjukkan bahwa Pasal 40 dari UU Nomor 11 Tahun 2008 telah diubah oleh UU Nomor 19 Tahun 2016, dan kemudian diubah lagi oleh UU Nomor 1 Tahun 2024. Pasal 40 yang berlaku saat ini adalah Pasal 40 dari UU Nomor 1 Tahun 2024.",
+        "rougeL_precision(mode=precision)": 0.2093023256,
+        "rougeL_recall(mode=recall)": 0.0891089109,
+        "rougeL_fmeasure(mode=fmeasure)": 0.125,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa judul pasal sebelum Pasal 41 UU Nomor 11 Tahun 2008?",
+        "response": "Untuk menjawab pertanyaan ini dengan pasti, saya perlu melihat langsung teks UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE). Namun, tanpa memeriksa dokumen asli, saya tidak dapat memberikan jawaban yang akurat.",
+        "reference": "Jawaban:\nPasal sebelum Pasal 41 UU Nomor 11 Tahun 2008 adalah Pasal 40A.\n\nNamun, perlu diperhatikan bahwa terdapat tiga node Pasal 40 yang berbeda, yaitu:\n- Pasal 40A dari UU Nomor 1 Tahun 2024 (status: Berlaku)\n- Pasal 40 dari UU Nomor 11 Tahun 2008 (status: Tidak Berlaku)\n- Pasal 40 dari UU Nomor 19 Tahun 2016 (status: Tidak Berlaku)\n\nIni menunjukkan bahwa Pasal 40 dari UU Nomor 11 Tahun 2008 telah diubah oleh UU Nomor 19 Tahun 2016, dan kemudian ditambahkan Pasal 40A oleh UU Nomor 1 Tahun 2024. Pasal 40A yang berlaku saat ini adalah Pasal 40A dari UU Nomor 1 Tahun 2024.",
+        "rougeL_precision(mode=precision)": 0.2352941176,
+        "rougeL_recall(mode=recall)": 0.0784313725,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1176470588,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apakah Pasal 40 UU Nomor 11 Tahun 2008 pernah diamandemen? Dan jika pernah, apa judul pasal amandemennya?",
+        "response": "Berdasarkan informasi yang tersedia, Pasal 40 UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE) telah diamandemen melalui UU Nomor 19 Tahun 2016. Namun, judul pasal tersebut tidak berubah, tetap mengatur tentang pembatasan dan kewajiban penyelenggara sistem elektronik.\n\nUntuk detail spesifiknya, saya sarankan Anda membaca langsung naskah UU yang bersangkutan atau konsultasi dengan ahli hukum untuk konfirmasi lebih lanjut.",
+        "reference": "Ya, Pasal 40 UU Nomor 11 Tahun 2008 pernah diamandemen.\n\nPasal amandemennya adalah:\n\n1.  Pasal 40 dari UU Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik.\n2.  Pasal 40 dari UU Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik.\n\nPerlu diperhatikan bahwa Pasal 40 dari UU Nomor 11 Tahun 2008 telah diubah oleh UU Nomor 19 Tahun 2016, dan kemudian diubah lagi oleh UU Nomor 1 Tahun 2024. Pasal 40 yang berlaku saat ini adalah Pasal 40 dari UU Nomor 1 Tahun 2024.",
+        "rougeL_precision(mode=precision)": 0.3606557377,
+        "rougeL_recall(mode=recall)": 0.2115384615,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2666666667,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Apa urutan judul peraturan amandemen yang terjadi pada Peraturan Menteri Komunikasi dan Informatika Nomor 26 Tahun 2007?",
+        "response": "Maaf, saya tidak memiliki informasi spesifik tentang urutan judul peraturan amandemen untuk Peraturan Menteri Komunikasi dan Informatika Nomor 26 Tahun 2007. Untuk mendapatkan informasi yang akurat, saya menyarankan Anda untuk:\n\n1. Memeriksa situs resmi Kementerian Komunikasi dan Informatika\n2. Menghubungi bagian hukum kementerian terkait\n3. Melihat dokumen resmi peraturan tersebut",
+        "reference": "Berikut adalah urutan amandemen pada Peraturan Menteri Komunikasi dan Informatika Nomor 26 Tahun 2007:\n\n1. Peraturan Menteri Komunikasi dan Informatika Nomor 16\/PER\/M.KOMINFO\/10\/2010 Tahun 2010 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet.\n\n2. Peraturan Menteri Komunikasi dan Informatika Nomor 29\/PER\/M.KOMINFO\/12\/2010 Tahun 2010 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor : 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet.\n\n3. Peraturan Menteri Komunikasi dan Informatika Nomor 24\/PER\/M.KOMINFO\/12\/2011 Tahun 2011 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/Per\/M.Kominfo\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet.\n\n4. Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2017 tentang Perubahan Keempat atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet.",
+        "rougeL_precision(mode=precision)": 0.36,
+        "rougeL_recall(mode=recall)": 0.1097560976,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1682242991,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa pertimbangan atau latar belakang yang mendasari pembuatan PERMENKOMINFO Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat?",
+        "response": "PERMENKOMINFO Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat dibuat dengan beberapa pertimbangan dan latar belakang penting, antara lain:\n\n1. Aspek Keselamatan dan Keamanan Masyarakat\n- Mempermudah masyarakat mendapatkan pertolongan darurat\n- Menyediakan akses cepat dan tepat saat terjadi keadaan darurat\n\n2. Koordinasi Antar Lembaga Penanganan Darurat\n- Mengintegrasikan layanan darurat dari berbagai instansi\n- Memperbaiki sistem koordinasi penanggulangan keadaan darurat\n\n3. Efisiensi dan Efektivitas Penanganan Darurat\n- Menyederhanakan nomor panggilan darurat\n- Mempersingkat waktu tanggap darurat\n\n4. Teknologi dan Infrastruktur Komunikasi\n- Memanfaatkan perkembangan teknologi telekomunikasi\n- Membangun sistem komunikasi darurat yang modern\n\n5. Standarisasi Layanan Darurat Nasional\n- Membuat protokol baku penanganan darurat\n- Menjamin kualitas layanan darurat di seluruh Indonesia\n\nTujuan utamanya adalah meningkatkan pelayanan dan perlindungan masyarakat dalam situasi darurat.",
+        "reference": "Pertimbangan utama yang mendasari pembuatan PERMENKOMINFO Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat adalah:\n\n1. Kewajiban Penyelenggara Telekomunikasi: Pasal 20 Undang-Undang Nomor 36 Tahun 1999 tentang Telekomunikasi mewajibkan setiap penyelenggara telekomunikasi untuk memberikan prioritas pada pengiriman, penyaluran, dan penyampaian informasi penting terkait keamanan negara, keselamatan jiwa manusia dan harta benda, bencana alam, marabahaya, dan\/atau wabah penyakit.\n\n2. Optimalisasi Layanan Nomor Tunggal Panggilan Darurat: Perlunya optimalisasi layanan Nomor Tunggal Panggilan Darurat di Indonesia untuk mendukung pengiriman, penyaluran, dan penyampaian informasi penting tersebut, sehingga penanganan keadaan darurat dapat dilaksanakan secara terpadu.",
+        "rougeL_precision(mode=precision)": 0.2327586207,
+        "rougeL_recall(mode=recall)": 0.2872340426,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2571428571,
+        "answer_relevancy": 0.9616121065,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa dasar hukum yang mendasari pembuatan PERMENKOMINFO Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat?",
+        "response": "Berdasarkan pertimbangan dalam PERMENKOMINFO Nomor 10 Tahun 2016, beberapa dasar hukum yang mendasari pembuatan peraturan tersebut adalah:\n\n1. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\n\n2. Undang-Undang Nomor 36 Tahun 1999 tentang Telekomunikasi\n\n3. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik\n\n4. Peraturan Pemerintah Nomor 52 Tahun 2000 tentang Penyelenggaraan Telekomunikasi\n\n5. Peraturan Presiden Nomor 54 Tahun 2010 tentang Badan Nasional Penanggulangan Bencana\n\n6. Peraturan Menteri Komunikasi dan Informatika Nomor 41 Tahun 2013 tentang Penomoran Telekomunikasi\n\nPeraturan ini dibuat dengan tujuan untuk mengatur layanan nomor tunggal panggilan darurat yang dapat diakses oleh masyarakat dalam situasi darurat.",
+        "reference": "Berdasarkan hasil kueri, dasar hukum yang mendasari pembuatan PERMENKOMINFO Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat adalah:\n\n1.  Undang-Undang Nomor 36 Tahun 1999 tentang Telekomunikasi (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 154, Tambahan Lembaran Negara Republik Indonesia Nomor 3881);\n2.  Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66, Tambahan Lembaran Negara Republik Indonesia Nomor 4723);\n3.  Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916);\n4.  Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587);\n5.  Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan (Lembaran Negara Republik Indonesia Tahun 2014 Nomor: 292, Tambahan Lembaran Negara Republik Indonesia Nomor: 5601);\n6.  Peraturan Pemerintah Nomor 52 Tahun 2000 tentang Penyelenggaraan Telekomunikasi (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 107, Tambahan Lembaran Negara Republik Indonesia Nomor 3980);\n7.  Peraturan Pemerintah Nomor 6 Tahun 2006 tentang Pengelolaan Barang Milik Negara\/Daerah (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 20, Tambahan Lembaran Negara Republik Indonesia Nomor 4609);\n8.  Peraturan Presiden Nomor 7 Tahun 2015 tentang Organisasi Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 8);\n9.  Peraturan Presiden Nomor 54 Tahun 2015 tentang Kementerian Komunikasi dan Informatika (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 96);\n10. Peraturan Menteri Keuangan Nomor 96\/PMK.06\/2007 tentang Tata Cara Pelaksanaan Penggunaan, Pemanfaatan, Penghapusan, dan Pemindahtanganan Barang Milik Negara;\n11. Peraturan Menteri Komunikasi dan Informatika Nomor: 01\/PER\/M.KOMINFO\/01\/2010 tentang Penyelenggaraan Jaringan Telekomunikasi sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2015 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor: 01\/PER\/M.KOMINFO\/01\/2010 tentang Penyelenggaraan Jaringan Telekomunikasi (Berita Negara Republik Indonesia Tahun 2015 Nomor 250);\n12. Peraturan Menteri Komunikasi dan Informatika Nomor 18 Tahun 2014 tentang Sertifikasi Alat dan Perangkat Telekomunikasi sebagaimana telah diubah dengan Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2015 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 18 Tahun 2014 tentang Sertifikasi Alat dan Perangkat Telekomunikasi (Berita Negara Republik Indonesia Tahun 2014 Nomor 882);\n13. Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2016 tentang Organisasi dan Tata Kerja Kementerian Komunikasi dan Informatika (Berita Negara Republik Indonesia Tahun 2016 Nomor 103);\n14. Keputusan Menteri Perhubungan Nomor: KM.4 Tahun 2001 tentang Penetapan Rencana Dasar Teknis Nasional 2000 (Fundamental Technical Plan National 2000) Pembangunan Telekomunikasi Nasional sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Menteri Komunikasi dan Informatika Nomor 17 Tahun 2014 tentang Perubahan Ketujuh atas Keputusan Menteri Perhubungan Nomor: KM.4 Tahun 2001 tentang Penetapan Rencana Dasar Teknis Nasional 2000 (Fundamental Technical Plan National 2000) Pembangunan Telekomunikasi Nasional (Berita Negara Republik Indonesia Tahun 2014 Nomor 770);",
+        "rougeL_precision(mode=precision)": 0.5490196078,
+        "rougeL_recall(mode=recall)": 0.1178947368,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1941074523,
+        "answer_relevancy": 0.9337444856,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Apa saja judul pasal yang dirujuk oleh Pasal 25 PERMENKOMINFO No. 4 Tahun 2016?",
+        "response": "Untuk menjawab pertanyaan ini dengan tepat, saya perlu melihat langsung isi PERMENKOMINFO No. 4 Tahun 2016. Namun, tanpa melihat dokumen asli, saya tidak dapat memberikan jawaban yang pasti tentang judul pasal yang dirujuk oleh Pasal 25. Untuk mendapatkan informasi yang akurat, saya menyarankan Anda untuk:\n\n1. Membaca langsung dokumen PERMENKOMINFO No. 4 Tahun 2016\n2. Mengakses salinan resmi peraturan tersebut\n3. Berkonsultasi dengan pihak yang memahami peraturan tersebut secara mendalam",
+        "reference": "Pasal 25 PERMENKOMINFO No. 4 Tahun 2016 merujuk ke pasal-pasal berikut:\n*   Pasal 10 PERMENKOMINFO No. 4 Tahun 2016\n*   Pasal 22 PERMENKOMINFO No. 4 Tahun 2016",
+        "rougeL_precision(mode=precision)": 0.1714285714,
+        "rougeL_recall(mode=recall)": 0.4615384615,
+        "rougeL_fmeasure(mode=fmeasure)": 0.25,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa saja judul pasal di peraturan lain yang terkait dengan Pasal 46 PP No. 52 Tahun 2000?",
+        "response": "Untuk menjawab pertanyaan ini secara akurat, saya perlu melihat referensi lengkap dari PP No. 52 Tahun 2000 dan peraturan terkait. Namun, tanpa dokumen asli di hadapan saya, saya tidak dapat memberikan daftar judul pasal yang spesifik. Untuk mendapatkan informasi yang tepat, saya menyarankan Anda:\n\n1. Membaca langsung PP No. 52 Tahun 2000\n2. Berkonsultasi dengan ahli hukum\n3. Memeriksa sumber resmi pemerintah\n4. Melihat lampiran atau referensi resmi terkait peraturan tersebut",
+        "reference": "Pasal-pasal di peraturan lain yang terkait dengan Pasal 46 PP No. 52 Tahun 2000 adalah:\n*   Pasal 6 PERMENKOMINFO Nomor 1\/PER\/M.KOMINFO\/1\/2010 Tahun 2010\n*   Pasal 10 PERMENKOMINFO Nomor 13 Tahun 2019\n*   Pasal 9 UU Nomor 36 Tahun 1999\n*   Pasal 30 UU Nomor 36 Tahun 1999",
+        "rougeL_precision(mode=precision)": 0.1126760563,
+        "rougeL_recall(mode=recall)": 0.1632653061,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1333333333,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Pasal 19 dalam Peraturan Kominfo Nomor 13 Tahun 2019 saat ini masih berlaku atau sudah dicabut?",
+        "response": "Untuk memberikan jawaban yang akurat, saya perlu memeriksa informasi terbaru tentang status Peraturan Kominfo Nomor 13 Tahun 2019. Namun, berdasarkan pengetahuan umum, peraturan tersebut telah digantikan oleh Peraturan Menteri Komunikasi dan Informatika (Permenkominfo) yang baru. \n\nUntuk mendapatkan informasi pasti tentang status Pasal 19 dan peraturan tersebut, saya menyarankan Anda:\n\n1. Mengecek langsung di website resmi Kementerian Komunikasi dan Informatika\n2. Menghubungi bagian hukum Kementerian Kominfo\n3. Berkonsultasi dengan ahli hukum yang memahami regulasi telekomunikasi\n\nJika Anda membutuhkan kejelasan spesifik tentang pasal tersebut, akan lebih baik mendapatkan konfirmasi dari sumber resmi.",
+        "reference": "Pasal 19 dalam Peraturan Kominfo Nomor 13 Tahun 2019 saat ini sudah dicabut atau tidak berlaku.",
+        "rougeL_precision(mode=precision)": 0.0666666667,
+        "rougeL_recall(mode=recall)": 0.375,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1132075472,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa judul Peraturan Pemerintah (PP) yang dikeluarkan pada tahun 2019 yang terkait dengan subjek Telekomunikasi, Informatika, Siber, dan Internet?",
+        "response": "Berdasarkan informasi yang saya miliki, pada tahun 2019 terdapat Peraturan Pemerintah (PP) Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik (PSTE). PP ini mengatur tentang tata kelola sistem elektronik, penyelenggaraan transaksi elektronik, dan perlindungan data pribadi dalam konteks digital di Indonesia.",
+        "reference": "Berdasarkan hasil kueri, Peraturan Pemerintah (PP) yang dikeluarkan pada tahun 2019 yang mengatur bidang teknologi informasi, komunikasi, siber, atau data adalah:\n1.  Peraturan Pemerintah (PP) Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik\n2.  Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik",
+        "rougeL_precision(mode=precision)": 0.511627907,
+        "rougeL_recall(mode=recall)": 0.4583333333,
+        "rougeL_fmeasure(mode=fmeasure)": 0.4835164835,
+        "answer_relevancy": 0.8883678123,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa judul peraturan yang dikeluarkan pada rentang tahun 2008 hingga 2010 yang memiliki subjek Telekomunikasi, Informatika, Siber, dan Internet?",
+        "response": "Untuk menjawab pertanyaan Anda, saya akan membantu mencari informasi tentang peraturan terkait Telekomunikasi, Informatika, Siber, dan Internet yang dikeluarkan pada rentang tahun 2008-2010. Beberapa peraturan yang mungkin relevan antara lain:\n\n1. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE)\n\n2. Peraturan Pemerintah Nomor 82 Tahun 2012 tentang Penyelenggaraan Sistem dan Transaksi Elektronik (meskipun sedikit di luar rentang tahun yang diminta, tetapi terkait erat dengan topik)\n\n3. Peraturan Menteri Komunikasi dan Informatika (Permenkominfo) terkait telekomunikasi dan informatika\n\nNamun, untuk mendapatkan informasi yang paling akurat, saya menyarankan untuk melakukan penelusuran lebih lanjut di sumber resmi pemerintah atau basis data hukum.",
+        "reference": "Berikut adalah judul regulasi yang dikeluarkan pada rentang tahun 2008 hingga 2010 yang memiliki subjek \"TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET\":\n\n1.  Peraturan Menteri Komunikasi dan Informatika Nomor 41\/PER\/M.KOMINFO\/10\/2009 Tahun 2009 tentang Tata Cara Penilaian Pencapaian Tingkat Komponen Dalam Negeri pada Penyelenggaraan Telekomunikasi\n2.  Peraturan Menteri Komunikasi dan Informatika Nomor 42\/PER\/M.KOMINFO\/10\/2009 Tahun 2009 tentang Tata Cara Memperoleh Izin bagi Lembaga Penyiaran Asing yang Melakukan Kegiatan Peliputan di Indonesia\n3.  Peraturan Menteri Komunikasi dan Informatika Nomor 1\/PER\/M.KOMINFO\/1\/2010 Tahun 2010 tentang Penyelenggaraan Jaringan Telekomunikasi\n4.  Peraturan Menteri Komunikasi dan Informatika Nomor 16\/PER\/M.KOMINFO\/10\/2010 Tahun 2010 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet\n5.  Peraturan Menteri Komunikasi dan Informatika Nomor 29\/PER\/M.KOMINFO\/12\/2010 Tahun 2010 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor : 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet\n6.  Undang-undang (UU) Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
+        "rougeL_precision(mode=precision)": 0.2788461538,
+        "rougeL_recall(mode=recall)": 0.1559139785,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2,
+        "answer_relevancy": 0.9198851492,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Pasal nomor berapa saja dari PERMENKOMINFO Nomor 26 Tahun 2007 yang sudah tidak berlaku?",
+        "response": "Untuk menjawab pertanyaan ini dengan pasti, saya perlu melihat dokumen resmi atau referensi yang mengatur pencabutan pasal-pasal tersebut. Namun, saya tidak memiliki akses langsung ke dokumen tersebut. Untuk mendapatkan informasi yang akurat, saya menyarankan Anda:\n\n1. Membaca PERMENKOMINFO Nomor 26 Tahun 2007 secara lengkap\n2. Memeriksa peraturan terbaru yang mungkin telah mencabut atau mengubah pasal-pasal tertentu\n3. Berkonsultasi dengan pihak kementerian terkait atau ahli hukum yang kompeten",
+        "reference": "Pasal-pasal dari PERMENKOMINFO Nomor 26 Tahun 2007 yang sudah tidak berlaku adalah Pasal 1, 3, 4, 7, 9, 11, 12, 13, dan 17.",
+        "rougeL_precision(mode=precision)": 0.1449275362,
+        "rougeL_recall(mode=recall)": 0.4166666667,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2150537634,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Pasal nomor berapa saja dari UU Nomor 11 Tahun 2008 yang sudah tidak berlaku?",
+        "response": "Berdasarkan UU Nomor 19 Tahun 2016 tentang Perubahan UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE), beberapa pasal dari UU No. 11 Tahun 2008 yang sudah tidak berlaku atau diubah adalah:\n\n1. Pasal 27 ayat (3) tentang pencemaran nama baik\n2. Pasal 28 ayat (2) tentang muatan yang melanggar kesusilaan\n3. Pasal 29 tentang pelanggaran kesusilaan\n4. Pasal 45 dan Pasal 45A yang terkait dengan sanksi pidana\n\nNamun untuk detail pasti dan komprehensif, saya sarankan Anda mengkonsultasikan langsung dengan ahli hukum atau membaca UU No. 19 Tahun 2016 secara lengkap.",
+        "reference": "Pasal-pasal dari UU Nomor 11 Tahun 2008 yang sudah tidak berlaku adalah Pasal 1, 5, 13, 17, 26, 27, 28, 29, 31, 36, 40, 43, dan 45.",
+        "rougeL_precision(mode=precision)": 0.1720430108,
+        "rougeL_recall(mode=recall)": 0.5714285714,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2644628099,
+        "answer_relevancy": 0.8535536443,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Berapa total jumlah pasal yang merujuk ke Pasal 57 atau dirujuk oleh Pasal 57 dalam Undang-Undang Nomor 27 Tahun 2022?",
+        "response": "Untuk menjawab pertanyaan ini, saya perlu memeriksa secara detail Undang-Undang Nomor 27 Tahun 2022. Namun, tanpa memiliki akses langsung ke dokumen resmi, saya tidak dapat memberikan jawaban pasti. Untuk mendapatkan informasi akurat, saya menyarankan Anda:\n\n1. Membaca langsung UU No. 27 Tahun 2022\n2. Memeriksa naskah resmi dari sumber pemerintah\n3. Berkonsultasi dengan ahli hukum atau pejabat yang kompeten",
+        "reference": "Berdasarkan hasil kueri, total pasal-pasal yang merujuk ke atau dirujuk oleh Pasal 57 dalam Undang-Undang Nomor 27 Tahun 2022 adalah 33 pasal.",
+        "rougeL_precision(mode=precision)": 0.1,
+        "rougeL_recall(mode=recall)": 0.25,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1428571429,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "PERMENKOMINFO No. 1 Tahun 2010 Pasal 70 sudah diamandemen berapa kali dan apa isi dari semua pasal amandemennya?",
+        "response": "Saya mohon maaf, tetapi saya tidak dapat memberikan informasi yang pasti tentang berapa kali PERMENKOMINFO No. 1 Tahun 2010 Pasal 70 diamandemen atau detail isi setiap amandemennya. \n\nUntuk mendapatkan informasi yang akurat, saya menyarankan Anda:\n\n1. Mengecek langsung di website resmi Kementerian Komunikasi dan Informatika (Kominfo)\n2. Menghubungi bagian hukum Kementerian Kominfo\n3. Mencari salinan peraturan resmi di perpustakaan hukum atau instansi terkait\n\nJika Anda membutuhkan informasi spesifik, akan lebih baik untuk mengkonfirmasi langsung ke sumber resmi.",
+        "reference": "PERMENKOMINFO No. 1 Tahun 2010 Pasal 70 telah diamandemen sebanyak 2 (dua) kali. Berikut adalah isi dari semua pasal amandemennya:\n\n1. Peraturan Menteri Komunikasi dan Informatika Nomor 38 Tahun 2014:\n\n(1) Berdasarkan hasil seleksi sebagaimana dimaksud dalam Pasal 66 ayat (4) atau berdasarkan hasil evaluasi sebagaimana dimaksud dalam Pasal 69 ayat (1) bagi yang memenuhi persyaratan, Menteri menerbitkan izin prinsip.\n(2) Izin prinsip sebagaimana dimaksud pada ayat (1) berlaku paling lama:\n    a. 3 (tiga) tahun bagi penyelenggaraan jaringan yang tata cara perizinannya melalui proses seleksi sebagaimana dimaksud dalam Pasal 4 ayat (2) dan penyelenggaraan jaringan yang tata cara perizinannya melalui proses evaluasi sebagaimana dimaksud dalam Pasal 4 ayat (4);\n    b. 2 (dua) tahun bagi penyelenggaraan jaringan yang tata cara perizinannya melalui proses evaluasi sebagaimana dimaksud dalam Pasal 5.\n(3) Izin prinsip sebagaimana dimaksud pada ayat (2) dapat diperpanjang apabila pemilik izin prinsip telah melakukan investasi dalam persiapan pembangunan sarana dan prasarana sesuai hasil penilaian Tim yang dibentuk oleh Direktur Jenderal.\n(4) Izin prinsip dapat diperpanjang 1 (satu) kali dengan masa berlaku paling lama 1 (satu) tahun untuk izin prinsip sebagaimana dimaksud pada ayat (2) huruf a, dan 6 (enam) bulan untuk izin prinsip sebagaimana dimaksud pada ayat (2) huruf b.\n(5) Dalam hal permohonan perpanjangan izin prinsip sebagaimana dimaksud pada ayat (3) tidak ditetapkan dalam jangka waktu 14 (empat belas) hari kerja sejak diterimanya permohonan perpanjangan izin prinsip, maka izin prinsip dinyatakan diperpanjang.\n\n2. Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2015:\n\n(1) Berdasarkan hasil seleksi sebagaimana dimaksud dalam Pasal 66 ayat (4), bagi yang memenuhi persyaratan, Menteri menerbitkan izin prinsip.\n(1a) Berdasarkan hasil evaluasi sebagaimana dimaksud dalam Pasal 69 ayat (1) bagi yang memenuhi persyaratan, Direktur Jenderal menerbitkan izin prinsip.\n(2) Izin prinsip sebagaimana dimaksud pada ayat (1) dan ayat (1a) berlaku paling lama:\n    a. 3 (tiga) tahun bagi penyelenggaraan jaringan yang tata cara perizinannya melalui proses seleksi sebagaimana dimaksud dalam Pasal 4 ayat (2) dan penyelenggaraan jaringan yang tata cara perizinannya melalui proses evaluasi sebagaimana dimaksud dalam Pasal 4 ayat (4);\n    b. 2 (dua) tahun bagi penyelenggaraan jaringan yang tata cara perizinannya melalui proses evaluasi sebagaimana dimaksud dalam Pasal 5.\n(3) Izin prinsip sebagaimana dimaksud pada ayat (2) dapat diperpanjang apabila pemilik izin prinsip telah melakukan investasi dalam persiapan pembangunan sarana dan prasarana sesuai hasil penilaian Tim yang dibentuk oleh Direktur Jenderal.\n(4) Izin prinsip dapat diperpanjang 1 (satu) kali dengan masa berlaku paling lama 1 (satu) tahun untuk izin prinsip sebagaimana dimaksud pada ayat (2) huruf a, dan 6 (enam) bulan untuk izin prinsip sebagaimana dimaksud pada ayat (2) huruf b.\n(5) Dalam hal permohonan perpanjangan izin prinsip sebagaimana dimaksud pada ayat (3) tidak ditetapkan dalam jangka waktu 10 (sepuluh) hari kerja sejak diterimanya permohonan perpanjangan izin prinsip, maka izin prinsip dinyatakan diperpanjang.\n",
+        "rougeL_precision(mode=precision)": 0.2337662338,
+        "rougeL_recall(mode=recall)": 0.0393873085,
+        "rougeL_fmeasure(mode=fmeasure)": 0.0674157303,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Judul peraturan apa saja (lima) yang memiliki banyak pasal yang sudah tidak efektif atau tidak berlaku?",
+        "response": "Berikut adalah lima peraturan yang memiliki banyak pasal yang sudah tidak efektif atau tidak berlaku:\n\n1. Kitab Undang-Undang Hukum Pidana (KUHP) Warisan Kolonial Belanda\n- Banyak pasal yang sudah tidak sesuai dengan perkembangan zaman\n- Beberapa ketentuan sudah tidak relevan dengan konteks hukum Indonesia saat ini\n\n2. Undang-Undang Pokok Agraria Nomor 5 Tahun 1960\n- Beberapa pasal sudah tidak sesuai dengan perkembangan hukum pertanahan\n- Memerlukan pembaruan sesuai kondisi saat ini\n\n3. Undang-Undang Pers Nomor 40 Tahun 1999\n- Beberapa pasal perlu disesuaikan dengan perkembangan teknologi informasi\n- Tidak mengakomodir perkembangan media digital\n\n4. Undang-Undang Kepegawaian Lama\n- Banyak pasal yang sudah tidak sesuai dengan sistem manajemen kepegawaian modern\n\n5. Peraturan Perburuhan Warisan Kolonial\n- Banyak pasal yang sudah tidak relevan dengan hubungan industrial saat ini",
+        "reference": "Berikut adalah 5 peraturan dengan jumlah pasal yang sudah tidak efektif terbanyak:\n1. Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi (22 pasal tidak efektif)\n2. Undang-undang (UU) Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (13 pasal tidak efektif)\n3. Peraturan Menteri Komunikasi dan Informatika Nomor 1\/PER\/M.KOMINFO\/1\/2010 Tahun 2010 tentang Penyelenggaraan Jaringan Telekomunikasi (9 pasal tidak efektif)\n4. Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 Tahun 2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet (9 pasal tidak efektif)\n5. Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik (5 pasal tidak efektif)",
+        "rougeL_precision(mode=precision)": 0.237704918,
+        "rougeL_recall(mode=recall)": 0.2357723577,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2367346939,
+        "answer_relevancy": 0.8890773124,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Judul pasal apa saja yang berhubungan dengan Pasal 28 UU Nomor 11 Tahun 2008 dan apa jenis hubungannya?",
+        "response": "Untuk menjawab pertanyaan ini, saya akan membantu Anda mengidentifikasi pasal-pasal yang terkait dengan Pasal 28 UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE). Berikut adalah beberapa pasal terkait:\n\n1. Pasal 27 - Hubungan: Substansi yang saling melengkapi\n- Membahas tentang pembatasan konten digital yang melanggar hukum\n- Berkaitan dengan larangan penyebaran konten yang melanggar etika dan hukum\n\n2. Pasal 29 - Hubungan: Lanjutan\/Pengembangan\n- Mengatur sanksi pidana terkait pelanggaran pasal sebelumnya\n- Memperkuat aspek hukum dari Pasal 28\n\n3. Pasal 30 - Hubungan: Terkait aspek pidana\n- Membahas tindak pidana yang berkaitan dengan akses elektronik\n- Melengkapi pengaturan tentang pelanggaran di ranah digital\n\n4. Pasal 31 - Hubungan: Komplementer\n- Mengatur tentang intersepsi atau penyadapan\n- Memperluas cakupan hukum digital\n\nCatatan: Hubungan antarpasal bersifat saling melengkapi dalam konteks perlindungan hukum di ranah digital.",
+        "reference": "Berikut adalah daftar pasal yang terhubung dengan Pasal 28 UU Nomor 11 Tahun 2008, beserta jenis hubungannya:\n\n*   Pasal 27 UU Nomor 11 Tahun 2008: Hubungan `NEXT_ARTICLE` (Pasal selanjutnya)\n*   Pasal 29 UU Nomor 11 Tahun 2008: Hubungan `PREVIOUS_ARTICLE` (Pasal sebelumnya)\n*   Pasal 34 UU Nomor 11 Tahun 2008: Hubungan `REFER_TO` (Merujuk ke)\n*   Pasal 36 UU Nomor 11 Tahun 2008: Hubungan `REFER_TO` (Merujuk ke)\n*   Pasal 37 UU Nomor 11 Tahun 2008: Hubungan `REFER_TO` (Merujuk ke)\n*   Pasal 45 UU Nomor 11 Tahun 2008: Hubungan `REFER_TO` (Merujuk ke)\n*   Pasal 52 UU Nomor 11 Tahun 2008: Hubungan `REFER_TO` (Merujuk ke)\n*   Pasal 45A UU Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008: Hubungan `REFER_TO` (Merujuk ke)\n*   Pasal 28 UU Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008: Hubungan `AMENDED_BY` (Diamandemen oleh)\n\nRingkasan Hubungan:\n\n*   Pasal 27 dan 29 merupakan pasal yang berurutan sebelum dan sesudah Pasal 28 dalam UU Nomor 11 Tahun 2008.\n*   Pasal 34, 36, 37, 45, 52 (UU 11\/2008) dan Pasal 45A (UU 19\/2016) merujuk ke Pasal 28, menunjukkan bahwa Pasal 28 menjadi dasar atau referensi bagi pasal-pasal tersebut.\n*   Pasal 28 UU 1\/2024 merupakan pasal yang menggantikan atau mengubah isi dari Pasal 28 UU 11\/2008.",
+        "rougeL_precision(mode=precision)": 0.2063492063,
+        "rougeL_recall(mode=recall)": 0.1214953271,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1529411765,
+        "answer_relevancy": 0.921181613,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa saja daftar nama definisi yang diatur dalam Pasal 1 Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik?",
+        "response": "Berdasarkan Pasal 1 PP Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik, berikut adalah daftar definisi:\n\n1. Perdagangan Melalui Sistem Elektronik (PMSE) adalah perdagangan yang dilakukan melalui sistem elektronik\n\n2. Pelaku Usaha adalah setiap orang perseorangan atau badan usaha yang berbentuk badan hukum atau bukan badan hukum\n\n3. Penyelenggara Sistem Elektronik adalah setiap orang atau badan usaha yang menyediakan, mengelola, dan\/atau mengoperasikan Sistem Elektronik\n\n4. Sistem Elektronik adalah serangkaian perangkat dan prosedur elektronik yang berfungsi mempersiapkan, mengumpulkan, mengolah, menganalisis, menyimpan, menampilkan, mengumumkan, mengirimkan, dan\/atau menyebarkan informasi elektronik\n\n5. Transaksi Elektronik adalah perbuatan hukum yang dilakukan dengan menggunakan komputer, jaringan komputer, dan\/atau media elektronik lainnya\n\n6. Kontrak Elektronik adalah perjanjian para pihak yang dibuat melalui Sistem Elektronik\n\n7. Pelaku Usaha Asing adalah Pelaku Usaha yang didirikan dan\/atau berdomisili di luar wilayah Negara Kesatuan Republik Indonesia\n\n8. Pelaku Usaha Dalam Negeri adalah Pelaku Usaha yang didirikan dan\/atau berdomisili di wilayah Negara Kesatuan Republik Indonesia\n\nDefinisi-definisi tersebut memberikan kerangka hukum yang jelas untuk mengatur perdagangan elektronik di Indonesia.",
+        "reference": "Berdasarkan hasil kueri, berikut adalah daftar definisi yang diatur dalam Pasal 1 Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik:\n\n1.  Perdagangan\n2.  Perdagangan Melalui Sistem Elektronik\n3.  Sistem Elektronik\n4.  Kontrak Elektronik\n5.  Komunikasi Elektronik\n6.  Pelaku Usaha Perdagangan Melalui Sistem Elektronik\n7.  Pelaku Usaha Dalam Negeri\n8.  Pelaku Usaha Yang Berkedudukan Di Luar Negeri\n9.  Pribadi\n10. Pedagang (merchant)\n11. Penyelenggara Perdagangan Melalui Sistem Elektronik\n12. Penyelenggara Sarana Perantara (intermediary services)\n13. Iklan Elektronik\n14. Penawaran Secara Elektronik\n15. Penerimaan Secara Elektronik\n16. Konfirmasi Elektronik\n17. Konsumen\n18. Barang\n19. Barang Digital\n20. Jasa\n21. Jasa Digital\n22. Menteri",
+        "rougeL_precision(mode=precision)": 0.238372093,
+        "rougeL_recall(mode=recall)": 0.3904761905,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2960288809,
+        "answer_relevancy": 0.9095433594,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa saja lima judul pasal yang paling banyak merujuk ke pasal lain atau dirujuk oleh pasal lain?",
+        "response": "Maaf, saya tidak memiliki informasi spesifik tentang lima judul pasal yang paling banyak merujuk atau dirujuk dalam suatu dokumen atau undang-undang tertentu. Untuk menjawab pertanyaan ini dengan akurat, saya akan membutuhkan konteks tambahan, seperti:\n\n1. Dokumen atau undang-undang apa yang sedang Anda bahas?\n2. Apakah Anda memiliki akses ke daftar isi atau struktur dokumen tersebut?\n\nJika Anda ingin mengetahui hal ini, saya sarankan untuk:\n- Memeriksa daftar isi dokumen\n- Menggunakan fitur pencarian di dokumen elektronik\n- Membaca dokumen secara manual untuk melacak referensi silang\n\nApakah Anda bisa memberikan informasi tambahan?",
+        "reference": "Berikut adalah 5 judul pasal yang paling banyak merujuk ke pasal lain atau dirujuk oleh pasal lain:\n1.  Pasal 100 PP Nomor 71 Tahun 2019 (36 hubungan)\n2.  Pasal 57 UU Nomor 27 Tahun 2022 (33 hubungan)\n3.  Pasal 80 PP Nomor 80 Tahun 2019 (31 hubungan)\n4.  Pasal 52 PERMENKOMINFO Nomor 13 Tahun 2019 (23 hubungan)\n5.  Pasal 95 PP Nomor 52 Tahun 2000 (23 hubungan)",
+        "rougeL_precision(mode=precision)": 0.1111111111,
+        "rougeL_recall(mode=recall)": 0.1492537313,
+        "rougeL_fmeasure(mode=fmeasure)": 0.127388535,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Berdasarkan daftar peraturan yang ada di database, apa lima nama subjek yang paling banyak dibahas?",
+        "response": "Saya tidak memiliki akses ke database peraturan yang Anda maksud. Untuk menjawab pertanyaan tersebut, saya membutuhkan informasi spesifik dari database yang dimaksud. Bisakah Anda memberikan detail lebih lanjut atau berbagi daftar peraturan yang ada?",
+        "reference": "Berikut adalah daftar subjek yang paling banyak dibahas dalam peraturan di database:\n\n1.  TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET (60 peraturan)\n2.  PERS, POS, DAN PERIKLANAN (13 peraturan)\n3.  PERIZINAN, PELAYANAN PUBLIK (7 peraturan)\n4.  CIPTA KERJA (7 peraturan)\n5.  ILMU PENGETAHUAN DAN TEKNOLOGI (5 peraturan)",
+        "rougeL_precision(mode=precision)": 0.0882352941,
+        "rougeL_recall(mode=recall)": 0.0666666667,
+        "rougeL_fmeasure(mode=fmeasure)": 0.0759493671,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Judul peraturan mana saja (lima) yang paling berpengaruh dalam ekosistem peraturan teknologi informasi Indonesia, berdasarkan banyaknya konsep atau aturan lain yang terhubung padanya?",
+        "response": "Berdasarkan analisis saya, lima peraturan yang paling berpengaruh dalam ekosistem teknologi informasi Indonesia adalah:\n\n1. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE)\n- Menjadi payung hukum utama digital\n- Mengatur aspek hukum cyber\n- Menjadi referensi bagi banyak peraturan turunan\n\n2. Peraturan Pemerintah Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik\n- Mengatur teknis implementasi UU ITE\n- Mengatur standar keamanan dan privasi digital\n\n3. Peraturan Menkominfo Nomor 20 Tahun 2016 tentang Perlindungan Data Pribadi\n- Mengatur perlindungan data personal\n- Menjadi acuan kebijakan privasi digital\n\n4. Peraturan Bank Indonesia tentang Sistem Pembayaran Digital\n- Mengatur transaksi elektronik perbankan\n- Mendukung ekosistem keuangan digital\n\n5. Peraturan Kominfo tentang Registrasi Kartu Seluler\n- Mengatur identifikasi pengguna teknologi\n- Mendukung keamanan digital",
+        "reference": "Berdasarkan hasil analisis *PageRank*, berikut adalah lima judul peraturan yang paling berpengaruh dalam ekosistem peraturan teknologi informasi Indonesia, berdasarkan banyaknya konsep atau aturan lain yang terhubung padanya:\n\n1.  Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2021 tentang Penyelenggaraan Telekomunikasi (Centrality Score: 56.00004773683875)\n2.  Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2021 tentang Penggunaan Spektrum Frekuensi Radio (Centrality Score: 23.641152949543592)\n3.  Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2024 tentang PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN BIDANG KOMUNIKASI DAN INFORMATIKA (Centrality Score: 22.793109330493333)\n4.  Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran (Centrality Score: 22.545526575526928)\n5.  Peraturan Pemerintah (PP) Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik (Centrality Score: 22.131213366009604)\n\n*PageRank* mengukur kepentingan sebuah node dalam jaringan berdasarkan jumlah dan kualitas tautan yang mengarah ke node tersebut. Dalam konteks ini, semakin tinggi skor *PageRank*, semakin banyak konsep atau aturan lain yang terhubung ke peraturan tersebut, menunjukkan pengaruhnya yang besar dalam ekosistem peraturan.\n",
+        "rougeL_precision(mode=precision)": 0.2905982906,
+        "rougeL_recall(mode=recall)": 0.2085889571,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2428571429,
+        "answer_relevancy": 0.9162121406,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Judul pasal mana saja (lima) yang paling berpengaruh dalam ekosistem peraturan teknologi informasi Indonesia, berdasarkan banyaknya konsep atau aturan lain yang terhubung padanya?",
+        "response": "Untuk menjawab pertanyaan ini, saya perlu menjelaskan bahwa analisis pengaruh pasal dalam ekosistem peraturan teknologi informasi Indonesia membutuhkan penelitian komprehensif. Namun, berdasarkan kajian umum, beberapa pasal yang secara signifikan berpengaruh adalah:\n\n1. Pasal 27 UU ITE (Informasi dan Transaksi Elektronik)\n- Mengatur konten digital\n- Landasan hukum pidana digital\n- Sering dirujuk dalam kasus pencemaran nama baik\n\n2. Pasal 28 UU ITE\n- Mengatur batasan konten elektronik\n- Dasar hukum untuk pelanggaran konten internet\n\n3. Pasal 5 UU ITE\n- Pengakuan dokumen elektronik\n- Landasan hukum transaksi digital\n\n4. Pasal 9 UU Perlindungan Data Pribadi\n- Mengatur perlindungan data pribadi\n- Standar pengelolaan data digital\n\n5. Pasal 46 UU ITE\n- Mengatur sanksi pelanggaran elektronik\n- Dasar hukum pemidanaan digital\n\nCatatan: Urutan dan signifikansi bisa berbeda tergantung perspektif analisis.",
+        "reference": "Berdasarkan hasil analisis PageRank, berikut adalah lima pasal yang paling berpengaruh dalam ekosistem peraturan teknologi informasi Indonesia, berdasarkan banyaknya konsep atau aturan lain yang terhubung padanya:\n\n1. Pasal 100 PP Nomor 71 Tahun 2019 (Centrality Score: 5.736778731531066)\n2. Pasal 80 PP Nomor 80 Tahun 2019 (Centrality Score: 5.394209525871906)\n3. Pasal 57 UU Nomor 27 Tahun 2022 (Centrality Score: 4.937004367885523)\n4.Pasal 6 PERMENKOMINFO Nomor 1\/PER\/M.KOMINFO\/1\/2010 Tahun 2010 (Centrality Score: 4.286009749839801)\n5. Pasal 52 PERMENKOMINFO Nomor 1 Tahun 2021 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 (Centrality Score: 4.08426178925117)\n\nPageRank mengukur kepentingan sebuah node dalam jaringan berdasarkan jumlah dan kualitas tautan yang mengarah ke node tersebut. Dalam konteks ini, semakin tinggi skor PageRank, semakin banyak konsep atau aturan lain yang terhubung ke pasal tersebut, menunjukkan pengaruhnya yang besar dalam ekosistem peraturan.",
+        "rougeL_precision(mode=precision)": 0.186440678,
+        "rougeL_recall(mode=recall)": 0.1506849315,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1666666667,
+        "answer_relevancy": 0.8916807103,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Judul pasal mana saja (sepuluh) yang merupakan 'jembatan' antara kelompok pasal yang berbeda?",
+        "response": "Maaf, saya tidak bisa menjawab pertanyaan ini dengan tepat karena tidak memiliki konteks atau dokumen spesifik yang Anda rujuk. Untuk dapat mengidentifikasi pasal-pasal yang bertindak sebagai 'jembatan' antara kelompok pasal yang berbeda, saya membutuhkan informasi lebih lanjut tentang dokumen atau naskah yang Anda bicarakan. Bisa Anda berikan lebih banyak detail atau berbagi dokumen yang dimaksud?",
+        "reference": "Berdasarkan hasil analisis *betweenness centrality*, berikut adalah sepuluh pasal yang paling berperan sebagai 'jembatan' antara kelompok pasal yang berbeda dalam ekosistem peraturan teknologi informasi Indonesia:\n\n1.  Pasal 100 PP Nomor 71 Tahun 2019 (Centrality Score: 69910.57417943089)\n2.  Pasal 43 PP Nomor 46 Tahun 2021 (Centrality Score: 62025.58312019071)\n3.  Pasal 52 PERMENKOMINFO Nomor 1 Tahun 2021 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 (Centrality Score: 60776.841324479275)\n4.  Pasal 7 PERMENKOMINFO Nomor 5 Tahun 2021 (Centrality Score: 41774.86323444463)\n5.  Pasal 80 PP Nomor 80 Tahun 2019 (Centrality Score: 39583.41269407434)\n6.  Pasal 32 UU Nomor 36 Tahun 1999 (Centrality Score: 34891.03714966275)\n7.  Pasal 225 PERMENKOMINFO Nomor 5 Tahun 2021 (Centrality Score: 32845.24989915569)\n8.  Pasal 95 PP Nomor 52 Tahun 2000 (Centrality Score: 31260.987584231923)\n9.  Pasal 6 PERMENKOMINFO Nomor 1\/PER\/M.KOMINFO\/1\/2010 Tahun 2010 (Centrality Score: 30848.881918326846)\n10. Pasal 32 PP Nomor 46 Tahun 2021 (Centrality Score: 29419.965159642445)\n\n*Betweenness centrality* mengukur seberapa sering sebuah node (dalam kasus ini, pasal) berada pada jalur terpendek antara dua node lainnya dalam jaringan.",
+        "rougeL_precision(mode=precision)": 0.1964285714,
+        "rougeL_recall(mode=recall)": 0.0597826087,
+        "rougeL_fmeasure(mode=fmeasure)": 0.0916666667,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Jika saya tertarik dengan Pasal 26 UU Nomor 19 Tahun 2016, judul pasal-pasal rekomendasi apa saja (sepuluh) yang sebaiknya saya baca?",
+        "response": "Berikut adalah 10 pasal rekomendasi terkait UU Nomor 19 Tahun 2016 tentang Informasi dan Transaksi Elektronik (ITE) yang sebaiknya Anda baca:\n\n1. Pasal 4 - Ruang Lingkup\n2. Pasal 5 - Informasi Elektronik dan Dokumen Elektronik\n3. Pasal 27 - Pembatasan Konten Elektronik\n4. Pasal 28 - Larangan Penyebaran Konten Negatif\n5. Pasal 29 - Penghinaan dan Pencemaran Nama Baik\n6. Pasal 30 - Akses Ilegal dan Intersepsi\n7. Pasal 31 - Manipulasi Elektronik\n8. Pasal 32 - Pemalsuan Informasi Elektronik\n9. Pasal 36 - Alat Bukti Elektronik\n10. Pasal 40 - Perlindungan Privasi dan Kerahasiaan\n\nPasal-pasal ini memberikan gambaran komprehensif tentang aturan, batasan, dan perlindungan dalam konteks informasi elektronik.",
+        "reference": "Jika Anda tertarik dengan Pasal 26 UU Nomor 19 Tahun 2016, berikut adalah sepuluh judul pasal rekomendasi yang sebaiknya Anda baca, berdasarkan analisis *Personalized PageRank*:\n\n1.  Pasal 26 UU Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 (Centrality Score: 0.1905198345057189) - *Pasal fokus yang menjadi dasar rekomendasi*\n2.  Pasal 25 UU Nomor 11 Tahun 2008 (Centrality Score: 0.03903662758964349)\n3.  Pasal 16 PP Nomor 71 Tahun 2019 (Centrality Score: 0.03562416470272771)\n4.  Pasal 27 UU Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 (Centrality Score: 0.03414454917415887)\n5.  Pasal 18 PP Nomor 71 Tahun 2019 (Centrality Score: 0.03335904750439383)\n6.  Pasal 17 PP Nomor 71 Tahun 2019 (Centrality Score: 0.01647715627613053)\n7.  Pasal 15 PP Nomor 71 Tahun 2019 (Centrality Score: 0.014122027393007937)\n8.  Pasal 32 UU Nomor 11 Tahun 2008 (Centrality Score: 0.013709084177986861)\n9.  Pasal 100 PP Nomor 71 Tahun 2019 (Centrality Score: 0.011039459561132347)\n10. Pasal 24 UU Nomor 11 Tahun 2008 (Centrality Score: 0.010761518470625174)\n\n*Personalized PageRank* mengukur kepentingan sebuah node dalam jaringan, dengan memberikan bobot lebih tinggi pada node yang terhubung langsung dengan node sumber (dalam kasus ini, Pasal 26 UU Nomor 19 Tahun 2016). Ini berarti pasal-pasal dengan skor *Personalized PageRank* tertinggi adalah pasal-pasal yang paling relevan dan terkait erat dengan Pasal 26 UU Nomor 19 Tahun 2016.",
+        "rougeL_precision(mode=precision)": 0.3366336634,
+        "rougeL_recall(mode=recall)": 0.1497797357,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2073170732,
+        "answer_relevancy": 0.8617989043,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Kelompok peraturan mana saja yang secara erat terkait satu sama lain dan membentuk 'komunitas' regulasi yang berbeda?",
+        "response": "Berdasarkan konteks regulasi dan peraturan, beberapa kelompok peraturan yang saling terkait erat dapat mencakup:\n\n1. Regulasi Keuangan\n- Peraturan Bank Sentral\n- Ketentuan Perbankan\n- Standar Akuntansi\n- Perpajakan Keuangan\n\n2. Regulasi Lingkungan\n- Standar Emisi\n- Pengelolaan Limbah\n- Konservasi Sumber Daya Alam\n- Perlindungan Ekosistem\n\n3. Regulasi Ketenagakerjaan\n- Undang-Undang Ketenagakerjaan\n- Standar Keselamatan Kerja\n- Jaminan Sosial Tenaga Kerja\n- Upah Minimum\n\n4. Regulasi Kesehatan\n- Standar Pelayanan Medis\n- Regulasi Obat dan Farmasi\n- Keselamatan Pasien\n- Asuransi Kesehatan\n\n5. Regulasi Teknologi Informasi\n- Perlindungan Data Pribadi\n- Keamanan Siber\n- Hak Kekayaan Intelektual Digital\n- Transaksi Elektronik\n\nSetiap kelompok memiliki keterkaitan internal yang kuat.",
+        "reference": "Berdasarkan hasil analisis *Louvain Modularity*, berikut adalah beberapa kelompok peraturan yang secara erat terkait satu sama lain dan membentuk 'komunitas' regulasi yang berbeda:\n\n*   Community 120:\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 Tahun 2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet (170 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 24\/PER\/M.KOMINFO\/12\/2011 Tahun 2011 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/Per\/M.Kominfo\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet (37 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2013 tentang Jaringan Dokumentasi dan Informasi Hukum Kementerian Komunikasi dan Informatika (34 hubungan)\n    *   *Serta beberapa amandemen terkait PERMENKOMINFO 26\/2007*\n    *   *Fokus pada Pengamanan Jaringan, Jaringan Dokumentasi Hukum, dan amandemen terkait*\n\n*   Community 133:\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2016 tentang Sistem Manajemen Pengamanan Informasi (174 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 11\/PER\/M.KOMINFO\/4\/2007 Tahun 2007 tentang Penyediaan Kewajiban Pelayanan Universal Telekomunikasi (115 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 41\/PER\/M.KOMINFO\/10\/2009 Tahun 2009 tentang Tata Cara Penilaian Pencapaian Tingkat Komponen Dalam Negeri pada Penyelenggaraan Telekomunikasi (68 hubungan)\n    *   *Serta beberapa regulasi lain*\n    *   *Fokus pada Pengamanan Informasi, Kewajiban Pelayanan Universal, dan TKDN*\n\n*   Community 281:\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 1\/PER\/M.KOMINFO\/1\/2010 Tahun 2010 tentang Penyelenggaraan Jaringan Telekomunikasi (356 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 12 Tahun 2018 tentang Penyelenggaraan Telekomunikasi Khusus Untuk Keperluan Instansi Pemerintah atau Badan Hukum (139 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 24 Tahun 2013 tentang Layanan Jelajah (Roaming) Internasional (86 hubungan)\n    *   *Serta beberapa regulasi lain*\n    *   *Fokus pada Penyelenggaraan Jaringan Telekomunikasi dan Layanan Roaming*\n\n*   Community 700:\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 23 Tahun 2013 tentang Pengelolaan Nama Domain (264 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 32 Tahun 2015 tentang Pengelolaan Nomor Protokol Internet (96 hubungan)\n    *   Peraturan Pemerintah (PP) Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik (85 hubungan)\n    *   Undang-undang (UU) Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (12 hubungan)\n    *   *Fokus pada Pengelolaan Nama Domain, Nomor Protokol Internet, dan Sistem Transaksi Elektronik*\n\n*   Community 740:\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2024 tentang Sertifikasi Alat Telekomunikasi dan\/atau Perangkat Telekomunikasi (489 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2018 tentang Ketentuan Operasional Sertifikasi Alat dan\/atau Perangkat Telekomunikasi (414 hubungan)\n    *   Peraturan Pemerintah (PP) Nomor 46 Tahun 2021 tentang Pos, Telekomunikasi, dan Penyiaran (100 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2019 tentang Persyaratan Teknis Alat dan\/atau Perangkat Telekomunikasi untuk Keperluan Penyelenggaraan Televisi Siaran dan Radio Siaran (100 hubungan)\n    *   *Serta beberapa regulasi lain*\n    *   *Fokus pada Sertifikasi Alat dan Perangkat Telekomunikasi dan Persyaratan Teknis*\n\n*   Community 820:\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2018 tentang Akreditasi Lembaga Pelatihan Teknis Bidang Teknologi Informasi dan Komunikasi (136 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2016 tentang Uji Coba Teknologi Telekomunikasi, Informatika, Dan Penyiaran (30 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 17 Tahun 2015 tentang Persyaratan Teknis Pembaca Kartu Cerdas Nirkontak (Contactless Smart Card Reader) (8 hubungan)\n    *   *Fokus pada Akreditasi, Uji Coba Teknologi, dan Persyaratan Teknis*\n\n*   Community 2191:\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran (541 hubungan)\n    *   Peraturan Pemerintah (PP) Nomor 46 Tahun 2021 tentang Pos, Telekomunikasi, dan Penyiaran (286 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2021 tentang Penyelenggaraan Telekomunikasi (46 hubungan)\n    *   Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2021 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2021 tentang Penyelenggaraan Penyiaran (27 hubungan)\n    *   *Fokus pada Penyelenggaraan Penyiaran dan Telekomunikasi*\n\n*Louvain Modularity* adalah algoritma untuk menemukan komunitas dalam jaringan. Algoritma ini mencoba untuk memaksimalkan modularitas jaringan, yang merupakan ukuran seberapa padat koneksi di dalam komunitas dibandingkan dengan koneksi di antara komunitas. Semakin tinggi modularitas, semakin baik struktur komunitas jaringan. Dalam konteks ini, peraturan dengan *communityId* yang sama cenderung memiliki keterkaitan isi dan tujuan regulasi.\n",
+        "rougeL_precision(mode=precision)": 0.2111111111,
+        "rougeL_recall(mode=recall)": 0.0290964778,
+        "rougeL_fmeasure(mode=fmeasure)": 0.0511440108,
+        "answer_relevancy": 0.9398041404,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa jalur hubungan terdekat antara Pasal 26 UU Nomor 19 Tahun 2016 dengan Pasal 9 UU Nomor 27 Tahun 2022?",
+        "response": "Untuk menjawab pertanyaan ini, saya perlu menjelaskan bahwa kedua pasal tersebut berasal dari undang-undang yang berbeda:\n\n- Pasal 26 UU Nomor 19 Tahun 2016 tentang Informasi dan Transaksi Elektronik (ITE)\n- Pasal 9 UU Nomor 27 Tahun 2022 tentang Pegawai Aparatur Sipil Negara (ASN)\n\nNamun, berdasarkan informasi yang tersedia, tidak ada hubungan langsung atau terdekat antara kedua pasal tersebut. Keduanya mengatur hal yang berbeda:\n\n- Pasal 26 UU ITE berkaitan dengan konten elektronik dan tanggung jawab penulis\n- Pasal 9 UU ASN berkaitan dengan hak dan kewajiban pegawai negeri\n\nUntuk mendapatkan informasi lebih akurat tentang hubungan spesifik antara kedua pasal, disarankan untuk:\n1. Membaca kedua pasal secara lengkap\n2. Berkonsultasi dengan ahli hukum\n3. Melihat konteks dan penjelasan resmi dari kedua undang-undang",
+        "reference": "Berdasarkan hasil kueri, hubungan terdekat antara Pasal 26 UU Nomor 19 Tahun 2016 dengan Pasal 9 UU Nomor 27 Tahun 2022 adalah melalui jalur berikut:\n\n1.  Pasal 26 UU Nomor 19 Tahun 2016\n2.  Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik\n3.  TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET (Subjek)\n4.  Undang-undang (UU) Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi\n5.  Pasal 9 UU Nomor 27 Tahun 2022\n\nJalur ini menunjukkan bahwa kedua pasal tersebut terhubung melalui kesamaan subjek, yaitu **TELEKOMUNIKASI, INFORMATIKA, SIBER, DAN INTERNET**, dan keduanya merupakan bagian dari undang-undang yang mengatur bidang tersebut. Pasal 26 UU ITE mengatur tentang perlindungan data pribadi dalam media elektronik, sedangkan Pasal 9 UU PDP mengatur tentang hak subjek data pribadi untuk menarik kembali persetujuan pemrosesan data pribadi.",
+        "rougeL_precision(mode=precision)": 0.2916666667,
+        "rougeL_recall(mode=recall)": 0.25,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2692307692,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Dari semua peraturan di bidang teknologi informasi di database, sebutkan semua pasal yang isinya membahas mengenai 'tanda tangan elektronik', sebutkan judul pasalnya",
+        "response": "Saya ingin membantu Anda, tetapi saya tidak memiliki akses langsung ke database peraturan teknologi informasi. Untuk memberikan informasi yang akurat tentang pasal-pasal terkait tanda tangan elektronik, saya dapat menyarankan beberapa sumber yang mungkin berguna:\n\n1. UU No. 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE)\n2. PP No. 82 Tahun 2012 tentang Penyelenggaraan Sistem dan Transaksi Elektronik\n\nNamun, untuk mendapatkan daftar lengkap pasal yang spesifik membahas tanda tangan elektronik, saya sarankan Anda:\n- Mengecek langsung dokumen resmi peraturan tersebut\n- Berkonsultasi dengan ahli hukum teknologi informasi\n- Menghubungi instansi terkait seperti Kementerian Komunikasi dan Informatika\n\nApakah Anda ingin saya bantu mencari referensi lebih lanjut?",
+        "reference": "Berikut adalah daftar pasal yang membahas mengenai \"tanda tangan elektronik\" dalam peraturan di bidang teknologi informasi:\n\n*   Pasal 59 PERMENKOMINFO Nomor 7 Tahun 2021\n*   Pasal 29 PP Nomor 80 Tahun 2019\n*   Pasal 49 PP Nomor 80 Tahun 2019\n*   Pasal 54 PP Nomor 80 Tahun 2019",
+        "rougeL_precision(mode=precision)": 0.0961538462,
+        "rougeL_recall(mode=recall)": 0.2272727273,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1351351351,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Dalam regulasi Nomor 27 Tahun 2022, sebutkan isi dari Pasal 27",
+        "response": "Saya mohon maaf, tetapi saya tidak dapat dengan pasti menyebutkan isi Pasal 27 dari Peraturan Nomor 27 Tahun 2022 tanpa melihat dokumen aslinya. Untuk mendapatkan informasi yang akurat, saya sarankan Anda:\n\n1. Membaca langsung dokumen resmi peraturan tersebut\n2. Mengunjungi website resmi pemerintah\n3. Mengkonsultasikan dengan pihak yang berkompeten\n\nJika Anda ingin mengetahui isi pasalnya dengan pasti, silakan merujuk pada sumber resmi peraturan tersebut.",
+        "reference": "Isi dari Pasal 27 Undang-undang (UU) Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi adalah:\n\nPengendali Data Pribadi wajib melakukan pemrosesan Data Pribadi secara terbatas dan spesifik, sah secara hukum, dan transparan",
+        "rougeL_precision(mode=precision)": 0.109375,
+        "rougeL_recall(mode=recall)": 0.2121212121,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1443298969,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Peraturan bidang teknologi informasi apa saja (lima) yang paling banyak di amandemen oleh peraturan lain? Sebutkan judulnya",
+        "response": "Berikut adalah lima peraturan bidang teknologi informasi yang sering diamandemen:\n\n1. UU Informasi dan Transaksi Elektronik (UU ITE) No. 11 Tahun 2008\n- Telah direvisi beberapa kali\n- Terakhir diubah pada 2016\n\n2. Peraturan Pemerintah tentang Penyelenggaraan Sistem dan Transaksi Elektronik\n- Beberapa kali mengalami perubahan\n- Terakhir diperbarui PP No. 71 Tahun 2019\n\n3. Peraturan Menkominfo tentang Perlindungan Data Pribadi\n- Mengalami beberapa kali perubahan\n- Terakhir Permenkominfo No. 20 Tahun 2016\n\n4. Peraturan Bank Indonesia tentang Sistem Pembayaran Digital\n- Sering diperbarui sesuai perkembangan teknologi\n- Terakhir PBI No. 22\/23\/PBI\/2020\n\n5. Peraturan Keamanan Siber Nasional\n- Mengalami beberapa kali penyempurnaan\n- Terakhir Perpres No. 82 Tahun 2022",
+        "reference": "Berikut adalah lima peraturan di bidang teknologi informasi yang memiliki perubahan (amandemen) paling banyak:\n\n1. Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 Tahun 2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet (4 amandemen)\n2. Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi (3 amandemen)\n3. Peraturan Menteri Komunikasi dan Informatika Nomor 1\/PER\/M.KOMINFO\/1\/2010 Tahun 2010 tentang Penyelenggaraan Jaringan Telekomunikasi (2 amandemen)\n4. Undang-undang (UU) Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (2 amandemen)\n5. Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat (1 amandemen)",
+        "rougeL_precision(mode=precision)": 0.2352941176,
+        "rougeL_recall(mode=recall)": 0.2201834862,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2274881517,
+        "answer_relevancy": 0.8825885995,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Sebutkan semua judul peraturan di bidang teknologi informasi yang diterbitkan pada tahun 2016.",
+        "response": "Saya tidak bisa menyebutkan secara pasti semua judul peraturan di bidang teknologi informasi yang diterbitkan pada tahun 2016 tanpa referensi atau dokumen resmi. Untuk mendapatkan informasi yang akurat, saya menyarankan Anda untuk:\n\n1. Mengunjungi situs resmi Kementerian Komunikasi dan Informatika (Kemenkominfo)\n2. Memeriksa laman resmi Direktorat Jenderal Aplikasi Informatika\n3. Mengakses database peraturan pemerintah\n4. Berkonsultasi dengan ahli hukum teknologi informasi\n\nJika Anda ingin informasi spesifik, saya bisa membantu mencari referensi yang lebih tepat.",
+        "reference": "Berikut adalah daftar judul peraturan di bidang teknologi informasi yang diterbitkan pada tahun 2016:\n\n1.  Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2016 tentang Sistem Manajemen Pengamanan Informasi\n2.  Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2016 tentang Uji Coba Teknologi Telekomunikasi, Informatika, Dan Penyiaran\n3.  Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2016 tentang Layanan Nomor Tunggal Panggilan Darurat\n4.  Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2016 tentang Hasil Pemetaan Urusan Pemerintahan Daerah di Bidang Komunikasi dan Informatika\n5.  Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2016 tentang Pedoman Nomenklatur Perangkat Daerah Bidang Komunikasi dan Informatika\n6.  Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2016 tentang Perlindungan Data Pribadi Dalam Sistem Elektronik\n7.  Undang-undang (UU) Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik",
+        "rougeL_precision(mode=precision)": 0.2837837838,
+        "rougeL_recall(mode=recall)": 0.1478873239,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1944444444,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Dari seluruh peraturan yang membahas \"sistem elektronik\", apa judul peraturan yang paling baru diterbitkan?",
+        "response": "Untuk menjawab pertanyaan ini dengan akurat, saya membutuhkan informasi terbaru tentang peraturan sistem elektronik. Namun, berdasarkan pengetahuan saya, Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE) yang telah diubah menjadi UU Nomor 19 Tahun 2016 adalah salah satu peraturan penting terkait sistem elektronik di Indonesia. Untuk mendapatkan informasi paling mutakhir, saya sarankan untuk mengecek sumber resmi pemerintah atau lembaga terkait.",
+        "reference": "Peraturan yang paling baru diterbitkan yang membahas \"sistem elektronik\" adalah:\n\nPeraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2021 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik Lingkup Privat.",
+        "rougeL_precision(mode=precision)": 0.1692307692,
+        "rougeL_recall(mode=recall)": 0.2972972973,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2156862745,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Kapan (tanggal) Pasal 40 UU Nomor 11 Tahun 2008 terakhir kali diamandemen?",
+        "response": "Pasal 40 UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE) terakhir kali diamandemen pada tanggal 28 November 2016, yaitu dengan disahkannya UU Nomor 19 Tahun 2016 tentang Perubahan Atas UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik.",
+        "reference": "Pasal 40 UU Nomor 11 Tahun 2008 terakhir kali diamandemen pada tanggal 2 Januari 2024.",
+        "rougeL_precision(mode=precision)": 0.2857142857,
+        "rougeL_recall(mode=recall)": 0.8,
+        "rougeL_fmeasure(mode=fmeasure)": 0.4210526316,
+        "answer_relevancy": 0.8724597536,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Berapa banyak pasal yang terdapat di UU Nomor 27 Tahun 2022?",
+        "response": "UU Nomor 27 Tahun 2022 tentang Perlindungan Pekerja Migran Indonesia terdiri dari 16 BAB dan 74 Pasal.",
+        "reference": "Terdapat total 76 pasal di UU Nomor 27 Tahun 2022.",
+        "rougeL_precision(mode=precision)": 0.2941176471,
+        "rougeL_recall(mode=recall)": 0.5,
+        "rougeL_fmeasure(mode=fmeasure)": 0.3703703704,
+        "answer_relevancy": 0.875935831,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Sebutkan 5 (lima) judul peraturan di bidang teknologi informasi terbaru yang diterbitkan oleh instansi \"Kementerian Komunikasi dan Informatika\"",
+        "response": "Berikut adalah 5 (lima) judul peraturan di bidang teknologi informasi terbaru yang diterbitkan oleh Kementerian Komunikasi dan Informatika (Kemenkominfo):\n\n1. Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2022 tentang Penyelenggaraan Sistem Elektronik\n\n2. Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2022 tentang Perlindungan Data Pribadi\n\n3. Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2022 tentang Tata Kelola Keamanan Informasi\n\n4. Peraturan Menteri Komunikasi dan Informatika Nomor 7 Tahun 2022 tentang Penanganan Konten Ilegal di Internet\n\n5. Peraturan Menteri Komunikasi dan Informatika Nomor 9 Tahun 2022 tentang Penyelenggaraan Komunikasi dan Informatika\n\nCatatan: Mohon diperhatikan bahwa daftar peraturan ini bersifat ilustratif dan dapat berubah sesuai dengan perkembangan terkini.",
+        "reference": "Berikut adalah 5 judul peraturan terbaru di bidang teknologi informasi yang diterbitkan oleh Kementerian Komunikasi dan Informatika:\n\n1.  Peraturan Menteri Komunikasi dan Informatika Nomor 6 Tahun 2024 tentang Tata Cara Seleksi Pengguna Pita Frekuensi Radio (30 September 2024)\n2.  Peraturan Menteri Komunikasi dan Informatika Nomor 4 Tahun 2024 tentang PENYELENGGARAAN URUSAN PEMERINTAHAN KONKUREN BIDANG KOMUNIKASI DAN INFORMATIKA (3 September 2024)\n3.  Peraturan Menteri Komunikasi dan Informatika Nomor 3 Tahun 2024 tentang Sertifikasi Alat Telekomunikasi dan\/atau Perangkat Telekomunikasi (13 Februari 2024)\n4.  Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2022 tentang Kebijakan Umum Penyelenggaraan Audit Teknologi Informasi dan Komunikasi (27 Desember 2022)\n5.  Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2021 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi (28 Desember 2021)",
+        "rougeL_precision(mode=precision)": 0.6055045872,
+        "rougeL_recall(mode=recall)": 0.4962406015,
+        "rougeL_fmeasure(mode=fmeasure)": 0.5454545455,
+        "answer_relevancy": 0.8955688297,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Pasal nomor berapa saja dari UU Nomor 11 Tahun 2008 yang sudah tidak berlaku setelah diamandemen oleh UU Nomor 19 Tahun 2016?",
+        "response": "Berdasarkan UU Nomor 19 Tahun 2016 tentang Perubahan UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE), beberapa pasal yang sudah tidak berlaku atau diubah adalah:\n\n1. Pasal 27 ayat (3) - terkait dengan muatan yang melanggar kesusilaan\n2. Pasal 28 ayat (2) - terkait dengan konten yang bermuatan penghinaan\/pencemaran nama baik\n3. Pasal 29 - terkait dengan konten yang bermuatan pemerasan\/pengancaman\n4. Pasal 30 - terkait dengan akses tidak sah ke dalam sistem elektronik\n5. Pasal 31 - terkait dengan intersepsi elektronik\n\nNamun, untuk detail pasti dan komprehensif, saya sarankan Anda membaca langsung UU Nomor 19 Tahun 2016 secara lengkap.",
+        "reference": "Pasal-pasal dari UU Nomor 11 Tahun 2008 yang sudah tidak berlaku setelah diamandemen oleh UU Nomor 19 Tahun 2016 adalah:\n*   Pasal 1\n*   Pasal 26\n*   Pasal 31\n*   Pasal 40\n*   Pasal 43\n*   Pasal 45",
+        "rougeL_precision(mode=precision)": 0.16,
+        "rougeL_recall(mode=recall)": 0.4848484848,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2406015038,
+        "answer_relevancy": 0.8482970567,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa definisi \"Penyelenggaraan Jasa Telekomunikasi\" menurut PERMENKOMINFO Nomor 5 Tahun 2021?",
+        "response": "Menurut Pasal 1 angka 4 PERMENKOMINFO Nomor 5 Tahun 2021, \"Penyelenggaraan Jasa Telekomunikasi\" adalah kegiatan penyediaan dan pelayanan jasa telekomunikasi yang dilakukan oleh Penyelenggara Jasa Telekomunikasi untuk memenuhi kebutuhan komunikasi pelanggan.\n\nDefinisi ini mencakup berbagai aspek kegiatan telekomunikasi yang bertujuan memberikan layanan komunikasi kepada masyarakat melalui infrastruktur dan jaringan telekomunikasi yang tersedia.",
+        "reference": "Menurut Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2021 tentang Penyelenggaraan Telekomunikasi:\n\nPenyelenggaraan Jasa Telekomunikasi adalah kegiatan penyediaan dan\/atau pelayanan Jasa Telekomunikasi yang memungkinkan terselenggaranya Telekomunikasi.",
+        "rougeL_precision(mode=precision)": 0.3269230769,
+        "rougeL_recall(mode=recall)": 0.6071428571,
+        "rougeL_fmeasure(mode=fmeasure)": 0.425,
+        "answer_relevancy": 0.9716610354,
+        "nv_accuracy": 0.75
+    },
+    {
+        "user_input": "Apa hubungan atau relasi antara Pasal 37 dan Pasal 35 di UU nomor 11 tahun 2008?",
+        "response": "Untuk menjawab pertanyaan ini, saya perlu melihat isi spesifik dari Pasal 35 dan Pasal 37 UU No. 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE). Namun, tanpa melihat teks asli, saya tidak dapat memberikan penjelasan detail tentang hubungan pasalnya.\n\nUntuk mendapatkan informasi yang akurat, saya sarankan:\n\n1. Membaca langsung UU No. 11 Tahun 2008\n2. Merujuk pada naskah resmi UU\n3. Berkonsultasi dengan ahli hukum yang memahami UU ITE\n\nJika Anda memiliki teks pasalnya, saya bisa membantu menganalisis hubungan antarpasal tersebut.",
+        "reference": "Hubungan antara Pasal 37 dan Pasal 35 di UU Nomor 11 Tahun 2008 adalah REFER_TO (merujuk). Ini berarti Pasal 37 merujuk ke Pasal 35.",
+        "rougeL_precision(mode=precision)": 0.0975609756,
+        "rougeL_recall(mode=recall)": 0.32,
+        "rougeL_fmeasure(mode=fmeasure)": 0.1495327103,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Apa hubungan atau relasi antara Pasal 40 UU Nomor 19 Tahun 2016 dengan Pasal 40 UU nomor 11 tahun 2008?",
+        "response": "Untuk menjawab pertanyaan ini, mari kita telaah kedua pasal tersebut:\n\nPasal 40 UU Nomor 19 Tahun 2016 (Perubahan UU ITE) dan Pasal 40 UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik memiliki hubungan yang erat:\n\n1. Substansi Dasar:\n- Kedua pasal sama-sama mengatur tentang pembatasan tanggung jawab Penyelenggara Sistem Elektronik\n\n2. Perbedaan Utama:\n- UU No. 11\/2008 adalah UU ITE original\n- UU No. 19\/2016 adalah UU perubahan dari UU ITE sebelumnya\n\n3. Relasi:\n- Pasal 40 UU No. 19\/2016 merupakan penyempurnaan\/pembaruan dari Pasal 40 UU No. 11\/2008\n- Substansi pada dasarnya mirip, namun dengan penyesuaian dan penjelasan yang lebih komprehensif\n\n4. Tujuan:\n- Melindungi Penyelenggara Sistem Elektronik dari tanggung jawab hukum atas konten yang dibuat pengguna\n\nIntinya, kedua pasal memiliki semangat dan tujuan yang sama dalam mengatur tanggung jawab penyelenggara sistem elektronik.",
+        "reference": "Hubungan antara Pasal 40 UU Nomor 19 Tahun 2016 dengan Pasal 40 UU Nomor 11 Tahun 2008 adalah AMENDED_BY (diamandemen oleh).\n\nIni berarti Pasal 40 UU Nomor 19 Tahun 2016 mengamandemen atau mengubah isi dari Pasal 40 UU Nomor 11 Tahun 2008.",
+        "rougeL_precision(mode=precision)": 0.1925925926,
+        "rougeL_recall(mode=recall)": 0.6046511628,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2921348315,
+        "answer_relevancy": 0.9000066434,
+        "nv_accuracy": 0.5
+    },
+    {
+        "user_input": "Sebutkan semua judul peraturan yang mengatur tentang persyaratan teknis untuk telekomunikasi jarak dekat.",
+        "response": "Untuk menjawab pertanyaan ini secara komprehensif, saya membutuhkan akses ke dokumen resmi atau sumber hukum telekomunikasi Indonesia. Namun, berdasarkan pengetahuan umum, beberapa peraturan yang mungkin terkait dengan persyaratan teknis telekomunikasi jarak dekat antara lain:\n\n1. Peraturan Menteri Komunikasi dan Informatika (Permenkominfo)\n2. Peraturan Komisi Penyiaran Indonesia (KPI)\n3. Peraturan Badan Regulasi Telekomunikasi Indonesia (BRTI)\n\nUntuk mendapatkan daftar lengkap dan akurat, saya sarankan untuk:\n- Mengecek website resmi Kementerian Komunikasi dan Informatika\n- Berkonsultasi dengan ahli telekomunikasi\n- Melihat dokumen resmi terkait regulasi telekomunikasi",
+        "reference": "Peraturan yang mengatur tentang persyaratan teknis untuk telekomunikasi jarak dekat adalah:\n\nPeraturan Menteri Komunikasi dan Informatika Nomor 35 Tahun 2015 tentang Persyaratan Teknis Alat dan Perangkat Telekomunikasi Jarak Dekat",
+        "rougeL_precision(mode=precision)": 0.175,
+        "rougeL_recall(mode=recall)": 0.4827586207,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2568807339,
+        "answer_relevancy": 0.0,
+        "nv_accuracy": 0.0
+    },
+    {
+        "user_input": "Pasal nomor berapa saja dalam UU Nomor 11 Tahun 2008 yang berkaitan dengan ketentuan penyebaran informasi elektronik?",
+        "response": "Dalam UU Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE), beberapa pasal yang berkaitan dengan penyebaran informasi elektronik antara lain:\n\n1. Pasal 4: Menjelaskan penggunaan informasi elektronik dan transaksi elektronik\n\n2. Pasal 27: Mengatur tentang pembatasan konten\/informasi elektronik yang dilarang disebarkan\n\n3. Pasal 28: Berisi ketentuan tentang penyebaran informasi yang memiliki muatan penghinaan atau pencemaran nama baik\n\n4. Pasal 29: Mengatur tentang penyebaran informasi yang bermuatan pemerasan atau pengancaman\n\n5. Pasal 30: Berkaitan dengan penyebaran informasi yang melanggar kesusilaan\n\n6. Pasal 31: Mengatur tentang penyebaran informasi yang bermuatan penghinaan atau pencemaran\n\nPasal-pasal tersebut mengatur batasan dan larangan dalam penyebaran informasi elektronik di Indonesia.",
+        "reference": "Berikut adalah daftar pasal dalam UU Nomor 11 Tahun 2008 yang berkaitan dengan ketentuan penyebaran informasi elektronik, berdasarkan hasil pencarian kata kunci:\n*   Pasal 1\n*   Pasal 5\n*   Pasal 6\n*   Pasal 7\n*   Pasal 8\n*   Pasal 11\n*   Pasal 16\n*   Pasal 17\n*   Pasal 25\n*   Pasal 27\n*   Pasal 29\n*   Pasal 30\n*   Pasal 31\n*   Pasal 32\n*   Pasal 35\n*   Pasal 40\n*   Pasal 43\n*   Pasal 44\n*   Pasal 52",
+        "rougeL_precision(mode=precision)": 0.2242990654,
+        "rougeL_recall(mode=recall)": 0.4,
+        "rougeL_fmeasure(mode=fmeasure)": 0.2874251497,
+        "answer_relevancy": 0.8828997516,
+        "nv_accuracy": 0.25
+    },
+    {
+        "user_input": "Judul peraturan apa saja yang mengatur tentang penggunaan jaringan internet?",
+        "response": "Beberapa peraturan yang mengatur tentang penggunaan internet di Indonesia antara lain:\n\n1. UU No. 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE)\n\n2. UU No. 19 Tahun 2016 (Revisi UU ITE)\n\n3. Peraturan Pemerintah No. 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik\n\n4. Peraturan Menkominfo No. 5 Tahun 2020 tentang Penyelenggara Sistem Elektronik\n\n5. UU No. 40 Tahun 2007 tentang Perlindungan Data Pribadi\n\n6. Peraturan Menkominfo No. 20 Tahun 2016 tentang Perlindungan Data Pribadi\n\n7. Peraturan Pemerintah No. 82 Tahun 2012 tentang Penyelenggaraan Sistem dan Transaksi Elektronik\n\nPeraturan-peraturan tersebut mengatur berbagai aspek penggunaan internet, mulai dari transaksi elektronik, perlindungan data pribadi, hingga sanksi pelanggaran.",
+        "reference": "Berdasarkan hasil kueri, peraturan yang mengatur tentang penggunaan jaringan internet adalah:\n\n*   Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 Tahun 2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet\n*   Peraturan Menteri Komunikasi dan Informatika Nomor 16\/PER\/M.KOMINFO\/10\/2010 Tahun 2010 tentang Perubahan atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet\n*   Peraturan Menteri Komunikasi dan Informatika Nomor 29\/PER\/M.KOMINFO\/12\/2010 Tahun 2010 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor : 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet\n*   Peraturan Menteri Komunikasi dan Informatika Nomor 24\/PER\/M.KOMINFO\/12\/2011 Tahun 2011 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/Per\/M.Kominfo\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet\n*   Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2017 tentang Perubahan Keempat atas Peraturan Menteri Komunikasi dan Informatika Nomor 26\/PER\/M.KOMINFO\/5\/2007 tentang Pengamanan Pemanfaatan Jaringan Telekomunikasi Berbasis Protokol Internet",
+        "rougeL_precision(mode=precision)": 0.2407407407,
+        "rougeL_recall(mode=recall)": 0.1452513966,
+        "rougeL_fmeasure(mode=fmeasure)": 0.181184669,
+        "answer_relevancy": 0.8949812296,
+        "nv_accuracy": 0.25
+    }
+]

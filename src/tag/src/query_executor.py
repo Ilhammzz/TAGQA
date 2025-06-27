@@ -23,6 +23,7 @@ def extract_sql_query_from_response(response: str) -> str:
 def execute_text2sql_response(conn, response: str):
     """
     Ekstrak SQL dari LLM output dan eksekusi query tersebut ke database.
+    Jika hasil kosong, fallback: ubah AND menjadi OR dan eksekusi ulang.
     """
     try:
         sql_query = extract_sql_query_from_response(response)
@@ -31,6 +32,22 @@ def execute_text2sql_response(conn, response: str):
             cur.execute(sql_query)
             rows = cur.fetchall()
             columns = [desc[0] for desc in cur.description]
+
+        # Fallback jika hasil kosong
+        if not rows:
+            print("⚡ Fallback: Mencoba ulang dengan operator OR...")
+            fallback_sql_query = sql_query.replace(' AND ', ' OR ')
+
+            with conn.cursor() as cur:
+                cur.execute(fallback_sql_query)
+                rows = cur.fetchall()
+                columns = [desc[0] for desc in cur.description]
+
+            if not rows:
+                print("⚠️ Data tidak ditemukan.")
+                return None, None  # Atau kamu bisa return [], [] sesuai pipeline kamu
+            else:
+                return rows, columns
 
         return rows, columns
 
