@@ -340,11 +340,12 @@ def evaluate_text_generation(
     return evaluate(
         dataset=evaluation_dataset,
         metrics=[
-            RougeScore(rouge_type="rougeL", mode="precision", name="rougeL_precision"),
-            RougeScore(rouge_type="rougeL", mode="recall", name="rougeL_recall"),
+            # RougeScore(rouge_type="rougeL", mode="precision", name="rougeL_precision"),
+            # RougeScore(rouge_type="rougeL", mode="recall", name="rougeL_recall"),
             RougeScore(rouge_type="rougeL", mode="fmeasure", name="rougeL_fmeasure"),
             ResponseRelevancy(),
             Faithfulness(),
+            AnswerAccuracy(),
         ],
         llm=LangchainLLMWrapper(llm_model, run_config=run_config),
         embeddings=LangchainEmbeddingsWrapper(embedding_model, run_config=run_config),
@@ -389,12 +390,11 @@ def evaluate_end_to_end_tag(
             NonLLMContextRecallMod(
                 name="recall", threshold=0.8, _distance_measure=JaccardSimilarity()
             ),
-            RougeScore(rouge_type="rougeL", mode="precision", name="rougeL_precision"),
-            RougeScore(rouge_type="rougeL", mode="recall", name="rougeL_recall"),
+            # RougeScore(rouge_type="rougeL", mode="precision", name="rougeL_precision"),
+            # RougeScore(rouge_type="rougeL", mode="recall", name="rougeL_recall"),
             RougeScore(rouge_type="rougeL", mode="fmeasure", name="rougeL_fmeasure"),
             ResponseRelevancy(),
             Faithfulness(),
-            AnswerCorrectness(),
             AnswerAccuracy(),
         ],
         llm=LangchainLLMWrapper(llm_model, run_config=run_config),
