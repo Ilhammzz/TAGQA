@@ -1,51 +1,55 @@
-"""Chainlit app: ```chainlit run app.py```"""
+"""Chainlit app: `chainlit run app.py`"""
 
 import chainlit as cl
 from dotenv import load_dotenv
-from langchain.schema import StrOutputParser
-from langchain.schema.runnable import RunnableConfig
-from src.ui import (
-    GRAPH_RAG_DESC,
-    GRAPH_RAG_SETTINGS,
-    GRAPH_RAG_STARTERS,
-    configure_graph_rag,
-    graph_rag_on_message,
-    initialize_graph_rag,
+from langchain_core.runnables import RunnableConfig
+# from src.ui import (
+#     GRAPH_RAG_DESC,
+#     GRAPH_RAG_SETTINGS,
+#     GRAPH_RAG_STARTERS,
+#     configure_graph_rag,
+#     graph_rag_on_message,
+#     initialize_graph_rag,
+# )
+from ui.tag import (
+    TAG_DESC,
+    TAG_SETTINGS,
+    TAG_STARTERS,
+    build_tag_chain,
+    on_message as tag_on_message,
 )
 
 
 @cl.set_chat_profiles
 async def chat_profile():
-    """
-    TODO: Docstring
-    """
     return [
         cl.ChatProfile(
             name="Graph-RAG",
-            markdown_description=GRAPH_RAG_DESC,
+            markdown_description="Modul Graph-RAG sedang dalam pengembangan.",
             icon="https://picsum.photos/200",
-            starters=GRAPH_RAG_STARTERS,
+            starters=[
+                cl.Starter(
+                    label="Coming Soon",
+                    message="Fitur Graph-RAG sedang dikembangkan."
+                )
+            ],
         ),
-        # TODO
         cl.ChatProfile(
             name="TAG",
-            markdown_description="TODO",
+            markdown_description=TAG_DESC,
             icon="https://picsum.photos/250",
-            starters=None,
-            # default=True
+            starters=TAG_STARTERS,
+            default=True,
         ),
     ]
 
 
 @cl.on_chat_start
 async def on_chat_start():
-    """
-    TODO: Docstring
-    """
     chat_profile = cl.user_session.get("chat_profile")
 
     if chat_profile == "Graph-RAG":
-        if not cl.user_session.get("is_graph_rag_initialized ", False):
+        if not cl.user_session.get("is_graph_rag_initialized", False):
             neo4j_graph, embedder_model = initialize_graph_rag()
 
             cl.user_session.set("neo4j_graph", neo4j_graph)
@@ -63,20 +67,16 @@ async def on_chat_start():
         cl.user_session.set("llm", llm)
         cl.user_session.set("graph_workflow", graph_workflow)
         cl.user_session.set("graph_visualizer_tool", graph_visualizer_tool)
+
     elif chat_profile == "TAG":
-        pass
-        # Seingetku, hasil akhirnya harus di-chain ke StrOutputParser()
-        ########################## CONTOH #############################
-        # runnable = prompt | llm | StrOutputParser()
-        # cl.user_session.set("runnable", runnable)
-        ###############################################################
+        settings = await cl.ChatSettings(TAG_SETTINGS).send()
+        tag_chain = build_tag_chain(settings["llm_model"])
+        cl.user_session.set("tag_chain", tag_chain)
+        cl.user_session.set("tag_llm_model", settings["llm_model"])
 
 
 @cl.on_settings_update
 async def setup_agent(settings):
-    """
-    TODO: Docstring
-    """
     chat_profile = cl.user_session.get("chat_profile")
 
     if chat_profile == "Graph-RAG":
@@ -91,14 +91,13 @@ async def setup_agent(settings):
         cl.user_session.set("graph_visualizer_tool", graph_visualizer_tool)
 
     elif chat_profile == "TAG":
-        pass
+        tag_chain = build_tag_chain(settings["llm_model"])
+        cl.user_session.set("tag_chain", tag_chain)
+        cl.user_session.set("tag_llm_model", settings["llm_model"])
 
 
 @cl.on_message
 async def on_message(input_msg: cl.Message):
-    """
-    TODO: Docstring
-    """
     chat_profile = cl.user_session.get("chat_profile")
     config = {"configurable": {"thread_id": cl.context.session.id}}
 
@@ -114,19 +113,7 @@ async def on_message(input_msg: cl.Message):
         )
 
     elif chat_profile == "TAG":
-        pass
-        ######################### CONTOH #############################
-        # runnable = cl.user_session.get("runnable")  # type: Runnable
-        # msg = cl.Message(content="")
-        #
-        # for chunk in await cl.make_async(runnable.stream)(
-        #     {"question": message.content},
-        #     config=RunnableConfig(callbacks=[cl.LangchainCallbackHandler()]),
-        # ):
-        #     await msg.stream_token(chunk)
-        #
-        # await msg.send()
-        ##############################################################
+        await tag_on_message(input_msg)
 
 
 if __name__ == "__main__":

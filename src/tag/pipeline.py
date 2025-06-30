@@ -1,7 +1,7 @@
 from langchain_core.runnables import RunnableLambda
 from tag.src.text2sqlchain_zero import generate_sql
-from src.query_executor import execute_text2sql_response
-from src.answer_generator import generate_answer
+from tag.src.query_executor import execute_text2sql_response
+from tag.src.answer_generator import generate_answer
 from tag.database.db_connection import connect_db
 from tag.database.schema_loader import load_schema
 
