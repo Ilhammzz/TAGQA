@@ -16,7 +16,7 @@ from ui.tag import (
     TAG_SETTINGS,
     TAG_STARTERS,
     build_tag_chain,
-    on_message as tag_on_message,
+    on_message as tag_on_message
 )
 
 
@@ -70,9 +70,9 @@ async def on_chat_start():
 
     elif chat_profile == "TAG":
         settings = await cl.ChatSettings(TAG_SETTINGS).send()
-        tag_chain = build_tag_chain(settings["llm_model"])
+        tag_chain = build_tag_chain()
         cl.user_session.set("tag_chain", tag_chain)
-        cl.user_session.set("tag_llm_model", settings["llm_model"])
+        # cl.user_session.set("tag_llm_model", settings["llm_model"])
 
 
 @cl.on_settings_update

@@ -34,8 +34,8 @@
       "(1) Lembaga Penyiaran Asing yang menyelenggarakan kegiatan siaran secara tidak tetap di Indonesia sebagaimana dimaksud dalam Pasal 3 dapat membawa perangkat pengiriman ke dan penerima siaran dari satelit dan/atau media lainnya.\n(2) Lembaga Penyiaran Asing yang menyelenggarakan kegiatan jurnalistik di Indonesia sebagaimana dimaksud dalam Pasal 3 dapat :\n\ta. menempatkan koresponden untuk melakukan kegiatan jurnalistik; atau\n\tb. membuka kantor penyiaran asing untuk mendukung bidang administratif.",
       "Dalam membuka kantor penyiaran asing sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf b, Lembaga Penyiaran Asing wajib memenuhi ketentuan sebagai berikut :\na. kantor penyiaran asing tersebut bukan merupakan stasiun penyiaran; dan\nb. kantor penyiaran asing tersebut berlokasi di ibukota negara dan berada pada wilayah yurisdiksi Negara Republik Indonesia."
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.09,
+    "recall": 0.25
   },
   {
     "user_input": "Bagaimana cara mendapatkan rekomendasi untuk menyelenggarakan Diklat Radio Elektronika atau Operator Radio (REOR)?",
@@ -93,8 +93,8 @@
       "Informasi tarif retail layanan jelajah (roaming) internasional untuk layanan SMS paling sedikit memuat:\na. tarif mengirim SMS ke negara yang dikunjungi;\nb. tarif mengirim SMS ke negara asal; dan\nc. tarif menerima SMS dari negara asal dan negara yang dikunjungi.",
       "Informasi tarif retail layanan jelajah (roaming) internasional untuk layanan data paling sedikit memuat:\na. tarif layanan data per satuan volume;\nb. tarif layanan data per satuan waktu; dan/atau\nc. tarif paket data yang ditawarkan."
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.5,
+    "recall": 1.0
   },
   {
     "user_input": "Apa persyaratan teknis yang harus dipenuhi oleh pembaca kartu cerdas nirkontak?",
@@ -106,8 +106,8 @@
       "Pembaca kartu cerdas nirkontak (Contactless Smart Card Reader) wajib memenuhi persyaratan teknis sebagaimana dimaksud dalam Lampiran yang merupakan bagian tak terpisahkan dari Peraturan Menteri ini.",
       "Pelaksanaan pengujian Pembaca Kartu Cerdas Nirkontak (Contactless Smart Card Reader) wajib berpedoman pada persyaratan teknis sebagaimana dimaksud dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini."
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 1.0,
+    "recall": 1.0
   },
   {
     "user_input": "Bagaimana cara menyampaikan laporan pelanggaran hak cipta secara resmi?",
@@ -123,8 +123,8 @@
       "(1) Laporan secara elektronik sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a dilakukan dengan mengisi formulir aplikasi laporan yang tersedia pada situs resmi Direktorat Jenderal Kekayaan Intelektual.\n(2) Selain mengisi formulir aplikasi laporan sebagaimana dimaksud pada ayat (1), pelapor juga harus mengunggah hasil pindai dokumen fisik sebagaimana dimaksud dalam Pasal 3 ayat (3) melalui aplikasi laporan.\n(3) Laporan secara elektronik yang diterima melewati batas waktu jam kerja atau hari kerja akan diproses pada hari kerja berikutnya.",
       "Laporan secara nonelektronik sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b dilakukan dengan mengisi formulir dan menyampaikan secara langsung ke Direktorat Jenderal Kekayaan Intelektual disertai dengan dokumen sebagaimana dimaksud dalam Pasal 3 ayat (4)"
     ],
-    "precision": 0.2,
-    "recall": 0.3333333333333333
+    "precision": 0.6,
+    "recall": 1.0
   },
   {
     "user_input": "Bagaimana prosedur untuk mengajukan permohonan Nomor Protokol Internet?",
@@ -190,8 +190,8 @@
       "Pembagian dan penjabaran tugas dan fungsi Dinas Komunikasi dan Informatika Provinsi dan Dinas Kabupaten/Kota, dikelompokkan berdasarkan pendekatan fungsi dengan rincian sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
       "Penjabaran tugas dan fungsi Dinas Komunikasi dan Informatika Provinsi dan Kabupaten/Kota tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini."
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.66,
+    "recall": 1.0
   },
   {
     "user_input": "Apa yang dapat saya lakukan jika saya merasa bahwa Data Pribadi saya telah disalahgunakan oleh Penyelenggara Sistem Elektronik (PSE)?",
@@ -407,8 +407,8 @@
       "(1) Bakti mempunyai tugas melaksanakan pengelolaan pembiayaan Kewajiban Pelayanan Universal dan penyediaan infrastruktur dan layanan telekomunikasi dan informatika.\n(2) Bakti dalam pencapaian tujuan, pelaksanaan tugas, dan penyelenggaraan fungsinya dipimpin oleh Direktur Utama.\n(3) Bakti menerapkan pola Pengelolaan Keuangan Badan Layanan Umum, dengan rencana kerja dan anggaran, dan pelaporan kinerja setingkat program.",
       "Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 2, Bakti menyelenggarakan fungsi:\na. perencanaan, pelaksanaan, monitoring dan evaluasi perencanaan strategis, sumber daya manusia dan hubungan masyarakat, hukum, pengadaan dan sistem informasi;\nb. perencanaan, pelaksanaan, monitoring dan evaluasi pengelolaan pendapatan, perbendaharaan dan investasi, penyusunan anggaran dan akuntansi, dan manajemen risiko;\nc. perencanaan, pelaksanaan, monitoring dan evaluasi penyediaan infrastruktur last mile/backhaul, backbone, dan satelit;\nd. perencanaan, pelaksanaan, monitoring dan evaluasi penyediaan layanan telekomunikasi dan informasi untuk masyarakat dan pemerintah;\ne. perencanaan, pelaksanaan, monitoring dan evaluasi penyediaan layanan telekomunikasi dan informasi untuk dunia usaha;\nf. pelaksanaan pemeriksaan intern dan tindak lanjut laporan hasil pemeriksaan dan audit;\ng. penetapan peraturan, pedoman, perikatan, standar, dan prosedur Bakti; dan\nh. pelaksanaan fungsi lain yang diberikan oleh Menteri."
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.16,
+    "recall": 0.2
   },
   {
     "user_input": "Bagaimana mekanisme pengusulan program KPU Telekomunikasi dan Informatika dari masyarakat atau pemerintah daerah?",
@@ -1350,8 +1350,8 @@
       "Pelaksana penyedia wajib :\na. menjamin interoperability sistem yang dibangun dengan sistem milik penyelenggara telekomunikasi lainnya;\nb. menggunakan sistem penomoran yang telah dialokasikan;\nc. mengikuti ketentuan dalam Rencana Dasar Teknis yang ditetapkan oleh Menteri;\nd. melaksanakan pencatatan atas pendapatan dari hasil penyediaan KPU telekomunikasi dan dilaporkan secara berkala kepada BTIP;\ne. menyediakan akses dan menyampaikan data pengoperasian kepada BTIP.",
       "(1) Penyediaan KPU telekomunikasi wajib beroperasi setiap hari selama 24 (dua puluh empat) jam .\n(2) Pelaksana penyedia wajib melaksanakan penyediaan KPU telekomunikasi berdasarkan tingkat kualitas layanan sebagaimana yang ditetapkan dalam kontrak."
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.017,
+    "recall": 0.125
   },
   {
     "user_input": "Apakah terdapat kewajiban bagi Pelaksana Penyedia Kewajiban Pelayanan Universal (KPU) Telekomunikasi untuk menggunakan produk dalam negeri dalam penyelenggaraan layanan telekomunikasi?",
@@ -1688,8 +1688,8 @@
     "reference_contexts": [
       "{'text': 'Lingkup pengaturan Perdagangan Melalui Sistem Elektronik meliputi:\\na. pihak yang melakukan PMSE;\\nb. persyaratan dalam PMSE;\\nc. penyelenggaraan PMSE;\\nd. kewajiban Pelaku Usaha;\\ne. bukti transaksi PMSE;\\nf. Iklan Elektronik;\\ng. Penawaran Secara Elektronik, Penerimaan Secara Elektronik, dan Konfirmasi Elektronik;\\nh. Kontrak Elektronik;\\ni. perlindungan terhadap data pribadi;\\nj. pembayaran dalam PMSE;\\nk. pengiriman Barang dan Jasa dalam PMSE;\\n1. penukaran Barang atau Jasa dan pembatalan pembelian dalam PMSE;\\nm. penyelesaian sengketa dalam PMSE; dan\\nn. pembinaan dan pengawasan.'}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 1.0,
+    "recall": 1.0
   },
   {
     "user_input": "Apa isi Pasal 10 Peraturan Menteri Komunikasi dan Informatika (PERMENKOMINFO) Nomor 4 Tahun 2016?",
@@ -1879,8 +1879,8 @@
       "{'title': 'Peraturan Pemerintah (PP) Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik'}",
       "{'title': 'Peraturan Pemerintah (PP) Nomor 80 Tahun 2019 tentang Perdagangan Melalui Sistem Elektronik'}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 1.0,
+    "recall": 1.0
   },
   {
     "user_input": "Apa judul peraturan yang dikeluarkan pada rentang tahun 2008 hingga 2010 yang memiliki subjek Telekomunikasi, Informatika, Siber, dan Internet?",
@@ -2053,8 +2053,8 @@
       "{'title': 'Pasal 52 PERMENKOMINFO Nomor 13 Tahun 2019', 'count': 23}",
       "{'title': 'Pasal 95 PP Nomor 52 Tahun 2000', 'count': 23}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 1.0,
+    "recall": 1.0
   },
   {
     "user_input": "Berdasarkan daftar peraturan yang ada di database, apa lima nama subjek yang paling banyak dibahas?",
@@ -2110,8 +2110,8 @@
       "{'name': 'Pasal 6 PERMENKOMINFO Nomor 1/PER/M.KOMINFO/1/2010 Tahun 2010', 'centrality_score': 4.286009749839801}",
       "{'name': 'Pasal 52 PERMENKOMINFO Nomor 1 Tahun 2021 tentang Perubahan Kedua atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019', 'centrality_score': 4.08426178925117}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.5,
+    "recall": 0.5
   },
   {
     "user_input": "Judul pasal mana saja (sepuluh) yang merupakan 'jembatan' antara kelompok pasal yang berbeda?",
@@ -2333,8 +2333,8 @@
       "{'title': 'Pasal 49 PP Nomor 80 Tahun 2019'}",
       "{'title': 'Pasal 54 PP Nomor 80 Tahun 2019'}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.02,
+    "recall": 1.0
   },
   {
     "user_input": "Dalam regulasi Nomor 27 Tahun 2022, sebutkan isi dari Pasal 27",
@@ -2401,8 +2401,8 @@
       "{'title': 'Pasal 40 UU Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008', 'issue_date': '2024-01-02'}",
       "{'title': 'Pasal 40 UU Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008', 'issue_date': '2016-11-25'}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.5,
+    "recall": 1.0
   },
   {
     "user_input": "Berapa banyak pasal yang terdapat di UU Nomor 27 Tahun 2022?",
@@ -2431,8 +2431,8 @@
       "{'title': 'Peraturan Menteri Komunikasi dan Informatika Nomor 16 Tahun 2022 tentang Kebijakan Umum Penyelenggaraan Audit Teknologi Informasi dan Komunikasi', 'issue_date': neo4j.time.Date(2022, 12, 27)}",
       "{'title': 'Peraturan Menteri Komunikasi dan Informatika Nomor 14 Tahun 2021 tentang Perubahan Ketiga atas Peraturan Menteri Komunikasi dan Informatika Nomor 13 Tahun 2019 tentang Penyelenggaraan Jasa Telekomunikasi', 'issue_date': neo4j.time.Date(2021, 12, 28)}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 1.0,
+    "recall": 1.0
   },
   {
     "user_input": "Pasal nomor berapa saja dari UU Nomor 11 Tahun 2008 yang sudah tidak berlaku setelah diamandemen oleh UU Nomor 19 Tahun 2016?",
@@ -2480,8 +2480,8 @@
     "reference_contexts": [
       "{'relation_type': 'mengubah'}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 1.0,
+    "recall": 1.0
   },
   {
     "user_input": "Sebutkan semua judul peraturan yang mengatur tentang persyaratan teknis untuk telekomunikasi jarak dekat.",
@@ -2558,8 +2558,8 @@
       "{'number': '44'}",
       "{'number': '52'}"
     ],
-    "precision": 0.0,
-    "recall": 0.0
+    "precision": 0.21,
+    "recall": 1.0
   },
   {
     "user_input": "Judul peraturan apa saja yang mengatur tentang penggunaan jaringan internet?",

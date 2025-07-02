@@ -16,7 +16,7 @@ from .tag import (
     TAG_SETTINGS,
     TAG_STARTERS,
     build_tag_chain,
-    save_table_visualization,
-    on_message
+    on_message as tag_on_message,
 )
+
 
